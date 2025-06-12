@@ -1,1 +1,1 @@
-- study of rock
+- study of rocks to determine the order and timing of events in Earth's history, providing a time frame for interpreting sedimentary rocks in terms of dynamically evolving environments
