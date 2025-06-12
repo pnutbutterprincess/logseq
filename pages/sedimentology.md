@@ -1,0 +1,1 @@
+- study of the processes of formation, transport, and deposition of sedimentary material in continental and marine environments, which eventually forms sedimentary rocks
