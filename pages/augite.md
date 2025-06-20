@@ -1,0 +1,5 @@
+- [[pyroxene]] [[mineral]], [[monoclinic]] and prismatic, an [[inosilicate]]
+- Formula: (Ca, Na)(Mg, Fe, Al, Ti)(Si, Al)2O6
+- A common mineral in [[mafic]] and [[ultramafic]] [[igneous]] rocks
+- Color: dark brown, green, or black
+- Occasionally having a shiny appearance, but usually dull luster

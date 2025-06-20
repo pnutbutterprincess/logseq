@@ -1,0 +1,2 @@
+- Polymorphism is the ability for a chemical compound to crystalize into more than one possible [[crystal structure]], or polymorph
+- A set of minerals with the same chemical composition is known as a [[polymorphic group]].

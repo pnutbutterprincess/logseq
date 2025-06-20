@@ -1,0 +1,2 @@
+- [[intrusive]] [[igneous]] rock that makes up large parts of continental crust mountain rock
+- typical granite formation happens as rising magma physically plucks [[clast]]s from the surrounding country rock and absorbs them as [[xenolith]]s within the matrix

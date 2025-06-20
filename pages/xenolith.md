@@ -1,0 +1,1 @@
+- rock or mineral fragments which are found included inside [[intrusive]] igneous rock, having been stripped off from surrounding rock and ingested by the magma

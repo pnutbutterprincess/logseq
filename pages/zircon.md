@@ -1,0 +1,3 @@
+- [[nesosilicate]] mineral
+- ZrSiO4
+- important for age dating, the oldest zircon crystal dated to 4 billion yrs

@@ -1,0 +1,1 @@
+- An [[anionic group]] of minerals having CO3 as an anion

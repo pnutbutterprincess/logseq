@@ -1,0 +1,3 @@
+- [[tectosilicate]] mineral, [[plagioclase]] [[feldspar]]
+- formula: NaAlSi3O8
+-

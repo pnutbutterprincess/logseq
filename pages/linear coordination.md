@@ -1,0 +1,2 @@
+- 2 fold [[crystal coordination]] where radius(cation)/radius(anion) < 0.155
+- ![2025-02-17-01-26-58.jpeg](../assets/2025-02-17-01-26-58.jpeg)

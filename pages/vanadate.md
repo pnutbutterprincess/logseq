@@ -1,0 +1,1 @@
+- An [[anionic group]] of minerals having VO4 as an anion

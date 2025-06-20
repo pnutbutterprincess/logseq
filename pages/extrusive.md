@@ -1,0 +1,4 @@
+- Extrusive [[igneous]] rock is formed at or above the earth's surface, usually through [[volcano]] related activity, either by lava flows or *pyroclastic* activity
+- when the contact is parallel to the often irregular surface or bedding, the contact is *concordant* but if it is at an angle to the bedding, it is *discordant* - the same extrusive contact may be concordant in some areas and discordant in others
+- the surface of an extrusive flow is often irregular, resulting in discordant contact with overlying layers
+- the surface of buried extrusive flows may also be identified by *vescicles* - spherical or cylindrical cavities left by gas bubbles

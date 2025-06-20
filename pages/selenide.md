@@ -1,0 +1,1 @@
+- An [[anionic group]] of minerals having [[selenium]] as an anion

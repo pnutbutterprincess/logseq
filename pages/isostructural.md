@@ -1,0 +1,5 @@
+- Isostructural [[mineral]]s are different minerals whose atoms are arranged in the same [[crystal structure]], giving them the same [[symmetry]], [[cleavage]], and [[crystal habit]]
+- [[halite]] and [[galena]] are isostructural
+- An [[isostructural group]] is a group of isostructural minerals that are also related by having a common anion or anionic group
+- The [[calcite group]] of [[carbonate]]s is an example of an [[isostructural group]]
+- [[Introduction to Mineralogy]] (p81)

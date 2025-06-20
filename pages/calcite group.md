@@ -1,0 +1,6 @@
+- An [[isostructural group]] of [[carbonate]]s, differing only in [[cation]]
+- [[calcite]] CaCO3
+- [[magnesite]] MgCO3
+- [[siderite]] FeCO3
+- [[rhodochrosite]] MnCO3
+- [[smithsonite]] ZnCO3

@@ -1,0 +1,3 @@
+- [[hydroxide]] [[magnesium]] mineral
+- formula: Mg(OH)2
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Brucite-231242.jpg/440px-Brucite-231242.jpg

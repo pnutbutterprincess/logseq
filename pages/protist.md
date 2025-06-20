@@ -1,0 +1,2 @@
+- a eukaryotic organism that is not a plant, animal, or fungus
+- a [paraphyletic](https://en.m.wikipedia.org/wiki/Paraphyly) grouping of all descendants of the last eukaryotic common ancestor, excluding plants, animals, and fungi

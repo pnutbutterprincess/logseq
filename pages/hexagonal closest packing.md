@@ -1,0 +1,2 @@
+- [[closest packing]] formation, considering of repeating layers of atoms - AB
+- ![287150485.png](../assets/287150485_1739781219517_0.png)

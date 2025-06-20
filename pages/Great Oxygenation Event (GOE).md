@@ -1,0 +1,2 @@
+- 2.43-2.33 Ga
+- marks a substantial increase in oxygen in Earth's atmosphere, attributed to photosynthesis by microbial [[cyanobacteria]]

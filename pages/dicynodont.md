@@ -1,0 +1,2 @@
+- late [[Permian]] herbivorous [[therapsid]]s, the first herbivores to have existed worldwide, making up the majority of therapsid diversity into the [[Triassic]]
+- [[Cowen's History of Life, 6th Ed.]] (p147)

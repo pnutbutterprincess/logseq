@@ -1,0 +1,4 @@
+- clade of plants within the [[tracheophyte]]s
+- one of two extant lineages of vascular plants
+- euphyllophytes are made up of two lineages: [[spermatophyte]]s and [[Polypodiophyte]]s
+- evolved during the [[Devonian]] period, and developed into the first tree-like plants ([[Eospermatopteris]]) by the middle Devonian

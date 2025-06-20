@@ -1,0 +1,4 @@
+- A rare variation of the [[igneous]] rock [[peridotite]] from the deep mantle, and may be the deepest derived igneous rock type
+- Forms in igneous structures known as kimberlite pipes, also in [[dike]]s and [[sill]]s
+- Contains forsterite [[olivine]], and is known for being a source of diamonds. Has very low [[silica]] content, and a higher percentage of trace elements than other igneous rocks.
+- Kimberlite usually erupts quickly, containing volatile components such as carbon dioxide

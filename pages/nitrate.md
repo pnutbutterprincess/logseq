@@ -1,0 +1,1 @@
+- An [[anionic group]] of minerals having NO3 as an anion

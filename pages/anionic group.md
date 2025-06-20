@@ -1,0 +1,1 @@
+- Classification of minerals by anion content, which restricts the minerals in the group to similar structure, as well as chemical and physical properties
