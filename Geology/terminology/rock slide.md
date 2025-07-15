@@ -1,0 +1,1 @@
+a type of [[mass wasting]] involving a sudden movement of rock

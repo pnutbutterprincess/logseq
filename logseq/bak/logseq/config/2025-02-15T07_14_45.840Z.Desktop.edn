@@ -420,9 +420,4 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :graph/settings {:excluded-pages? true}
- :ui/show-brackets? false
- :feature/enable-journals? true
- :default-home {}
- :feature/enable-whiteboards? false
- :graph/forcesettings {:link-dist 100
- :charge-strength -800}}
+ :ui/show-brackets? true}

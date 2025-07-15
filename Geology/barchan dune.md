@@ -1,0 +1,1 @@
+A type of sand dune that occurs in [[desert]]s with sparse and and where the wind blows steadily in one direction. These dunes are parabolic, with the ends pointing downwind

@@ -1,0 +1,9 @@
+- [[Types of Clastic Sedimentary Rock]]
+- [[detrital]] [[sandstone]]
+- Clast size: medium to coarse
+- clast composition: quartz and feldspar, containing mostly quartz and at least 25% feldspar, and may contain mica along with lithic clasts
+- Angularity/sphericity
+- sorting
+- sedimentary maturity: immature
+- character of cement: generally quartz, and may have traces of [[calcite]] cement
+- formation: generally formed from weathered [[igneous]] or [[metamorphic]] rock, typically [[granite]], and deposited in an environment where the minerals do not experience significant chemical weathering

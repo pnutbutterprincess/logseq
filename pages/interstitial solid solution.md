@@ -1,0 +1,2 @@
+- A type of [[solid solution]] where charge balance is maintained by filing sites which are usually vacant
+- Am example of interstitial solid solution is [[beryl]], which is formed of rings of tetrahedra. Ions may be substitute into the center of the ring, and are balanced by substitution of Al3+ and Be2+ for Si4+ in the tetrahedral sites.

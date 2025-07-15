@@ -1,0 +1,1 @@
+slow [[mass wasting]] event where rock and regolith does not disintegrate, and slides down a [[failure surface]].

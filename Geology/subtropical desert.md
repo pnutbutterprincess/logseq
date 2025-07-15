@@ -1,0 +1,1 @@
+A type of [[desert]] that forms due to the circulation of air that rises over the equator and then descends to the north and south, losing all moisture and creating zones where very little rain falls, around 30 degrees north and south of the equator. These are deserts such as the Kalahari and Sahara on either side of the equator.

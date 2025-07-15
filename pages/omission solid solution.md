@@ -1,0 +1,2 @@
+- A type of [[solid solution]] where charge balance is maintained when ions of different charge substitute for each other by leaving structural sites unfilled.
+- Found in [[pyrrhotite]], where some Fe2+ ions are substituted with Fe3+ ions and some sites are left vacant to maintain charge balance

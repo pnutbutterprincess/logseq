@@ -1,0 +1,5 @@
+- Chemical composition of minerals varies but falls within limits in what is known as a <i>solid solution</i>.
+- The range of possible compositions is called a solid solution series.
+- This is accomplished by the ability of different cations to substitute for each other within the crystal structure
+- The three types of solid solution are [[substitution solid solution]], [[omission solid solution]], and [[interstitial solid solution]]
+-

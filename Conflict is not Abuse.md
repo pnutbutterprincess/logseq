@@ -1,0 +1,3 @@
+The book *Conflict is not Abuse: Overstating Harm, Community Responsibility, and the Duty of Repair* by Sarah Schulman
+
+In the mindset of community and conflict resolution which is not carceral and does not involve police, Schulman examines conflict and the need to address conflict rather than accuse others of abuse in situations where the relationship is not abusive but instead uncomfortable and resulting from misunderstandings and miscommunication.

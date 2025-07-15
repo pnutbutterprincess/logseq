@@ -1,0 +1,1 @@
+a feature of teeth arrangement where the teeth in the front of the mouth are angled forward, and are used by piscivores to spear fish

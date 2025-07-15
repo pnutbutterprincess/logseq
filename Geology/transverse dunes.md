@@ -1,0 +1,1 @@
+In [[desert]] environments where there is enough same to bury the ground completely, and moderate winds blow in one direction consistently, long parallel dunes form perpendicular to the wind direction

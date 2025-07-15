@@ -1,0 +1,1 @@
+A desert is defined by the aridity of a region, and generally contains no permanent streams with the exception of rivers bringing water from other regions. Rainfall may be low, but amount of rainfall does not determine whether an area is a desert.

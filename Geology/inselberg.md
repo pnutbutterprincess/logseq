@@ -1,0 +1,1 @@
+A term for isolated ranges found in [[desert]]s, where erosion has worn away the edges and left an island of tilted bedrock among the alluvium and sand

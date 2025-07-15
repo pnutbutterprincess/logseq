@@ -1,0 +1,1 @@
+A type of [[desert]] that forms inland of a coastal mountain range. The mountains block moist air, causing increased rainfall on the coastal side, and leaving the remaining dry air for the rain-shadow desert inland

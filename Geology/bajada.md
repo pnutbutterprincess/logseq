@@ -1,0 +1,1 @@
+The term for overlapping alluvial fans, often found in ranges where canyons funnel intermittent water in a [[desert]] environment.

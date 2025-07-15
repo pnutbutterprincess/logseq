@@ -1,0 +1,4 @@
+A former understanding, and one still often held, is that surviving species have done so because of "survival of the fittest" and that those that were less capable were eliminated. An examination of the variety of organisms recorded in the Burgess Shale does not seem to support this idea.
+While scientists have been looking at evolution as a tree, where every organism can be traced to a previous one, a seemingly more accurate one describes something more like a bush with many branches, most of which are only very distantly related, and many of which are cut short by a mass extinction event. The species which survive the extinction events do not seem to do so by any fitness, but sheer luck or some unexpected feature giving them an advantage during extreme and rapidly changing conditions.
+
+- Wonderful Life, Gould, Chapter 1

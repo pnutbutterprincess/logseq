@@ -1,0 +1,2 @@
+- A vegetarian [[Caseid]] known from the [[Permian]] of [[Texas]]. Over 3m long, and having a very wide gut and small head.
+- ![](https://i.pinimg.com/originals/60/57/f8/6057f8f13e936ecc2f991366242d9035.jpg){:height 534, :width 778}

@@ -1,0 +1,1 @@
+Star dunes are found in [[desert]]s similar to [[barchan dune]]s, but are formed when the wind direction shifts, creating overlapping and changing parabolic structures that may look similar to stars

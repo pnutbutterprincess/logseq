@@ -1,0 +1,1 @@
+In the extreme polar regions of the earth, polar [[desert]]s form due to global air circulation bringing dry air towards the poles and the fact that cold air cannot carry much moisture.

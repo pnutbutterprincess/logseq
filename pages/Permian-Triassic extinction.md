@@ -1,0 +1,3 @@
+- A mass extinction event taking place 252 Ma, eliminating 95% of all species on earth at the time, lasting less than a million years
+- Most likely cause was a plume eruption resulting in massive eruptions of flood basalts, in this case in Siberia, forming the Siberian Traps. The area covered is about 5 million square km.
+- The full intensity of eruption lasted about half a million years, but pulses of activity and related effects continued into the early Triassic, as much as 6 million years. The effects recorded in the geologic record are acid rain, ocean anoxia, and ocean acidification.
