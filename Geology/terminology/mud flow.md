@@ -1,1 +1,0 @@
-A type of [[mass wasting]] characterized by a moving [[flow]] of [[mud]]

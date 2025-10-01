@@ -1,1 +1,0 @@
-loose, weathered sediment and topsoil

@@ -1,1 +1,0 @@
-[[creep]] in tundra where the upper layer flows in sheets over the permafrost beneath

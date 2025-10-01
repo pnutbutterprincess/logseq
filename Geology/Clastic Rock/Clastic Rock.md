@@ -1,1 +1,0 @@
-Most common type of [[Sedimentary Rock]], formed of cemented clasts

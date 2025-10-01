@@ -1,1 +1,0 @@
-slow movement of [[Geology/regolith]] on a slope, caused by the thawing/freezing, wetting/drying of the ground or bedrock
