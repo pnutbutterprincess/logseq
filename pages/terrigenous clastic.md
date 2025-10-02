@@ -1,0 +1,2 @@
+- describing sediment or sedimentary rocks which are composed of weathered and eroded fragments of older rocks, often bedrock
+- other terms include detrital and silicoclastic

@@ -1,0 +1,2 @@
+- [[diapsid]] [[sauropsid]] tetrapods, now only crocodiles and birds
+- The first archosauromorph was [[Archosaurus]] from the [[Late Permian]] of [[Russia]]

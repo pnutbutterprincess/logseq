@@ -1,0 +1,2 @@
+- Basal [[diapsid]] adapted for gliding, known from late [[Permian]] fossils in [[Germany]], [[Britain]], and [[Madagascar]], then tropical environments near the shores of [[Pangea]].
+- Small lizard-like diapsid which had jointed, light curving bones projecting outward along its trunk, which would have supported a membrane of skin, and which could have been folded back when not in use.

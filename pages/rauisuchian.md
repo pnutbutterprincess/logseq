@@ -1,0 +1,3 @@
+- A basal [[crurotarsi]]an
+- An example is [[Postosuchus]], a carnivore that resembled a small [[Allosaurus]] or [[Tyrannosaurus]]
+- Disappeared at the end of the [[Triassic]]

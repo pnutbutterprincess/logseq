@@ -1,0 +1,1 @@
+- Late [[Cretaceous]] age lasting 11.5 Ma, from 83.5Ma to 72Ma

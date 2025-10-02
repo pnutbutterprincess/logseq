@@ -1,0 +1,1 @@
+- A [[mass extinction]] event taking place 65.6 Ma
