@@ -1,0 +1,1 @@
+- An [[anionic group]] of minerals having SiO4 as an anion

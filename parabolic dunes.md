@@ -1,0 +1,1 @@
+Parabolic sand dunes form in similar [[desert]] conditions to [[transverse dunes]], but when the wind is able to break through the slope of the dune, a parabolic shape is formed with the ends stretching upwind

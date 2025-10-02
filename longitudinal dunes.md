@@ -1,0 +1,1 @@
+In [[desert]] environments with plentiful sand and strong, steady winds, long parallel dunes form parallel to the wind direction

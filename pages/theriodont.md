@@ -1,0 +1,2 @@
+- Carnivorous [[therapsid]] evolving in the late [[Permian]], having flat snouts and a fearsome appearance
+- The dominant carnivores of the late Permian included the [[gorgonopsian]]s

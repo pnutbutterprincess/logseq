@@ -1,0 +1,4 @@
+- First tree ferns evolving in the [[Carboniferous]] and populating the swamps
+- from the [[tracheophyte]] clade, growing to around 10 meters in height
+- leaf fossils associated with Psaronius are known as [[Pecopteris]], and sometimes [[Sphenopteris]]
+- https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Reconstruction_of_Psaronius.jpg/800px-Reconstruction_of_Psaronius.jpg

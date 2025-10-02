@@ -1,0 +1,3 @@
+- [[mineralogy]] [[crystallography]] concept, generally only applying to [[metal]]s using [[metallic bonding]]
+- [[hexagonal closest packing]] - repeating AB layers of [[atom]]s ![1313164872.png](../assets/1313164872_1739780850765_0.png)
+- [[cubic closest packing]] - repeating ABC layers of atoms ![1764107059.png](../assets/1764107059_1739780809235_0.png)

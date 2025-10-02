@@ -1,0 +1,1 @@
+One of the largest [[tyrannosaur]] species, with a skull that could grow up to 2 meters in length

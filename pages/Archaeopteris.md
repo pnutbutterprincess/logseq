@@ -1,0 +1,2 @@
+- The first true tree with a woody stem, evolved  in the late [[Devonian]]
+- This tree had large root systems and weathered the soil to such a degree that it may have disrupted aquatic ecosystems

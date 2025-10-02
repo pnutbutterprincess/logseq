@@ -1,0 +1,3 @@
+The expected attitude within a "good" family is that of "loyalty," or of being "supportive," regardless of a member's behavior. In this way, by not providing consequences for actions and by avoiding conflict, families can reproduce attitudes of racism, white supremacy, entitlement, and any number of other "isms"
+
+from [[Conflict is not Abuse]], chapter 7: Queer Families, Compensatory Motherhood, and the Political Culture of Escalation

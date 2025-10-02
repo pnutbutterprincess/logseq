@@ -1,0 +1,1 @@
+- relating to the banks of a natural course of water

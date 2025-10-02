@@ -1,0 +1,3 @@
+- Igneous rocks are formed from the cooling of magma
+- Can be either [[intrusive]] or [[extrusive]]
+-

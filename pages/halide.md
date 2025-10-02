@@ -1,0 +1,2 @@
+- [[anionic group]] of [[mineral]]s containing a halide anion of [[chlorine]], [[bromine]], or [[fluorine]]
+-

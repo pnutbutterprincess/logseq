@@ -1,0 +1,1 @@
+Coastal [[desert]]s form at the coast alongside cold ocean currents. The cold currents cool the air, which is prevented from rising by a warmer layer of air and cannot form clouds. Deserts such as the Atacama Desert along the coast of Chile and Peru are examples of coastal deserts.

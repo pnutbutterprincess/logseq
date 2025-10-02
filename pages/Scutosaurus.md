@@ -1,0 +1,2 @@
+- Large herbivorous [[pareiasaur]] from the late [[Permian]]
+- ![Scutosaurus karpinskii](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Scutosaurus_AMNH.jpg/1280px-Scutosaurus_AMNH.jpg)

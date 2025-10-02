@@ -1,0 +1,1 @@
+- a sedimentary rock containing more than 50% CaCO3

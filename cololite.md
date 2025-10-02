@@ -1,0 +1,1 @@
+preserved material in the stomach of a fossilized animal

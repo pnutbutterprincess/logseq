@@ -1,0 +1,2 @@
+- A [[humic substance]] characterized by solubility
+- humic acid is soluble in water in neutral and alkaline pH, but insoluble at acidic pH < 2

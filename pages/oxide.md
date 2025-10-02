@@ -1,0 +1,1 @@
+- [[anionic group]] of minerals containing an [[oxygen]] anion

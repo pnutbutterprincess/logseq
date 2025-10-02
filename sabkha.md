@@ -1,0 +1,1 @@
+The term referring to salty tidal flats where a [[desert]] adjoins the ocean. The water evaporates, leaving behind a crust of salt on the muddy terrain

@@ -1,0 +1,1 @@
+also called caliche, calcrete is a solid material that can form shallow deposits beneath the surface of a [[desert]] where scant rainfall cannot wash away dissolved ions, which precipitate in the ground to form a calcite cement

@@ -1,0 +1,2 @@
+- single-celled organisms, members of [[Rhizaria]]n [[protist]]s
+- typically have shells (called "tests") made of [[calcium carbonate]] or aggraded sediment

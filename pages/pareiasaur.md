@@ -1,0 +1,3 @@
+- herbivorous [[parareptile]] from the  to late [[Permian]], reaching large sizes around 3.5 m long.
+- armored with [[osteoderm]]s, and having strong limbs to support bulky bodies
+- Ex: [[Scutosaurus]]

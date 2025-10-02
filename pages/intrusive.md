@@ -1,0 +1,8 @@
+- Intrusive [[igneous]] rock forms below the surface of the earth
+- *hypabyssal* intrusive rock is formed at very shallow depths
+- *plutonic* intrusive rock is formed very deep beneath the earth's surface (>5km)
+- Contact between intrusive rock and the surrounding <i>country rock</i> can be either *discordant* or *concordant*
+- [[diapir]]ic intrusions are concordant intrusions where foliation is parallel to the contact due to a more plastic deformation of the country rock
+- high temperature difference at the contact border results in a significant decrease in the intrusive grain size, a feature called a *chilled margin*
+- the presence of [[xenolith]]s in intrusive rock records the type of country rock through which the magma traveled
+-

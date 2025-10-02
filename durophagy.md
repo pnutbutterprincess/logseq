@@ -1,0 +1,1 @@
+carnivorous animal eating specialization in very hard food, such as cracking bones or shells, such as hyenas

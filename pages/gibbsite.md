@@ -1,0 +1,5 @@
+- A [[hydroxide]] mineral, and a source of [[aluminum]]
+- Formula: Al(OH)3, γ-Al(OH)3
+- [[crystal system]]: [[monoclinic]], [[triclinic]]
+- [[polymorph]]s: [[bayerite]], [[doyleite]], [[nordstrandite]]
+- ![wikipedia](https://upload.wikimedia.org/wikipedia/commons/7/7d/Gibbsite-fiu14a.jpg)

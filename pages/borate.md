@@ -1,0 +1,1 @@
+- An [[anionic group]] of minerals having BO3 or BO4 as an anion

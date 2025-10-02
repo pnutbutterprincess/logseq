@@ -1,0 +1,1 @@
+- Late [[Cretaceous]] age lasting from 72Ma to 65.6Ma, and ending with the [[End-Cretaceous mass extinction]]

@@ -1,0 +1,1 @@
+Early [[Dinocephalia]]ns, having a carnivorous diet and long skulls up to a meter long 

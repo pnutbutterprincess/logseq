@@ -1,0 +1,1 @@
+a relatively solid ground/soil turns into a slurry that behaves more like a fluid

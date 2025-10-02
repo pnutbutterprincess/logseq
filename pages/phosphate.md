@@ -1,0 +1,1 @@
+- An [[anionic group]] of minerals having PO4 as an anion

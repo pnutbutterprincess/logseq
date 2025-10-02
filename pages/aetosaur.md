@@ -1,0 +1,3 @@
+- [[crurotarsi]]an [[archosaur]]s from the [[Late Triassic]] that specialized in feeding on low or ground vegetation, having triangular skulls and small teeth with a snub nose that was presumably used to dig up roots. They also feature armor plates in rows on their backs and bellies.
+- Such as [[Stagonolepis]], a 3m long example from [[Scotland]]
+- Disappeared at the end of the [[Triassic]]

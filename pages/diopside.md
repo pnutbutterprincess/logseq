@@ -1,0 +1,1 @@
+- A [[pyroxene]] with composition CaMgSi2O6

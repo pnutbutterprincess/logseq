@@ -1,0 +1,4 @@
+- A solid solution type where cations are substituted in structural sites within the crystal structure
+- Ions must: <b>be of similar size</b> (according to the first of [[Pauling's Rules]]) and fit in similar [[crystal coordination]]) - generally if the difference in ion size is less than 15%, substitution is easier, but becomes limited over that
+- and <b>maintain charge neutrality</b> - the charge difference between substituting cations is rarely greater than 1
+-

@@ -1,0 +1,3 @@
+- Aquatic basal [[diapsid]] known from the late [[Permian]] of [[Madagascar]].
+- A lizard-like diapsid, but having an exceptionally long and deep tail that had spines projecting along the top and bottom, making it an excellent swimming aid.
+- Small quartz pebbles have been found in the abdomen, suggesting that it swallowed stones to counter buoyancy in the water.

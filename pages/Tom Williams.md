@@ -1,0 +1,2 @@
+- Associate professor at [[University of Bristol]]
+- Areas of study: [[phylogenetics]], [[molecular evolution]], [[microbial evolution]]

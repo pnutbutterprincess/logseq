@@ -1,0 +1,1 @@
+[[amniote]]s with no holes or [[fenestra]] in the skull 

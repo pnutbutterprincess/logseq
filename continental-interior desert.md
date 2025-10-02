@@ -1,0 +1,1 @@
+This type of [[desert]] is formed when an air mass moving across a large continent loses moisture before reaching the interior of the continent, forming a desert in this arid region. The Gobi Desert in central Asia is the largest example of a continental-interior desert.

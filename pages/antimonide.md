@@ -1,0 +1,2 @@
+- An [[anionic group]] of minerals having [[antimony]] as an anion
+-

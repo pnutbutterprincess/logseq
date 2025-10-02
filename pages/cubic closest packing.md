@@ -1,0 +1,2 @@
+- [[closest packing]] configuration consisting of repeating ABC layers of atoms
+- ![1645959894.gif](../assets/1645959894_1739781887716_0.gif)

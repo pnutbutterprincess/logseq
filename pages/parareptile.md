@@ -1,0 +1,7 @@
+- *Parareptilia* - early clade of [[sauropsid]]s and [[reptile]]s first appearing in the late [[Carboniferous]]
+- Included many innovative diversifications, peaking during the [[Permian]]
+- [[mesosaur]]s - reptiles returning to marine ecosystems
+- [[Bolosauridae]] - family of first bipedal reptiles
+- [[Nycteroleteridae]] - family of first reptiles with advanced hearing systems
+- [[pareiasaur]]s - first herbivorous reptiles
+- [[Procolophonoidea]] - only family of parareptiles to survive the [[Permian-Triassic extinction]]

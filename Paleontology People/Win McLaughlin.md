@@ -1,0 +1,6 @@
+#paleontologist 
+Changing Landscapes in the Tien Shan Mountains of Kyrgyzstan | [Royal Tyrrell Museum Speaker Series (2019)](https://youtu.be/IuoJi8rpPxA)
+
+- studying earthquakes and record in [[Kochkor Basin]]
+- most common fossils [[Rhinocerotidae]]
+- records of other mammals: deer, giraffe, hyena, many of which have never been discovered or classified

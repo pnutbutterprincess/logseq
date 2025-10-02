@@ -1,0 +1,3 @@
+Traumatized people tend to feel comfortable in the same harmful environments where they were raised, and are often uncomfortable with conflict as a means of resolving conflict. The claim of "abuse" can shut down a conversation which could otherwise explore events in more detail in order to really examine the reasons why conflict exists between persons
+
+[[Conflict is not Abuse]], chapter 7: Queer Families, Compensatory Motherhood, and the Political Culture of Escalation

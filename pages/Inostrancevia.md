@@ -1,0 +1,3 @@
+- A formidable [[gorgonopsian]] from the late Permian of [[Russia]].
+- ![Inostrancevia alexandri](https://external-preview.redd.it/KGrpWJ5o5m5Tb9U4nlL8Y17CVMWAe8FdxSkIS68uMUU.jpg?width=1080&crop=smart&auto=webp&s=8139d0ccdf35ce0f25812d49ae592a2f658a0e06)
+-

@@ -1,0 +1,2 @@
+- Large, long-snouted [[crurotarsi]]an  carnivores of the [[Late Triassic]] that lived in tropical climates and used ambush hunting like modern crocodiles
+- Disappeared at the end of the [[Triassic]]

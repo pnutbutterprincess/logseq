@@ -1,0 +1,4 @@
+- A continuum of humic molecules found in natural organic matter
+- present in soils with organic origin
+- formed by the microbial degradation of biota matter, and are resistant to further biodegradation
+-

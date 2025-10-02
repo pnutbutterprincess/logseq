@@ -1,0 +1,2 @@
+- An immense tree that evolved during the [[Carboniferous]], but had a weak structure and dominated swampy landscapes with quick growth and short lifespans.
+- https://www.virtualmuseumofgeology.com/uploads/9/9/0/1/9901881/4710962_orig.jpg

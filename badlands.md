@@ -1,0 +1,1 @@
+Badlands are a bare [[desert]] environment identified by networks of closely spaced drainage paths where periods of intense rainfall quickly eroded soft, homogeneous substrate.

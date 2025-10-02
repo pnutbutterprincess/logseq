@@ -1,0 +1,2 @@
+- An [[anionic group]] of minerals having [[tellurium]] as an anion
+-

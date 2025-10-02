@@ -1,0 +1,1 @@
+[[Paleozoic]]-[[Mesozoic]] basement rock in Kyrgyzstan

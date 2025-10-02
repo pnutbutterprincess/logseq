@@ -1,0 +1,2 @@
+- the process of chemical and physical changes in sediments after deposition, excluding surface weathering and deep metamorphism
+- Includes compaction, cementation, and replacement as diagenetic processes

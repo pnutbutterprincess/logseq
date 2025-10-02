@@ -1,0 +1,1 @@
+A [[sauropod]] having one of the longest known neck lengths, about 17 meters long

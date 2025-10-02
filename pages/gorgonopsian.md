@@ -1,0 +1,4 @@
+- Dominant carnivores in the late Permian, growing to be up to about 3.6m (11.5 ft).
+- Feeding: painted to have feed on large prey due to their long canines and strong jaw.
+- Ex: [[Inostrancevia]]
+- [[Cowen's History of Life, 6th Ed.]]

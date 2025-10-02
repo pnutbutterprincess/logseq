@@ -1,0 +1,4 @@
+- crystal structures
+- [[Pauling's Rules]]
+- [[linear coordination]] #card
+-
