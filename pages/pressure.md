@@ -1,2 +1,2 @@
 - also known as hydrostatic [[stress]]
--
+- every square meter of a submerged object experiences the same force applied perpendicular to that surface
