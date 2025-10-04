@@ -1,2 +1,2 @@
 - a [[stress]] system in structural [[geology]] which influences change of shape
-- to find deviatoric stress: first, the [[mean stress]] is calculated by taking the average of the three principal stresses. The mean stress is subtracted from the three
+- to find deviatoric stress: first, the [[mean stress]] is calculated by taking the average of the three principal stresses. The mean stress is subtracted from the three principal stresses and the remainder is the deviatoric stress
