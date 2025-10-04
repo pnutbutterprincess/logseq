@@ -1,1 +1,2 @@
-- a [[stress]] system in structural [[geology]] which influences
+- a [[stress]] system in structural [[geology]] which influences change of shape
+- to find deviatoric stress: first, the
