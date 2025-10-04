@@ -1,0 +1,1 @@
+- a [[stress]] system in structural [[geology]] which influences
