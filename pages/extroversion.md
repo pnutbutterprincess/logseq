@@ -1,0 +1,1 @@
+- in [[plate tectonics]], the consumption of external oceans
