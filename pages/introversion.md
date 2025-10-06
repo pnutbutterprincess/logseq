@@ -1,0 +1,1 @@
+- in [[plate tectonics]], the movement of plates which were part of a supercontinent in which the internal oceans formed by the
