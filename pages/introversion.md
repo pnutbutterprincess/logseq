@@ -1,2 +1,2 @@
 - in [[plate tectonics]], the movement of plates which were part of a supercontinent in which the internal oceans formed by the breakup are consumed when the continents are reassembled
--
+- [The Tectonics of Introversion and Extroversion (2023)](https://doi.org/10.1144/SP542-2023-54)
