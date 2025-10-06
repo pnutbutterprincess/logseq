@@ -1,1 +1,2 @@
-- in [[plate tectonics]], the consumption of external oceans
+- in [[plate tectonics]], the consumption of external oceans by continents after breakup of a supercontinent, leading to eventual reassembly
+	- [The Tectonics of Introversion and Extroversion (2023); Martin, Erin L. et al.](https://doi.org/10.1144/SP542-2023-54)
