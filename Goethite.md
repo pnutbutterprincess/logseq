@@ -1,0 +1,12 @@
+- A [[diaspore]] group iron [[hydroxide]] mineral found in soil and other low-temperature environments
+- Formula: a-FeO(OH)
+- System: [[orthorhombic]]
+- Class: dipyramidal (mmm) (2/m 2/m 2/m)
+- color: yellowish to reddish to dark brown or black
+- Habit: radial acicular, [[mammillary]], [[botryoidal]], [[stalactitic]], [[massive]], [[encrustation]], [[pseudomorph]]
+- Cleavage: perfect {010}
+- Luster: adamantine to dull
+- Streak: brown, brownish yellow to orange yellow
+- Mohs: 5.0-5.5
+- Historically used as a brown pigment
+- Described in [[Germany]] in [[1806]] and named after Johann Wolfgang von [[Goethe]]

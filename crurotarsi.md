@@ -1,0 +1,2 @@
+- clade of [[archosauria]] containing crocodiles, alligators, and related extinct species
+- crurotarsan archosaurs were the largest carnivore groups in the [[Middle Triassic]] and [[Late Triassic]], groups such as [[rauisuchian]]s and [[ornithosuchian]]s.

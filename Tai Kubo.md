@@ -1,0 +1,2 @@
+- A Japanese [[paleontologist]] who noticed the change between the sprawing tetrapod trackways in the [[Permian]] and the upright trackways in the [[Triassic]], when looking at data on trackways from the Permian and Triassic made by creatures over 1m long (ignoring animals such as lizards, which continued to use sprawling posture). These changes were present for both [[diapsid]]s and [[synapsid]]s, and aligned with physiological changes noted by [[David Carrier]].
+-

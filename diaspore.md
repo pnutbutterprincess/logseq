@@ -1,0 +1,14 @@
+- An aluminum [[hydroxide]] mineral
+- Formula: a-AlO(OH)
+- System: [[orthorhombic]]
+- Class: dipyramidal (mmm) (2/m 2/m 2/m)
+- Color: white, pale grey, colorless, greenish grey, brown, pale yellow, pink, purple
+- Habit: [[platy]], elongated to [[aciculat]], [[stalactitic]], [[foliated]], scaly, disseminated, [[massive]]
+- Twinning: heart shaped twins on {021}
+- Cleavage: perfect {010}, distinct {110}, traces {100}
+- Luster: adamantine, vitreous, pearly on cleavage faces
+- Mohs: 6.5-7.0
+- Optical properties: biaxial(+), birefringence (.048), strong pleochroism
+- An alteration product of [[corundum]] or [[emery]], and is found in [[limestone]].
+- First described in [[1801]] in [[Russia]] and named for the Greek word meaning "to scatter" because it decrepitates when heated.
+-

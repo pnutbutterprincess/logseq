@@ -1,0 +1,2 @@
+- Linked respiration, locomotion, and physiology with the rise of dinosaurs in [[1987]].
+- Sprawling vertebrates cannot run and breathe at the same time due to the distortion of the chest caused by its gait. This has come to be known as Carrier's Constraint. Upright vertebrates do not have the same constant and may breathe between steps.

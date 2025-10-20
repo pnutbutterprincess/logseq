@@ -1,0 +1,2 @@
+- Large [[Late Triassic]] dinosaur from [[Argentina]]
+- Herbivorous, and could switch between being bipedal and quadrupedal

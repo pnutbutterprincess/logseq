@@ -1,0 +1,3 @@
+- a [[postcrystallization]] process in minerals related to order-disorder [[polymorph]]ism in which cations may occupy different structural sites
+- In [[K-feldspar]], Al3+ and Si4+ are randomly distributed at high temperatures, but at lower temperatures the Al3+ is preferentially located into 1 or 2 of the 4 available tetrahedral sites. This results in changes in unit cell dimension and in some cases symmetry.
+- Also often found in [[pyroxene]]s and [[amphibole]]s

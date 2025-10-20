@@ -1,0 +1,2 @@
+- [[archosauromorph]] from the end of the early [[Triassic]], closely related in ancestry to [[archosauria]]
+- Fast carnivore with a skull up to a meter long, and a total length up to 5 meters, from [[South Africa]]

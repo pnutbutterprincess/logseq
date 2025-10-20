@@ -1,0 +1,4 @@
+- Higher temperature crystal structures are more accommodating of different sizes of cations than lower temperature structures
+- In exsolution, ions must be able to travel through the crystal structure, therefore the process depends on temperature and time, so rapid cooling would not allow for development of exsolution.
+- [[alkali feldspar]]s are a good example of exsolution. Na+ and K+ may easily substitute at high temperatures, but less K+ can substitute for Na+ at lower temperatures in [[albite]], and less Na+ can substitute for K+ in the other end member [[K-feldspar]].
+-

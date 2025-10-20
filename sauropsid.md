@@ -1,0 +1,1 @@
+- <b>Sauropsida</b> is a clade of [[amniote]]s that represents broadly the class of [[Reptilia]], and is a sister taxon to [[Synapsida]]

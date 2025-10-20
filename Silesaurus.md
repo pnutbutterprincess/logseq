@@ -1,0 +1,1 @@
+- A [[dinosauromorph]] silesaurid from the [[Late Triassic]] of [[Poland]]. Missing key dinosaur skull features, it looked much like a dinosaur, being a small herbivore with a beaked mouth.
