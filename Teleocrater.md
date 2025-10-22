@@ -1,0 +1,1 @@
+- A 1.5m long [[Avemetatarsalia]]n (clade [[aphanosauria]]) quadruped from [[Tanzania]], showing dinosaur-like characteristics in the vertebrae and back legs.

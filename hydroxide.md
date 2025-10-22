@@ -1,0 +1,8 @@
+- [[anionic group]] of [[mineral]]s containing (OH)-
+- [[brucite]]
+- [[gibbsite]]
+- [[Manganite]]
+- [[Romanechite]]
+- [[diaspore]]
+- [[Goethite]]
+- [[Bauxite]]

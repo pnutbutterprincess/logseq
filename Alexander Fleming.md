@@ -1,0 +1,2 @@
+- Scottish microbiologist who discovered penicillin, the first antibiotic in [[1928]]
+- #scientist #microbiologist

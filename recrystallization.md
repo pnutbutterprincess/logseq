@@ -1,0 +1,2 @@
+- A [[postcrystallization]] process that results in changes to size and shape of mineral grains, accomplished through smoothing surfaces and increasing grain size in order to reduce surface area
+- Requires temperature conditions of magmatic environments or metamorphism

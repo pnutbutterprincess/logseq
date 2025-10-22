@@ -1,0 +1,10 @@
+- A [[feldspathoid]] mineral, also a member of the [[zeolite]] group
+- Formula: KAlSi2O6
+- System: [[tetragonal]]
+- Class: dipyrimidal (4/m)
+- Color: white to grey
+- Habit: commonly [[euhedral]], rarely [[granular]]
+- Luster: vitreous/subvitreous
+- Streak: white
+- [[twinning]] commonly appears on {110} and {101} when the mineral is cooled
+- Commonly found crystallized in volcanic rocks at a high temperature. Crystallizes in a cubic form, and transforms to tetragonal below 700-600C.
