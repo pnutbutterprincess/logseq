@@ -1,1 +1,1 @@
-[[Triassic]] dinosaur - one of the earliest known dinosaurs
+- [[Late Triassic]] dinosaur - one of the earliest known [[saurischia]]n dinosaurs
