@@ -1,1 +1,2 @@
-- A
+- A stratigraphic stage of the [[Late Triassic]] ranging from 237 to 227 Ma
+-
