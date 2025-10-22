@@ -1,2 +1,3 @@
 - A stratigraphic stage of the [[Late Triassic]] ranging from 237 to 227 Ma
--
+- [[rhynchosauria]]ns went extinct during this time
+- punctuated by mass extinction events resulting from the eruption of
