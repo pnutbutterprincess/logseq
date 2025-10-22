@@ -1,1 +1,1 @@
-- [[Late Triassic]] dinosaur - one of the earliest known [[saurischia]]n dinosaurs
+- [[Late Triassic]] dinosaur - one of the earliest known [[saurischia]]n dinosaurs, first discovered in [[1958]] in [[South America]]. All specimens have been found in
