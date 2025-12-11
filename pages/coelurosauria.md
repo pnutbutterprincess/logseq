@@ -1,4 +1,4 @@
 - meaning "hollow-tailed lizard"
 - clade or subgroup of [[theropod]] dinosaurs containing those more closely related to birds than to [[carnosaur]]s.
-- Includes [[compsognathid]]s, [[tyrannosauroid]]s, [[ornithomimosaur]]s, [[maniraptoran]]s, and [[megaraptoran]]s (most recently).
+- Includes [[compsognathid]]s, [[tyrannosauroid]]s, [[ornithomimosaur]]s, [[maniraptora]]ns, and [[megaraptoran]]s (most recently).
 -
