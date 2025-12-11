@@ -1,2 +1,2 @@
-- a clade or superfamily containing
+- a clade or superfamily of [[coelursauria]]n [[theropod]]s including [[Tyrannosaur
 - [[proceratosaurus]] and [[kileskus]]
