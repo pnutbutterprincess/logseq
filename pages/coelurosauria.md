@@ -1,2 +1,3 @@
 - meaning "hollow-tailed lizard"
-- clade or subgroup of [[theropod]] dinosaurs containing those more closely related to birds than to [[carnosaur]]s
+- clade or subgroup of [[theropod]] dinosaurs containing those more closely related to birds than to [[carnosaur]]s.
+- Includes [[compsognathid]]s, [[tyrannosauroid]]s,
