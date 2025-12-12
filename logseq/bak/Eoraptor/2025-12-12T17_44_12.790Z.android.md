@@ -1,0 +1,1 @@
+- A 1m long bipedal carnivore from the [[Late Triassic]] of [[Argentina]], and one of the earliest known dinosaurs
