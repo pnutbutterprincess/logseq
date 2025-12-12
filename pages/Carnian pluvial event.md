@@ -1,3 +1,3 @@
 - About 232 Ma during the [[Carnian]]
 - A major climatic change bringing on increased rainfall on land
--
+- Thought to be caused by increased volcanic activity
