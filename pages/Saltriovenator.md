@@ -1,7 +1,7 @@
 - <i>Saltriovenator zannelai</i>
-- First known ceratosaur, from the [[Sinemurian]] of the [[Early Jurassic]].
+- First known ceratosaur, from the [[Sinemurian]] of the [[Early Jurassic]]
 - A full skeleton has yet to be discovered
 - #partial
-- the skeleton was found in the [[Saltrio Formation]] in northern [[Italy]] after an explosion blew apart the chalk containing the bones - 132 bones were recovered
+- the skeleton was found in the [[Saltrio Formation]] in northern [[Italy]] after an explosion blew apart the chalk containing the bones - 132 bones were recovered - named by paleontologists
 -
 -
