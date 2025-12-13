@@ -1,0 +1,1 @@
+- [[theropod]] dinosaur in the clade [[tetanura]]a, one of the first dinosaurs ever named by
