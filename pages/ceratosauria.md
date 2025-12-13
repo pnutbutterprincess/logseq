@@ -1,1 +1,1 @@
-- The first major branch of [[theropod]]s, beginning in the [[Late Triassic]] with
+- The first major branch of [[theropod]]s, beginning in the [[Early Jurassic]] with
