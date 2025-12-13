@@ -1,2 +1,3 @@
 - Early [[theropod]]s formally classified with [[coelurosaur]]s due to having superficial similarity
+- Existed from the [[Late Triassic]] to the [[Early Jurassic]]
 -
