@@ -1,0 +1,2 @@
+- Clade of [[dinosaurs]] including most [[theropod]]s, as well as modern birds
+- name meaning <i>stiff tails</i>
