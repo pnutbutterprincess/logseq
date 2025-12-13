@@ -1,1 +1,2 @@
-- First known ceratosaur, from the
+- First known ceratosaur, from the [[Sinemurian]] of the [[Early Jurassic]].
+-
