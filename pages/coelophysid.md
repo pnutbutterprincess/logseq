@@ -1,1 +1,2 @@
-- Early [[theropod]]s formally classified
+- Early [[theropod]]s formally classified with [[coelurosaur]]s due to having superficial similarity
+-
