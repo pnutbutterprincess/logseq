@@ -1,3 +1,3 @@
-- Saltriovenator
+- <i>Saltriovenator zannelai</i>
 - First known ceratosaur, from the [[Sinemurian]] of the [[Early Jurassic]].
 -
