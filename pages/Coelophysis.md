@@ -1,3 +1,3 @@
-- Early [[coelophysid]] [[theropod]] from the [[Late Triassic]] of [[North America]]
+- Early [[coelophysoid]] [[theropod]] from the [[Late Triassic]] of [[North America]]
 -
 -
