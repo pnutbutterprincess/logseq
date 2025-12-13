@@ -1,2 +1,2 @@
-- Early [[theropod]] from the [[Late Triassic]] of [[North America]], a member of [[ceratosauria]]
+- Early  [[theropod]] from the [[Late Triassic]] of [[North America]]
 -
