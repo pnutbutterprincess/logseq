@@ -1,3 +1,3 @@
-- Genus of early [[coelophysoid]] [[theropod]]s from the [[Late Triassic]] of [[North America]]
+- Genus of early [[coelophysoid]] [[theropod]]s from the [[Late Triassic]] of [[North America]], from the
 - <i>Coelophysis bauri</i>
 - Named by [[Edward Cope]] in [[1887]]
