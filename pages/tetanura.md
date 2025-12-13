@@ -1,2 +1,5 @@
 - Clade of [[dinosaurs]] including most [[theropod]]s, as well as modern birds
 - tetanurae name meaning <i>stiff tails</i>
+- Including
+	- [[Spinosaurid]]s
+	-
