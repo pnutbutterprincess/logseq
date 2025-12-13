@@ -1,2 +1,2 @@
-- [[Late Triassic]] carnivorous dinosaur - one of the earliest known [[saurischia]]n dinosaurs, first discovered in [[1958]] in [[Argentina]], [[South America]] and named by paleontologist [[Osvaldo Reig]].
+- [[Late Triassic]] carnivorous dinosaur - one of the earliest known [[saurischia]]n [[theropod]] dinosaurs, first discovered in [[1958]] in [[Argentina]], [[South America]] and named by paleontologist [[Osvaldo Reig]].
 - All specimens have to date been found in the [[Ischigualasto Formation]].

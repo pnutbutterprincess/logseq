@@ -1,1 +1,2 @@
-extremely diverse bipedal dinosaurs
+- extremely diverse bipedal dinosaurs, the earliest known [[dinosaur]]s
+-

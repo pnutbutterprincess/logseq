@@ -1,2 +1,3 @@
-- A 1.2-1.3m long bipedal carnivore from the [[Late Triassic]] of [[Argentina]], and is one of the earliest known dinosaurs, classified as a basal [[sauropodomorph]]. One species has been named, Eoraptor lunensis, by paleontologist [[Ricardo Martínez]] in [[1991]].
+- A 1.2-1.3m long bipedal carnivore from the [[Late Triassic]] of [[Argentina]], and is one of the earliest known dinosaurs, classified as a basal [[dinosaur]], an early [[theropod]], or an early [[sauropodomorph]]. One species has been named, Eoraptor lunensis, by paleontologist [[Ricardo Martínez]] in [[1991]].
 - Eoraptor was discovered in siltstone, in the Cancha de Bochas member of the [[Ischigualasto Formation]]
+-
