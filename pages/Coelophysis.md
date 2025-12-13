@@ -1,0 +1,1 @@
+- Early [[theropod]] from the [[Late Triassic]] of [[North America]]
