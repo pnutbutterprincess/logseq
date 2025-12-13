@@ -1,1 +1,1 @@
-- Formation in [[Italy]] and [[Switzerland]], developed during the [[Sinemurian]]
+- Formation in [[Italy]] and [[Switzerland]], developed during the [[Sinemurian]] of the lower [[Jurassic]]
