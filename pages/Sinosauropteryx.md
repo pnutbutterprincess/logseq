@@ -15,6 +15,6 @@
 	- narrow skull
 		- 15% longer than thigh bones
 		- [[heterodont]] teeth similar to [[Compsognathus]]
-			- [[premaxilla]] - slender and lacking serration
+			- [[premaxilla]]e - slender and lacking serration
 			- maxilla -
 -
