@@ -8,7 +8,7 @@
 		- 64 vertebrae
 	- short arms
 		- <i>humerus</i> and <i>radius</i> 30% the length of the leg (thigh bone and shin)
-		- hands
+		- hands 84-91% the length of the rest of the arm ( <i>humerus</i> and <i>radius</i>)
 		- large first finger (thumb)
 	- narrow skull
 		- 15% longer than thigh bones
