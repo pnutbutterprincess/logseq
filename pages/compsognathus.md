@@ -8,6 +8,7 @@
 	- long legs
 	- long tails
 	- fore limbs smaller than the legs
+		- <i>humerus</i> and <i>radius</i> about 40% the length of the leg (thigh bone and shin)
 		- two large clawed digits
 		- a third, smaller, non-clawed digit
 	- delicate, narrow head

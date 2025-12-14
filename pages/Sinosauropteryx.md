@@ -6,7 +6,7 @@
 - Description
 	- very long tail
 	- short arms
-		- (<i>humerus</i> and <i>radius</i> 30% the length of the leg(<i>
+		- <i>humerus</i> and <i>radius</i> 30% the length of the leg (thigh bone and shin)
 		- large first finger (thumb)
 	- narrow skull
 		- 15% longer than thigh bones
