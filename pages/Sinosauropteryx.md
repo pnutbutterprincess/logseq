@@ -17,4 +17,5 @@
 		- [[heterodont]] teeth similar to [[Compsognathus]]
 			- [[premaxilla]]e - teeth slender and lacking serration
 			- maxilla - teeth serrated and laterally compressed
+		-
 -
