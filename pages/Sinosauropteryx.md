@@ -6,5 +6,5 @@
 - Description
 	- very long tail
 	- short arms
-		-
+		- large first finger (thumb)
 	-
