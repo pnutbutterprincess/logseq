@@ -20,6 +20,8 @@
 		- [[integumentary]] feathers
 			- back of the skull
 			- arms
-			-
+			- neck
+			- back
+			- top and bottom of the
 -
 -
