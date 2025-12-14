@@ -14,5 +14,6 @@
 		- no mandibular fenestra
 		- small, pointed teeth
 			- [[premaxilla]] - 3 teeth (Ger. S.), 4 teeth (Fr. S.)
-			- maxilla - 14-15 teeth (Ger. S.),
+			- maxilla - 14-15 teeth (Ger. S.), 17-18 (Fr. S.)
+			-
 -
