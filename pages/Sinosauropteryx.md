@@ -14,4 +14,5 @@
 		- first and second digit about the same length
 	- narrow skull
 		- 15% longer than thigh bones
-		-
+		- [[heterodont]] teeth similar to [[Compsognathus]]
+-
