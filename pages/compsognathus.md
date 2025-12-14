@@ -17,5 +17,5 @@
 			- maxilla - 14-15 teeth (Ger. S.), 17-18 (Fr. S.)
 			- lower jaw - 18 teeth (Ger. S.), 21 teeth (Fr. S.)
 			- tooth crowns curving back at about 2/3 of their height, with the mid section being straight, and having expanded bases
-			- frontmost teeth on upper and lower jaws were unserrated, with back teeth being
+			- frontmost teeth on upper and lower jaws were unserrated, with back teeth having fine serrations
 -
