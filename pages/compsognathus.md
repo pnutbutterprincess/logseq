@@ -6,5 +6,6 @@
 	- long legs
 	- long tails
 	- fore limbs smaller than the legs
-		-
+		- two large clawed digits
+		- a third, smaller, non-clawed
 -
