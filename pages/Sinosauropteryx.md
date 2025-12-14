@@ -23,6 +23,6 @@
 			- neck
 			- back
 			- top and bottom of the tail
-			-
+			- sides of the body
 -
 -
