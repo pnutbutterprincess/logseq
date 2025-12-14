@@ -2,4 +2,7 @@
 - tetanurae name meaning <i>stiff tails</i>
 - Including
 	- [[Spinosaurid]]s
-	-
+	- [[avetheropoda]]
+		- [[coelurosaur]]ia
+			- [[tyrannosaur]]s
+		- [[carnosaur]]ia
