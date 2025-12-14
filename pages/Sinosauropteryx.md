@@ -14,3 +14,4 @@
 		- first and second digit about the same length
 	- narrow skull
 		- 15% longer than thigh bones
+		-
