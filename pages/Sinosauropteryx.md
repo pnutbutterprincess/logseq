@@ -10,7 +10,8 @@
 		- <i>humerus</i> and <i>radius</i> 30% the length of the leg (thigh bone and shin)
 		- hands 84-91% the length of the rest of the arm ( <i>humerus</i> and <i>radius</i>)
 		- hands half the length of the foot
-		- large first finger (thumb) having a
+		- large first finger (thumb) having a claw and being thicker than both arm bones
 		- first and second digit about the same length
+		-
 	- narrow skull
 		- 15% longer than thigh bones
