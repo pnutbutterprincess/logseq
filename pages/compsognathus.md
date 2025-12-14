@@ -10,6 +10,6 @@
 		- a third, smaller, non-clawed digit
 	- delicate, narrow head
 		- long, tapered snout
-		- five pairs of [[fenestra]]e, including orbit
-		- no
+		- five pairs of [[fenestra]]e, including orbit (largest opening)
+		- no mandibular fenestra
 -
