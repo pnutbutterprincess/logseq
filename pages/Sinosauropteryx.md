@@ -7,4 +7,5 @@
 	- very long tail
 	- short arms
 		- large first finger (thumb)
-	-
+	- narrow skull
+		- 15% longer than thigh bones

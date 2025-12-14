@@ -1,4 +1,5 @@
 - <i>Compsognathus longpipes</i>
+  title:: Compsognathus
 - Small [[compsognathid]] [[theropod]]
 - sizes around 0.7 to 1.4m, about the size of a chicken
 - Described in [[1859]] by [[Johann Wagner]]
@@ -10,6 +11,7 @@
 		- two large clawed digits
 		- a third, smaller, non-clawed digit
 	- delicate, narrow head
+		- skull relatively the same length as thigh bones
 		- long, tapered snout
 		- five pairs of [[fenestra]]e, including orbit (largest opening)
 		- no mandibular fenestra
