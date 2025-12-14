@@ -9,5 +9,5 @@
 		- two large clawed digits
 		- a third, smaller, non-clawed digit
 	- delicate head
-		- long,
+		- long, tapered snout
 -
