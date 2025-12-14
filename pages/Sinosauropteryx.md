@@ -1,4 +1,5 @@
 - Small [[compsognathid]] [[theropod]] from the [[Early Cretaceous]]
 - <i>Sinosauropteryx prima</i>
 	- Greek, <i>Chinese reptilian wing</i>
-- Named "prima" due to being the first
+- Named "prima" due to being the first non-avian dinosaur discovered with feathers
+- Described in [[1991]]
