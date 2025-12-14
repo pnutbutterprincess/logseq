@@ -1,3 +1,3 @@
 - <i>Compsognathus longpipes</i>
 - Described in [[1859]] by [[Johann Wagner]]
-- Two complete skeletons have been found, one in [[Germany]] and the other in [[France]]
+- Two almost complete skeletons have been found, one in [[Germany]] and the other in [[France]]
