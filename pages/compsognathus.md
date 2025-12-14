@@ -1,4 +1,5 @@
 - <i>Compsognathus longpipes</i>
+-
 - Described in [[1859]] by [[Johann Wagner]]
-- Two almost complete skeletons have been found, one in [[Germany]] and the other in [[France]] dated to the lower [[Tithonian]]
+- Two almost complete skeletons have been found, one in [[Germany]] and the other in [[France]] dated to the lower [[Tithonian]] in the [[Late Jurassic]]
 -
