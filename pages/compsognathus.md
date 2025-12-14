@@ -12,5 +12,5 @@
 		- long, tapered snout
 		- five pairs of [[fenestra]]e, including orbit (largest opening)
 		- no mandibular fenestra
-		- small,
+		- small, pointed teeth
 -
