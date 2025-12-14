@@ -1,2 +1,3 @@
 - Small [[compsognathid]] [[theropod]] from the [[Early Cretaceous]]
--
+- <i>Sinosauropteryx prima</i>
+	- Greek,
