@@ -13,5 +13,5 @@
 		- five pairs of [[fenestra]]e, including orbit (largest opening)
 		- no mandibular fenestra
 		- small, pointed teeth
-			- [Ger. S.]
+			- [Ger. S.] 3 teeth in each
 -
