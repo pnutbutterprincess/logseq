@@ -1,3 +1,4 @@
 - Small [[compsognathid]] [[theropod]] from the [[Early Cretaceous]]
 - <i>Sinosauropteryx prima</i>
-	- Greek,
+	- Greek, <i>Chinese reptilian wing</i>
+-
