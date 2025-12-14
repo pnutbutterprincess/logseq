@@ -8,6 +8,7 @@
 	- fore limbs smaller than the legs
 		- two large clawed digits
 		- a third, smaller, non-clawed digit
-	- delicate head
+	- delicate, narrow head
 		- long, tapered snout
+		- five [[fenestra]]
 -
