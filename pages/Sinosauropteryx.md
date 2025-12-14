@@ -12,6 +12,5 @@
 		- hands half the length of the foot
 		- large first finger (thumb) having a claw and being longer and thicker than both arm bones
 		- first and second digit about the same length
-		-
 	- narrow skull
 		- 15% longer than thigh bones
