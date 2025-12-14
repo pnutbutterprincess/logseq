@@ -2,4 +2,4 @@
 - <i>Sinosauropteryx prima</i>
 	- Greek, <i>Chinese reptilian wing</i>
 - Named "prima" due to being the first non-avian dinosaur discovered with feathers
-- Described in [[1996]] by
+- Described in [[1996]] by [[Qiang Ji]] and
