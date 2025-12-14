@@ -16,5 +16,5 @@
 			- [[premaxilla]] - 3 teeth (Ger. S.), 4 teeth (Fr. S.)
 			- maxilla - 14-15 teeth (Ger. S.), 17-18 (Fr. S.)
 			- lower jaw - 18 teeth (Ger. S.), 21 teeth (Fr. S.)
-			- tooth crowns curving back at about 2/3 of their height, with the mid section being
+			- tooth crowns curving back at about 2/3 of their height, with the mid section being straight
 -
