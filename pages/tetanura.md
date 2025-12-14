@@ -4,7 +4,7 @@
 	- [[Spinosaurid]]s
 	- [[avetheropoda]]
 		- [[coelurosaur]]ia
-			- [[tyrannosaur]]oid
+			- [[tyrannosaur]]oidea
 			- [[ornithomimosaur]]ia
 			-
 		- [[carnosaur]]ia
