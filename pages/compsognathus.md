@@ -1,7 +1,7 @@
 - <i>Compsognathus longpipes</i>
 - sizes around 0.7 to 1.4m, about the size of a chicken
 - Described in [[1859]] by [[Johann Wagner]]
-- Two almost complete skeletons have been found, one in [[Germany]] and the other in [[France]] dated to the lower [[Tithonian]] in the [[Late Jurassic]]
+- Two almost complete skeletons have been found, one in [[Germany]], thought to possibly be a juvenile for to smaller size, and the other in [[France]] dated to the lower [[Tithonian]] in the [[Late Jurassic]]
 - Description
 	- long legs
 	- long tails
