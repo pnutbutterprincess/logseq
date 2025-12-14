@@ -5,6 +5,7 @@
 - Described in [[1996]] by [[Qiang Ji]] and [[Shu'an Ji]], and discovered in the [[Yixian Formation]] in northeastern [[China]]
 - Description
 	- very long tail
+		- 64 vertebrae
 	- short arms
 		- <i>humerus</i> and <i>radius</i> 30% the length of the leg (thigh bone and shin)
 		- large first finger (thumb)
