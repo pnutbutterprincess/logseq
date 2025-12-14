@@ -10,5 +10,6 @@
 		- a third, smaller, non-clawed digit
 	- delicate, narrow head
 		- long, tapered snout
-		- five [[fenestra]]
+		- five pairs of [[fenestra]]e, including orbit
+		- no
 -
