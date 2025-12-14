@@ -6,7 +6,7 @@
 - Description
 	- very long tail
 	- short arms
-		- (30% the
+		- (<i>humerus30% the
 		- large first finger (thumb)
 	- narrow skull
 		- 15% longer than thigh bones
