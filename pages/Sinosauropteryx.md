@@ -22,6 +22,7 @@
 			- arms
 			- neck
 			- back
-			- top and bottom of the
+			- top and bottom of the tail
+			-
 -
 -
