@@ -18,5 +18,8 @@
 			- [[premaxilla]]e - teeth slender and lacking serration
 			- maxilla - teeth serrated and laterally compressed
 		- [[integumentary]] feathers
+			- back of the skull
+			- arms
+			-
 -
 -
