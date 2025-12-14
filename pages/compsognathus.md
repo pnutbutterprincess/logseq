@@ -1,2 +1,2 @@
 - <i>Compsognathus longpipes</i>
-- Described in
+- Described in [[1859]]
