@@ -2,3 +2,5 @@
 	- <i>elegant/refined/dainty jaw</i>
 - Family of [[theropod]] carnivores from the [[Jurassic]] and [[Cretaceous]]
 - [[compsognathus]]
+- [[Sinosauropteryx]]
+-

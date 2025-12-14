@@ -5,4 +5,6 @@
 - Described in [[1996]] by [[Qiang Ji]] and [[Shu'an Ji]], and discovered in the [[Yixian Formation]] in northeastern [[China]]
 - Description
 	- very long tail
+	- short arms
+		-
 	-
