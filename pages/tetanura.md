@@ -7,5 +7,5 @@
 			- [[tyrannosaur]]oidea
 			- [[ornithomimosaur]]ia
 			- [[megaraptor]]a
-			- [[compsognathid]]
+			- [[compsognathid]]ae
 		- [[carnosaur]]ia
