@@ -1,4 +1,6 @@
 - <i>hand hunters</i>
 - [[coelurosaur]] [[theropod]]s including birds and non-avian dinosaurs more closely related to birds than Ornithomimids
 - First appeared in the [[Middle Jurassic]] and survive today as modern birds
--
+- Description
+	- long arms
+		- three-fingered hands
