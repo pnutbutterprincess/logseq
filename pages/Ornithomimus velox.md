@@ -1,1 +1,1 @@
-- Named in [[1890]] by [[Othniel Charles Marsh]] from
+- Named in [[1890]] by [[Othniel Charles Marsh]] from a foot and partial hand recovered in
