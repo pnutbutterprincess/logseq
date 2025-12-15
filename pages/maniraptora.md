@@ -4,4 +4,4 @@
 - Description
 	- long arms
 		- three-fingered hands
-		- semi-lunate (half moon shaped) bone
+		- semi-lunate (half-moon shaped) bone in the wrist (carpus)
