@@ -1,2 +1,2 @@
 - <i>hand hunters</i>
-- [[coelurosaur]] [[theropod]]s
+- [[coelurosaur]] [[theropod]]s including
