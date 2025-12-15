@@ -11,8 +11,8 @@
 	- large brains
 	- large eyes
 	- hand bones appear sloth-like, leading to speculation that they used them to pull down tree branches for feeding
-- Differentiating features:
-	-
+- Differentiating features from other
+	- shorter torsos
 - #unclassified
 	- <i>Ornithomimus sedens</i>
 		- first named by [[Othniel Charles Marsh]] in [[1892]] from a partial skeleton from the [[Lance Formation]] in [[Wyoming]]
