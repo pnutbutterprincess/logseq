@@ -14,7 +14,8 @@
 - Differentiating features from other ornithomimids
 	- shorter torsos
 	- long slender forearms
-	- very slender, straight hand and foot
+	- very slender, straight hand and foot claws
+	-
 - #unclassified
 	- <i>Ornithomimus sedens</i>
 		- first named by [[Othniel Charles Marsh]] in [[1892]] from a partial skeleton from the [[Lance Formation]] in [[Wyoming]]
