@@ -1,2 +1,2 @@
 - Named in [[1890]] by [[Othniel Charles Marsh]] from a foot and partial hand recovered in the [[Denver Formation]] of [[Colorado]]
-- smaller of the [[Ornithomimus]] species,
+- smaller of the [[Ornithomimus]] species
