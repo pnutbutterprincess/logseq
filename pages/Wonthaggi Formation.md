@@ -1,2 +1,2 @@
 - [[Early Cretaceous]] formation in [[Australia]]
-- [[Valanginian]] to
+- [[Valanginian]] to [[Barremian]] siliciclastic deposits in an extensional rift basin on the far southeast tip of Australia
