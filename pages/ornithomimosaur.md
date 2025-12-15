@@ -1,3 +1,3 @@
 - <i>ornithomimosauria</i>
 	- bird-mimic lizard
-- [[theropod]] [[dinosaur]]s resembling the modern ostrich
+- [[theropod]] [[dinosaur]]s from the [[Cretaceous]] resembling the modern ostrich
