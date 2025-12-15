@@ -3,4 +3,5 @@
 - Also reported from the [[Wonthaggi Formation]] of [[Australia]]
 - Description
 	- small skulls with large eyes and toothless beaks
-	- long, slender arms
+	- long, slender arms with claws
+	-
