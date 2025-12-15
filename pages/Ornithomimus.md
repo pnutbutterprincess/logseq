@@ -7,7 +7,7 @@
 	- feet with three weight-bearing toes
 	- long, slender arms
 	- long necks
-	- birdlike, elongated skulls with toothless
+	- birdlike, elongated skulls with toothless beaks
 - #unclassified
 	- <i>Ornithomimus sedens</i>
 		- first named by [[Othniel Charles Marsh]] in [[1892]] from a partial skeleton from the [[Lance Formation]] in [[Wyoming]]
