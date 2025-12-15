@@ -4,3 +4,4 @@
 - Description
 	- long arms
 		- three-fingered hands
+		- semi-lunate (half moon shaped) bone
