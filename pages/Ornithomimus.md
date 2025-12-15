@@ -5,6 +5,7 @@
 - Fast, bipedal feathered dinosaur with a small head and toothless beak
 - Description - characterized by
 	- feet with three weight-bearing toes
+	- long, slender arms
 	-
 - #unclassified
 	- <i>Ornithomimus sedens</i>
