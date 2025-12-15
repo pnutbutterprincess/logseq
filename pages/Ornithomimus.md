@@ -1,1 +1,1 @@
-- [[theropod]] [[ornithomimid]] [[dinosaur]] from the
+- [[theropod]] [[ornithomimid]] [[dinosaur]] from the [[Campanian]] and [[Maastrichtian]]
