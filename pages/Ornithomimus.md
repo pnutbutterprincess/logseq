@@ -1,2 +1,4 @@
 - [[theropod]] [[ornithomimid]] [[dinosaur]] from the [[Campanian]] and [[Maastrichtian]] [[Late Cretaceous]] of Western [[North America]]
--
+- Two species:
+	- <i>Ornithomimus velox</i>
+	- <i>Ornithomimus
