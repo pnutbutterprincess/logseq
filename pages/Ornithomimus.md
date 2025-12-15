@@ -7,5 +7,5 @@
 	- <i>Ornithomimus sedens</i>
 		- first named by [[Othniel Charles Marsh]] in [[1892]] from a partial skeleton from the [[Lance Formation]] in [[Wyoming]]
 		- In [[1972]] [[Dale Russell]] couldn't determine if it was an [[ornithomimid]], [[Dromiceiomimus]], or [[Struthiomimus]], deciding on Ornithomimus in [[1985]]
-		-
+		- From additional fragments found in
 		-
