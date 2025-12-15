@@ -4,4 +4,4 @@
 	- [[Ornithomimus edmontonicus]]
 - Fast, bipedal feathered dinosaur with a small head and toothless beak
 - #unclassified
-	- <i>Ornithomimus sedens</i>, first named by
+	- <i>Ornithomimus sedens</i>, first named by [[Othniel Charles Marsh]]
