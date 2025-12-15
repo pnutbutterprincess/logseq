@@ -6,5 +6,5 @@
 		- three-fingered hands
 		- semi-lunate (half-moon shaped) bone in the wrist (carpus)
 	- [[therizinosaur]]s, [[dromaeosaurid]]s, [[aviala]]ns, some [[troodontid]]s
-		- a backwards-pointing hip (pubic)
+		- a backwards-pointing hip (pubic) bones
 -
