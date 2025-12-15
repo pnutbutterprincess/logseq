@@ -3,7 +3,7 @@
 	- [[Ornithomimus velox]]
 	- [[Ornithomimus edmontonicus]]
 - Fast, bipedal feathered dinosaur with a small head and toothless beak
-- Description - characterized by
+- Description
 	- feet with three weight-bearing toes
 	- long, slender arms
 	- long necks
@@ -11,6 +11,8 @@
 	- large brains
 	- large eyes
 	- hand bones appear sloth-like, leading to speculation that they used them to pull down tree branches for feeding
+- Differentiating features:
+	-
 - #unclassified
 	- <i>Ornithomimus sedens</i>
 		- first named by [[Othniel Charles Marsh]] in [[1892]] from a partial skeleton from the [[Lance Formation]] in [[Wyoming]]
