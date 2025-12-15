@@ -1,6 +1,6 @@
 - [[theropod]] [[ornithomimid]] [[dinosaur]] from the [[Campanian]] and [[Maastrichtian]] [[Late Cretaceous]] of Western [[North America]]
 - Two species:
 	- [[Ornithomimus velox]]
-	- <i>Ornithomimus edmontonicus</i>
+	- [[Ornithomimus edmontonicus]]
 - Fast, bipedal feathered dinosaur with a small head and toothless beak
 -
