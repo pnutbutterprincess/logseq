@@ -2,4 +2,4 @@
 - Two species:
 	- <i>Ornithomimus velox</i>
 	- <i>Ornithomimus edmontonicus</i>
--
+- Fast, bipedal feathered
