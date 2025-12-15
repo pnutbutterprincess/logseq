@@ -1,1 +1,1 @@
-- Unclear taxon, with many considering it to be synonymous with
+- Unclear taxon, with many considering it to be synonymous with [[Ornithomimus edmontonicus]]
