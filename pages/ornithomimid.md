@@ -4,4 +4,4 @@
 - Description
 	- small skulls with large eyes and toothless beaks
 	- long, slender arms with claws
-	-
+	- long hind limbs with a long foot
