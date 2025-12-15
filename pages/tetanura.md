@@ -8,4 +8,5 @@
 			- [[ornithomimosaur]]ia
 			- [[megaraptor]]a
 			- [[compsognathid]]ae
+			- [[maniraptora]]
 		- [[carnosaur]]ia
