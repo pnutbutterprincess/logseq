@@ -1,2 +1,3 @@
 - <i>hand hunters</i>
-- [[coelurosaur]] [[theropod]]s including
+- [[coelurosaur]] [[theropod]]s including birds and non-avian dinosaurs more closely related to birds than Ornithomimids
+-
