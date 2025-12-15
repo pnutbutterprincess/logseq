@@ -1,2 +1,2 @@
-- Named by [[Charles M. Sternberg]] in
+- Named by [[Charles M. Sternberg]] in [[1933]] from a nearly complete skeleton from the [[Horseshoe Canyon Formation]]
 -
