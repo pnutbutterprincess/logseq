@@ -1,1 +1,2 @@
-- [[theropod]] [[ornithomimid]] [[dinosaur]] from the [[Campanian]] and [[Maastrichtian]]
+- [[theropod]] [[ornithomimid]] [[dinosaur]] from the [[Campanian]] and [[Maastrichtian]] [[Late Cretaceous]] of Western [[North America]]
+-
