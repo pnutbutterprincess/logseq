@@ -6,6 +6,7 @@
 - Description - characterized by
 	- feet with three weight-bearing toes
 	- long, slender arms
+	- long necks
 	-
 - #unclassified
 	- <i>Ornithomimus sedens</i>
