@@ -1,1 +1,1 @@
-- Named in [[1890]] by [[Othniel Charles Marsh]]
+- Named in [[1890]] by [[Othniel Charles Marsh]] from
