@@ -2,4 +2,5 @@
 - Two species:
 	- <i>Ornithomimus velox</i>
 	- <i>Ornithomimus edmontonicus</i>
-- Fast, bipedal feathered dinosaur
+- Fast, bipedal feathered dinosaur with a small head and toothless beak
+-
