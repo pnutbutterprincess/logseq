@@ -15,7 +15,7 @@
 	- shorter torsos
 	- long slender forearms
 	- very slender, straight hand and foot claws
-	- hand bones and fingers of similar
+	- hand bones and fingers of similar length
 - #unclassified
 	- <i>Ornithomimus sedens</i>
 		- first named by [[Othniel Charles Marsh]] in [[1892]] from a partial skeleton from the [[Lance Formation]] in [[Wyoming]]
