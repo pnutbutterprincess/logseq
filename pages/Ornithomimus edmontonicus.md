@@ -1,2 +1,3 @@
 - Named by [[Charles M. Sternberg]] in [[1933]] from a nearly complete skeleton from the [[Horseshoe Canyon Formation]]
-- larger of the [[Ornithomimus]] species,
+- larger of the [[Ornithomimus]] species
+	- estimated length:
