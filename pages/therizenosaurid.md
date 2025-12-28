@@ -9,4 +9,5 @@
 	- [[Neimongosaurus]]
 	- [[Nothronychus]]
 	- [[Paralitherizinosaurus]]
+	- [[Segnosaurus]]
 	-
