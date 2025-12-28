@@ -4,4 +4,5 @@
 - Genera
 	- [[duonychus]]
 	- [[Erliansaurus]]
+	- [[Erlikosaurus]]
 	-
