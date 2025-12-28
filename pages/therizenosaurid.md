@@ -1,6 +1,6 @@
 - <i>therizenosauridae</i>
 	- "scythe lizard"
-- mostly [[Late Cretaceous]] [[theropod]]s  and presumed to have been present across [[Laurasia]]
+- mostly [[Late Cretaceous]] [[maniraptora]]n [[theropod]]s, presumed to have been present across [[Laurasia]]
 - Named in [[1954]] by [[Evgeny Maleev]] from type species [[Therizenosaurus cheloniformis]]
 - Physiology (similar to the [[ground sloth]]
 	- elongated neck, [[prosauropod]] dentition, keratinous beak, and highly derived [[avian]]-like inner ear
