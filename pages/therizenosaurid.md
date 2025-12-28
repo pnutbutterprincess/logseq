@@ -5,7 +5,7 @@
 - Physiology
 	- elongated neck, [[prosauropod]] dentition, keratinous beak, and highly derived [[avian]]-like inner ear
 	- strong arm build, enhanced hand flexibility, and elongated hand claws
-	- broad and round belly, a
+	- broad and round belly, a wide
 - Genera
 	- [[duonychus]]
 	- [[Erliansaurus]]
