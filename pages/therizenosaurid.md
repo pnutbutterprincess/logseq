@@ -3,4 +3,5 @@
 - mostly [[Late Cretaceous]], and presumed to have been present across [[Laurasia]]
 - Genera
 	- [[duonychus]]
+	- [[Erliansaurus]]
 	-
