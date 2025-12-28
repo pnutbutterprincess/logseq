@@ -5,4 +5,5 @@
 	- [[duonychus]]
 	- [[Erliansaurus]]
 	- [[Erlikosaurus]]
+	- [[Nanshiungosaurus]]
 	-
