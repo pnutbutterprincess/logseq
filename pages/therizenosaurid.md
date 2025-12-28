@@ -8,4 +8,5 @@
 	- [[Nanshiungosaurus]]
 	- [[Neimongosaurus]]
 	- [[Nothronychus]]
+	- [[Paralitherizinosaurus]]
 	-
