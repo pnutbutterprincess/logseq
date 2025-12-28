@@ -12,7 +12,7 @@
 	- Likely herbivorous, with some later therizenosaurs possibly being omnivorous
 - Lifestyle
 	- Thought to be [[plantigrade]] walkers #unconfirmed
-	- [[oviparous]] animals that nested in colonies
+	- [[oviparous]] animals that nested in colonies, laying egg
 - Genera
 	- [[duonychus]]
 	- [[Erliansaurus]]
