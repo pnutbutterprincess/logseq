@@ -10,4 +10,5 @@
 	- [[Nothronychus]]
 	- [[Paralitherizinosaurus]]
 	- [[Segnosaurus]]
+	- [[Suzhousaurus]] ?
 	-
