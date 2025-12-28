@@ -8,6 +8,9 @@
 	- broad and round belly, a wide and robust pelvis
 	- thick hind limbs, stout four-toed feet
 	- feathers, presumed to have developed in complexity from primitive therizenosaurs such as [[Beipiaosaurus]] and [[Jianchangosaurus]]
+- Diet
+	- Likely herbivorous, with some later therizenosaurs possibly being omnivorous
+-
 - Genera
 	- [[duonychus]]
 	- [[Erliansaurus]]
