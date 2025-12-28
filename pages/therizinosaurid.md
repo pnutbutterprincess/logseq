@@ -1,4 +1,6 @@
-- <i>therizenosauridae</i>
+- <i>therizinosauridae</i>
+  collapsed:: true
+  "scythe lizard"
 	- "scythe lizard"
 - mostly [[Late Cretaceous]] [[maniraptora]]n [[theropod]]s, presumed to have been present across [[Laurasia]]
 - Named in [[1954]] by [[Evgeny Maleev]] from type species [[Therizenosaurus cheloniformis]]
