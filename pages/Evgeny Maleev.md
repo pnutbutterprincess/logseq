@@ -1,1 +1,2 @@
-- Soviet #paleontologist
+- Soviet and [[Russia]]n #paleontologist
+- Primarily researched [[reptile]]s and Asian
