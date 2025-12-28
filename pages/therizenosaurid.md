@@ -7,6 +7,7 @@
 	- strong arm build, enhanced hand flexibility, and elongated hand claws
 	- broad and round belly, a wide and robust pelvis
 	- thick hind limbs, stout four-toed feet
+	- feathers, presumed to have developed in complexity from basal
 - Genera
 	- [[duonychus]]
 	- [[Erliansaurus]]
