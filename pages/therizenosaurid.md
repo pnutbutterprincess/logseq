@@ -2,6 +2,8 @@
 	- "scythe lizard"
 - mostly [[Late Cretaceous]], and presumed to have been present across [[Laurasia]]
 - Named in [[1954]] by [[Evgeny Maleev]] from type species [[Therizenosaurus cheloniformis]]
+- Physiology
+	-
 - Genera
 	- [[duonychus]]
 	- [[Erliansaurus]]
