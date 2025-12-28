@@ -13,7 +13,7 @@
 - Lifestyle
 	- Thought to be [[plantigrade]] walkers #unconfirmed
 	- [[oviparous]] animals that nested in colonies, laying egg clutches
-		- [[egg fossil]]s are common from [[Late Cretaceous]]
+		- therizenosaurid [[egg fossil]]s are common from [[Late Cretaceous]]
 - Genera
 	- [[duonychus]]
 	- [[Erliansaurus]]
