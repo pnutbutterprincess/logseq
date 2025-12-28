@@ -1,2 +1,3 @@
 - [[maniraptora]]n [[theropod]] from the [[Late Cretaceous]]
-- First [[therizenosaurid]] to be discovered in [[1918]]
+- First [[therizenosaurid]] to be discovered in [[1918]] in the [[Nemegt Formation]]
+-
