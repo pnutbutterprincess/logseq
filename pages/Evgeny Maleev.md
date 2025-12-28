@@ -1,2 +1,4 @@
 - Soviet and [[Russia]]n #paleontologist
 - Primarily researched [[reptile]]s and Asian fossils
+- Notable
+	-
