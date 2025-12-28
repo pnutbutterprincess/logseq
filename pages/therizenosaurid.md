@@ -3,7 +3,7 @@
 - mostly [[Late Cretaceous]], and presumed to have been present across [[Laurasia]]
 - Named in [[1954]] by [[Evgeny Maleev]] from type species [[Therizenosaurus cheloniformis]]
 - Physiology
-	- elongated neck, [[prosauropod]] dentition,
+	- elongated neck, [[prosauropod]] dentition, and
 - Genera
 	- [[duonychus]]
 	- [[Erliansaurus]]
