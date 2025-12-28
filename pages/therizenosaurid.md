@@ -15,7 +15,7 @@
 	- [[oviparous]] animals that nested in colonies, laying egg clutches
 		- therizenosaurid [[egg fossil]]s are common from [[Late Cretaceous]]
 - Genera
-	- [[duonychus]]
+	- [[Duonychus]]
 	- [[Erliansaurus]]
 	- [[Erlikosaurus]]
 	- [[Nanshiungosaurus]]

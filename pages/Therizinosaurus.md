@@ -1,0 +1,2 @@
+- [[maniraptora]]n [[theropod]] from the [[Late Cretaceous]]
+- First [[therizenosaurid]] to be discovered in [[1918]]
