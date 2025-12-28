@@ -1,2 +1,2 @@
 - <i>basket tail</i> or <i>wicker tail</i>
-- Genus of [[ankylosaurid]] [[dinosaur]]
+- Genus of [[ankylosaurid]] [[dinosaur]] from the [[Late Cretaceous]]
