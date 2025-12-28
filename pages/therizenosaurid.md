@@ -11,4 +11,4 @@
 	- [[Paralitherizinosaurus]]
 	- [[Segnosaurus]]
 	- [[Suzhousaurus]] ?
-	-
+	- [[Therizinosaurus]]
