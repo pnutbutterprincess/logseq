@@ -4,7 +4,8 @@
 - Named in [[1954]] by [[Evgeny Maleev]] from type species [[Therizenosaurus cheloniformis]]
 - Physiology
 	- elongated neck, [[prosauropod]] dentition, keratinous beak, and highly derived [[avian]]-like inner ear
-	- strong arm build, enhanced hand flexibility,
+	- strong arm build, enhanced hand flexibility, and elongated hand claws
+	-
 - Genera
 	- [[duonychus]]
 	- [[Erliansaurus]]
