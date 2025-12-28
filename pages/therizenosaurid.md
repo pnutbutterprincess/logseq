@@ -7,4 +7,5 @@
 	- [[Erlikosaurus]]
 	- [[Nanshiungosaurus]]
 	- [[Neimongosaurus]]
+	- [[Nothronychus]]
 	-
