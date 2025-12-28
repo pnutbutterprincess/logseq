@@ -6,4 +6,5 @@
 	- [[Erliansaurus]]
 	- [[Erlikosaurus]]
 	- [[Nanshiungosaurus]]
+	- [[Neimongosaurus]]
 	-
