@@ -3,7 +3,7 @@
 - mostly [[Late Cretaceous]], and presumed to have been present across [[Laurasia]]
 - Named in [[1954]] by [[Evgeny Maleev]] from type species [[Therizenosaurus cheloniformis]]
 - Physiology
-	- elongated neck, [[prosauropod]] dentition, and keratinous beak
+	- elongated neck, [[prosauropod]] dentition, keratinous beak, and highly derived [[avian]]-like inner ear
 	-
 - Genera
 	- [[duonychus]]
