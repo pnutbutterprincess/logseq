@@ -1,1 +1,2 @@
-- <i>basket tail
+- <i>basket tail</i> or <i>wicker tail</i>
+-
