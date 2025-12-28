@@ -2,10 +2,11 @@
 	- "scythe lizard"
 - mostly [[Late Cretaceous]], and presumed to have been present across [[Laurasia]]
 - Named in [[1954]] by [[Evgeny Maleev]] from type species [[Therizenosaurus cheloniformis]]
-- Physiology
+- Physiology (similar to the [[ground sloth]]
 	- elongated neck, [[prosauropod]] dentition, keratinous beak, and highly derived [[avian]]-like inner ear
 	- strong arm build, enhanced hand flexibility, and elongated hand claws
-	- broad and round belly, a wide
+	- broad and round belly, a wide and robust pelvis
+	-
 - Genera
 	- [[duonychus]]
 	- [[Erliansaurus]]
