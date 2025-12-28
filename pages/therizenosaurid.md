@@ -10,7 +10,7 @@
 	- feathers, presumed to have developed in complexity from primitive therizenosaurs such as [[Beipiaosaurus]] and [[Jianchangosaurus]]
 - Diet
 	- Likely herbivorous, with some later therizenosaurs possibly being omnivorous
-- Thought to be
+- Thought to be [[plantigrade]] walkers
 - Genera
 	- [[duonychus]]
 	- [[Erliansaurus]]
