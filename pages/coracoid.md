@@ -1,2 +1,2 @@
 - a paired bone which is part of the shoulder assembly
-- in
+- in non-mammalian tetrapods, the coracoid connects the scapula to the
