@@ -1,4 +1,6 @@
 - A [[strain]] ellipse describes the distortion accommodated by a geologic body
 - The long and short axes are perpendicular and aligned with the only mutually perpendicular directions in the body that were perpendicular before deformation
+- The lines aligning with the long and short axes are called the finite stretching axes, where the long axis represents the direction and magnitude of maximum finite stretch and the short axis represents the minimum finite stretch
 - ![2025-12-29-10-43-16.jpeg](../assets/2025-12-29-10-43-16.jpeg)
 -
+- [[Structural Geology of Rocks and Regions]], 3rd ed p73
