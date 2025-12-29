@@ -1,1 +1,1 @@
-- From "caudal" - near the tail and "lateral" - to the side (rather than
+- From "caudal" - near the tail and "lateral" - to the side (rather than median or center)
