@@ -1,2 +1,2 @@
 - A skull bone
-- In most tetrapods connects to the [[squamosal]] and [[quadratojugal]] bones, and
+- In most tetrapods connects to the [[squamosal]] and [[quadratojugal]] bones, and forms the upper part of the jaw
