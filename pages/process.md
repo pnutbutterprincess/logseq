@@ -1,1 +1,1 @@
-- (anatomy) an outgrowth of tissue above a surface
+- (anatomy) an outgrowth of tissue above a surface, such as
