@@ -8,5 +8,5 @@
 	- raised, stalked [[parapophyse]]s on the dorsal vertebrae
 	- a modified pedal digit
 	- [[chevron]]s and [[prezygapophysis]] of the caudal vertebrae, elongate and spanning several vertebrae
-	- the presence of a subglenoid [[fossa]] on the
+	- the presence of a subglenoid [[fossa]] on the [[coracoid]]
 -
