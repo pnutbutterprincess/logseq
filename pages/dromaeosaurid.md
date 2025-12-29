@@ -2,4 +2,3 @@
 - Family of feathered [[coelurosaur]]ian and [[maniraptora]]n [[theropod]]s
 - small to medium carnivores that lived during the [[Cretaceous]]
 - Description
-	-
