@@ -1,0 +1,5 @@
+- Authors
+	- [[George H. Davis]]
+	- [[Stephen J. Reynolds]]
+	- [[Charles F. Kluth]]
+- Publication in [[2012]]

@@ -1,0 +1,1 @@
+- A [[strain]] parameter symbolized by the Greek letter psi ()

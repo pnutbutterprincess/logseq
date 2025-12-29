@@ -1,3 +1,8 @@
-- Symbolized by <i>S,</i> stretch is the magnitude of the change in length of a line deformed by [[strain]]
-- Also equals 1 plus the [[extension]]
+- Symbolized by S
+- stretch is the magnitude of the change in length of a shape deformed by [[strain]]
+- For a line:
 - ![2025-12-29-10-02-51.jpeg](../assets/2025-12-29-10-02-51.jpeg)
+- For a circle/ellipse, the extension can be determined by making the assumption that a change in area from circle to ellipse has not taken place, solving for the original radius, and using that measurement to solve for [[stretch]] and extension of both axes of the ellipsis
+-
+- [[Structural Geology of Rocks and Regions]], 3rd ed
+-
