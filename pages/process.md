@@ -1,1 +1,1 @@
-- (anatomy) an outgrowth of
+- (anatomy) an outgrowth of tissue above a
