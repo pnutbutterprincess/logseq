@@ -1,2 +1,5 @@
-- A [[strain]] parameter symbolized by the Greek letter psi ψ which measures the changes that take place in the angles between lines
+- A [[strain]] parameter symbolized by the Greek letter psi ψ which measures the changes that take place in the angle of a given line L
+- Angular shear is determined by finding a line which was originally perpendicular to L and measuring the change in angle, describing the result with a sign (positive meaning counterclockwise) and a magnitude in degrees
 - ![2025-12-29-10-22-35.jpeg](../assets/2025-12-29-10-22-35.jpeg)
+-
+- [[Structural Geology of Rocks and Regions]], 3rd ed
