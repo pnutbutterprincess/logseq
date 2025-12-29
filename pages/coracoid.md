@@ -1,2 +1,2 @@
 - a paired bone which is part of the shoulder assembly
-- in non-mammalian tetrapods, the coracoid joins the scapula to the front end of the sternum
+- in non-mammalian tetrapods, the coracoid joins the scapula to the front end of the sternum, and has a notch on the dorsal surface
