@@ -1,2 +1,2 @@
-- an articular [[process]], also known as a <i>superior process</i>
+- an articular [[process]], also known as a <i>superior process,</i> functioning to
 - a [[process]] projecting upward from a
