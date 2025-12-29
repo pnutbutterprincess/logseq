@@ -4,4 +4,4 @@
 - Identifying features
 	- T-shaped frontal bone forming the [[rostral]] boundary of the [[supratemporal fenestra]]
 	- a [[caudolateral]] overhanging shelf of the [[squamosal]]
-	-
+	- a lateral process of the [[quadrate]]
