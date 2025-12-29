@@ -1,0 +1,1 @@
+- From "caudal" - near the tail and "lateral"
