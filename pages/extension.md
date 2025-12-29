@@ -1,0 +1,1 @@
+- Symbolized by <i>e,</> extension is the lengthening of a line due to strain or [[stretch]]ing
