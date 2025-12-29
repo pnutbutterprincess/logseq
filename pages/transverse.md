@@ -1,1 +1,1 @@
-- (anatomy) at right angles to the
+- (anatomy) at right angles to the long axis of the
