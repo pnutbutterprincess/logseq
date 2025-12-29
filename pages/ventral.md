@@ -1,2 +1,2 @@
 - related to the abdomen or stomach
-- on the front side of the human body or the corresponding surface on an animal, usually
+- on the front side of the human body or the corresponding surface on an animal, usually the lower surface
