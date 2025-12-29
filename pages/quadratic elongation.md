@@ -2,5 +2,5 @@
 - λ = S^2
 - reciprocal quadratic elongation, represented as λ' is used in the fundamental strain equations
 	- λ' = 1/λ = 1/S^2
-- the ratio of [[shear strain]] to quadratic elongation is also important in the fundamental strain equations. The magnitude of the ratio describes the mix of change in angle versus change in length for any given line in a geologic body
+- the ratio of [[shear strain]] to quadratic elongation is also important in the [[fundamental strain equations]] . The magnitude of the ratio describes the mix of change in angle versus change in length for any given line in a geologic body
 	- γ/λ
