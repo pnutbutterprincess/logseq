@@ -1,4 +1,4 @@
-- The relationship of [[quadratic elongation]] to γ/λ
+- The relationship of [[quadratic elongation]] to the γ/λ
 - ![2025-12-29-11-18-31.jpeg](../assets/2025-12-29-11-18-31.jpeg)
 - and
 - ![2025-12-29-11-18-42.jpeg](../assets/2025-12-29-11-18-42.jpeg)
