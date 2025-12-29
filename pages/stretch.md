@@ -1,2 +1,3 @@
 - Symbolized by <i>S,</i> stretch is the magnitude of the change in length of a line deformed by [[strain]]
+- Also equals 1 plus the [[extension]]
 - ![2025-12-29-10-02-51.jpeg](../assets/2025-12-29-10-02-51.jpeg)
