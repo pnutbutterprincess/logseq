@@ -1,0 +1,2 @@
+- a paired bone which is part of the shoulder assembly
+-
