@@ -1,1 +1,2 @@
-- Skull bone found in
+- Skull bone found in most [[reptile]]s, [[amphibian]]s, and [[bird]]s
+-
