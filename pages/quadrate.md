@@ -1,0 +1,2 @@
+- A skull bone
+- In most tetrapods connects to the [[squamosal]] and [[quadratojugal]] bones, and
