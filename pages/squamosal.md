@@ -1,4 +1,4 @@
 - Skull bone found in most [[reptile]]s, [[amphibian]]s, and [[bird]]s
 - Along with the [[quadratojugal]] bones forms the cheek
 - Typically thin compared to other skull bones
-- ![Synapsid skull](https://en.wikipedia.org/wiki/File:Skull_synapsida_1.png)
+- ![Synapsid skull](https://en.wikipedia.org/wiki/File:Skull_anapsida_1.svg)
