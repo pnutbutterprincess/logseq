@@ -1,2 +1,2 @@
 - an articular [[process]], also known as a <i>superior process,</i> functioning to fit (articulate) with an adjacent vertebra
-- a [[process]] projecting upward from a
+- a [[process]] projecting upward from a lower
