@@ -2,4 +2,4 @@
 - λ = S^2
 - reciprocal quadratic elongation, represented as λ' is used in the fundamental strain equations
 - λ' = 1/λ = 1/S^2
-- [[shear strain]]
+- the ratio of [[shear strain]] to quadratic elongation is also important in the fundamental strain equations
