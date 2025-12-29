@@ -1,4 +1,4 @@
 - Skull bone found in most [[reptile]]s, [[amphibian]]s, and [[bird]]s
 - Along with the [[quadratojugal]] bones forms the cheek
 - Typically thin compared to other skull bones
--
+- ![2025-12-28-23-53-25.jpeg](../assets/2025-12-28-23-53-25.jpeg)
