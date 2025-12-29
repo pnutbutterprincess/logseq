@@ -1,1 +1,1 @@
-- The ventral transverse, or
+- The ventral transverse, or capitular, process of a
