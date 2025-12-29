@@ -1,1 +1,1 @@
-- (anatomy) at right
+- (anatomy) at right angles to the
