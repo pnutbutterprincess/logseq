@@ -1,1 +1,2 @@
-- (anatomy) at right angles to the long axis of the
+- lying
+- (anatomy) at right angles to the long axis of the body
