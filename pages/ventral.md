@@ -1,2 +1,3 @@
 - related to the abdomen or stomach
 - on the front side of the human body or the corresponding surface on an animal, usually the lower surface
+	- [wiktionary (December 29, 2025)](https://en.wiktionary.org/wiki/ventral#English)

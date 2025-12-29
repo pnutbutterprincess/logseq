@@ -1,2 +1,3 @@
 - lying across
 - (anatomy) at right angles to the long axis of the body
+	-
