@@ -1,0 +1,7 @@
+- Soviet and [[Russia]]n #paleontologist
+	- [[1915]]-[[1966]]
+- Primarily researched [[reptile]]s and Asian fossils
+- Notable
+	- [[Talarurus]]
+	- [[Tarbosaurus]]
+	- [[Therizinosaurus]]

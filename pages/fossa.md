@@ -1,0 +1,1 @@
+- a depression or hollow in a bone

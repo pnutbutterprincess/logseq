@@ -1,0 +1,12 @@
+- dromaeosauridae, <i>running at full speed/swift lizard</i>
+- Family of feathered [[coelurosaur]]ian and [[maniraptora]]n [[theropod]]s
+- small to medium carnivores that lived during the [[Cretaceous]]
+- Identifying features
+	- T-shaped frontal bone forming the [[rostral]] boundary of the [[supratemporal fenestra]]
+	- a [[caudolateral]] overhanging shelf of the [[squamosal]]
+	- a lateral process of the [[quadrate]] that contacts the [[quadratojugal]]
+	- raised, stalked [[parapophysis]] on the dorsal vertebrae
+	- a modified pedal digit
+	- chevrons and [[prezygapophysis]] of the caudal vertebrae elongate and spanning several vertebrae
+	- the presence of a sub[[glenoid]] [[fossa]] on the [[coracoid]]
+-

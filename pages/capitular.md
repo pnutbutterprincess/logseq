@@ -1,0 +1,3 @@
+- relating to <i>capitulum</i>
+- (anatomy) a small protuberance on a bone which articulates into another bone, such as a ball-and-socket joint
+	- [wiktionary (December 29, 2025)](https://en.wiktionary.org/wiki/capitulum#English)

@@ -1,0 +1,27 @@
+- Small [[compsognathid]] [[theropod]] from the [[Early Cretaceous]]
+- <i>Sinosauropteryx prima</i>
+	- Greek, <i>Chinese reptilian wing</i>
+- Named "prima" due to being the first non-avian dinosaur discovered with feathers
+- Described in [[1996]] by [[Qiang Ji]] and [[Shu'an Ji]], and discovered in the [[Yixian Formation]] in northeastern [[China]]
+- Description
+	- very long tail
+		- 64 vertebrae
+	- short arms
+		- <i>humerus</i> and <i>radius</i> 30% the length of the leg (thigh bone and shin)
+		- hands 84-91% the length of the rest of the arm ( <i>humerus</i> and <i>radius</i>)
+		- hands half the length of the foot
+		- large first finger (thumb) having a claw and being longer and thicker than both arm bones
+		- first and second digit about the same length
+	- narrow skull
+		- 15% longer than thigh bones
+		- [[heterodont]] teeth similar to [[Compsognathus]]
+			- [[premaxilla]]e - teeth slender and lacking serration
+			- maxilla - teeth serrated and laterally compressed
+		- [[integumentary]] feathers
+			- back of the skull
+			- arms
+			- neck
+			- back
+			- top and bottom of the tail
+			- sides of the body
+-

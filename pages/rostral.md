@@ -1,0 +1,2 @@
+- From Latin (beak, nose) <i>rostrum</i>
+- Describes something situated in the oral or nasal region, or towards the tip of the frontal lobe of the brain

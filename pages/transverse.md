@@ -1,0 +1,3 @@
+- lying across
+- (anatomy) at right angles to the long axis of the body
+	- [wiktionary (December 29, 2025)](https://en.wiktionary.org/wiki/transverse#English)

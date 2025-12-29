@@ -1,0 +1,9 @@
+- <i>ornithomimosauria</i>
+	- bird-mimic lizard
+- [[theropod]] [[dinosaur]]s from the [[Cretaceous]] resembling the modern ostrich
+- Adapted for speed and were likely herbivorous, possibly omnivorous
+- Includes
+	- [[Macrocheiriform]]es
+		- [[Ornithomimoid]]ea
+		-
+	-

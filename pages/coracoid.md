@@ -1,0 +1,3 @@
+- a paired bone which is part of the shoulder assembly
+- in non-mammalian tetrapods, the coracoid joins the scapula to the front end of the sternum, and has a notch on the dorsal surface which, along with a similar notch on the scapula, forms a socket for the humerus
+- ![skeletal structure of a bird's wing (wikipedia)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Wing_Muscles%2C_color.svg/500px-Wing_Muscles%2C_color.svg.png)

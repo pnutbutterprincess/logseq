@@ -1,0 +1,3 @@
+- [[theropod]] dinosaur in the clade [[tetanura]]e, one of the first dinosaurs ever named, by [[William Buckland]] in [[1824]]
+- from the [[Middle Jurassic]] of [[England]]
+-

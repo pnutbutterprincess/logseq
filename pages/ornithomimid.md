@@ -1,0 +1,10 @@
+- <i>bird-mimics</i>
+- [[theropod]] dinosaurs known largely for speed and prevalence in the [[Late Cretaceous]] of [[Laurasia]]
+- Also reported from the [[Wonthaggi Formation]] of [[Australia]]
+- Description
+	- small skulls with large eyes and toothless beaks
+	- long, slender arms with claws
+	- long hind limbs with a long foot and short toes with hooflike claws
+	- body was feathered
+- genera:
+	- [[Ornithomimus]]

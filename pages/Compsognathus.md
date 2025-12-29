@@ -1,0 +1,25 @@
+- <i>Compsognathus longpipes</i>
+  title:: Compsognathus
+- Small [[compsognathid]] [[theropod]]
+- sizes around 0.7 to 1.4m, about the size of a chicken
+- Described in [[1859]] by [[Johann Wagner]]
+- Two almost complete skeletons have been found, one in [[Germany]], thought to possibly be a juvenile for to smaller size, and the other in [[France]] dated to the lower [[Tithonian]] in the [[Late Jurassic]]
+- Description
+	- long legs
+	- long tails
+	- fore limbs smaller than the legs
+		- <i>humerus</i> and <i>radius</i> about 40% the length of the leg (thigh bone and shin)
+		- two large clawed digits
+		- a third, smaller, non-clawed digit
+	- delicate, narrow head
+		- skull relatively the same length as thigh bones
+		- long, tapered snout
+		- five pairs of [[fenestra]]e, including orbit (largest opening)
+		- no mandibular fenestra
+		- small, pointed teeth
+			- [[premaxilla]] - 3 teeth (Ger. S.), 4 teeth (Fr. S.)
+			- maxilla - 14-15 teeth (Ger. S.), 17-18 (Fr. S.)
+			- lower jaw - 18 teeth (Ger. S.), 21 teeth (Fr. S.)
+			- tooth crowns curving back at about 2/3 of their height, with the mid section being straight, and having expanded bases
+			- frontmost teeth on upper and lower jaws were unserrated, with back teeth having fine serrations on the rear edges
+-

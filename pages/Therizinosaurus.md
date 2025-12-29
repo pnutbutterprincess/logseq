@@ -1,0 +1,3 @@
+- [[maniraptora]]n [[theropod]] from the [[Late Cretaceous]]
+- First [[therizinosaurid]] to be discovered in [[1918]] in the [[Nemegt Formation]]
+- Single species: <i>Therizinosaurus cheloniformis</i>

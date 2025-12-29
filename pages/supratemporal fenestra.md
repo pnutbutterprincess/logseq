@@ -1,0 +1,1 @@
+- A [[fenestra]] located above the other/temporal fenestrae and are primarily exposed from the top/dorsal view

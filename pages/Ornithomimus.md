@@ -1,0 +1,23 @@
+- [[theropod]] [[ornithomimid]] [[dinosaur]] from the [[Campanian]] and [[Maastrichtian]] [[Late Cretaceous]] of Western [[North America]]
+- Two species:
+	- [[Ornithomimus velox]]
+	- [[Ornithomimus edmontonicus]]
+- Fast, bipedal feathered dinosaur with a small head and toothless beak
+- Description
+	- feet with three weight-bearing toes
+	- long, slender arms
+	- long necks
+	- birdlike, elongated skulls with toothless beaks
+	- large brains
+	- large eyes
+	- hand bones appear sloth-like, leading to speculation that they used them to pull down tree branches for feeding
+- Differentiating features from other ornithomimids
+	- shorter torsos
+	- long slender forearms
+	- very slender, straight hand and foot claws
+	- hand bones and fingers of similar lengths
+- #unclassified
+	- <i>Ornithomimus sedens</i>
+		- first named by [[Othniel Charles Marsh]] in [[1892]] from a partial skeleton from the [[Lance Formation]] in [[Wyoming]]
+		- In [[1972]] [[Dale Russell]] couldn't determine if it was an [[ornithomimid]], [[Dromiceiomimus]], or [[Struthiomimus]], deciding on Ornithomimus in [[1985]]
+		- From additional fragments found in [[Montana]] and [[Alberta]], it is now referred to as <i>Struthiomimus sedens</i>, but these have yet to be described and compared to the holotype

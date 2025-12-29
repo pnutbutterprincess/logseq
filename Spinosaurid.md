@@ -1,2 +1,6 @@
-fish-eating [[theropod]]s, determined due to the narrow jaws
-among the largest theropods
+- fish-eating [[theropod]]s
+	- having narrow jaws
+	- large spines on their backs supporting a sail
+	- fore and hind limbs of similar lengths
+- among the largest theropods
+-
