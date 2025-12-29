@@ -2,4 +2,4 @@
 - Family of feathered [[coelurosaur]]ian and [[maniraptora]]n [[theropod]]s
 - small to medium carnivores that lived during the [[Cretaceous]]
 - Identifying features
-	- T-shaped frontal bone
+	- T-shaped frontal bone forming the
