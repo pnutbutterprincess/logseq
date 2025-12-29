@@ -1,3 +1,5 @@
 - a parameter related to [[strain]] that is represented by the Greek letter lambda *λ,* and is calculated as the square of the [[stretch]]
 - λ = S^2
-- reciprocal quadratic elongation is used in the fundamental strain equations
+- reciprocal quadratic elongation, represented as λ' is used in the fundamental strain equations
+- λ' = 1/λ = 1/S^2
+- [[shear strain]]
