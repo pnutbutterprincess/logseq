@@ -6,5 +6,5 @@
 	- a [[caudolateral]] overhanging shelf of the [[squamosal]]
 	- a lateral process of the [[quadrate]] that contacts the [[quadratojugal]]
 	- raised, stalked [[parapophyse]]s on the dorsal vertebrae
-	- a modified pedal
+	- a modified pedal digit
 -
