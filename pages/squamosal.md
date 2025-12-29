@@ -1,2 +1,2 @@
 - Skull bone found in most [[reptile]]s, [[amphibian]]s, and [[bird]]s
-- Along with the
+- Along with the [[quadratojugal]] bones forms the
