@@ -1,4 +1,4 @@
 - A [[strain]] ellipse describes the distortion accommodated by a geologic body
 - The long and short axes are perpendicular and aligned with the only mutually perpendicular directions in the body that were perpendicular before deformation
--
+- ![2025-12-29-10-43-16.jpeg](../assets/2025-12-29-10-43-16.jpeg)
 -
