@@ -1,0 +1,1 @@
+- Symbolized by <i>S,</i> stretch is the magnitude of  in length of a line deformed by strain
