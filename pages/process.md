@@ -1,1 +1,1 @@
-- (anatomy) an outgrowth of tissue above a surface, such as
+- (anatomy) an outgrowth of tissue above a surface, such as might form
