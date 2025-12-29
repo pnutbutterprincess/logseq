@@ -1,2 +1,2 @@
 - Symbolized by <i>e,</> extension is the lengthening of a line due to strain or [[stretch]]ing
--
+- ![2025-12-29-09-58-19.jpeg](../assets/2025-12-29-09-58-19.jpeg)
