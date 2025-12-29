@@ -1,1 +1,1 @@
-- (anatomy) an outgrowth of tissue above a surface, such as might form part of a joint or the attachment point for a muscle
+- (anatomy) an outgrowth of tissue above a surface, such as might form part of a joint or the attachment point for a muscle [wiktionary (December 29, 2025)](https://en.wiktionary.org/wiki/process#English)
