@@ -1,3 +1,3 @@
 - an articular [[process]], also known as a <i>superior process,</i> functioning to fit (articulate) with an adjacent vertebra
 - a [[process]] projecting upward from a lower vertebra, and their articular surfaces are directed more or less backwards (oblique coronal plane)
-	-
+	- [wikipedia (December 29, 2025)](https://en.wikipedia.org/wiki/Articular_process)

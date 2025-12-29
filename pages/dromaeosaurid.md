@@ -7,6 +7,6 @@
 	- a lateral process of the [[quadrate]] that contacts the [[quadratojugal]]
 	- raised, stalked [[parapophysis]] on the dorsal vertebrae
 	- a modified pedal digit
-	- chevrons and [[prezygapophysis]] of the caudal vertebrae, elongate and spanning several vertebrae
+	- chevrons and [[prezygapophysis]] of the caudal vertebrae elongate and spanning several vertebrae
 	- the presence of a subglenoid [[fossa]] on the [[coracoid]]
 -
