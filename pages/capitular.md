@@ -1,2 +1,2 @@
 - relating to <i>capitulum</i>
--
+- (anatomy) a small protuberance on the bone
