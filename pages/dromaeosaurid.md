@@ -1,2 +1,3 @@
 - dromaeosauridae, <i>running at full speed/swift lizard</i>
-- Family of feathered [[coelurosaur]]ian
+- Family of feathered [[coelurosaur]]ian and [[maniraptora]]n [[theropod]]s
+-
