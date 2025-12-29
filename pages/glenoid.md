@@ -1,1 +1,1 @@
-- a depression in a bone,
+- a depression in a bone, especially the scapula
