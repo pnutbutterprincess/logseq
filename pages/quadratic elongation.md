@@ -1,1 +1,2 @@
-- a parameter related to [[strain]]
+- a parameter related to [[strain]] that is represented by the Greek letter lambda *λ,* and is calculated as the square of the [[stretch]]
+-
