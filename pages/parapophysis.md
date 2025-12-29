@@ -1,2 +1,2 @@
-- The [[ventral]] transverse, or capitular, process of a vertebra
+- The [[ventral]] [[transverse]], or capitular, process of a vertebra
 -
