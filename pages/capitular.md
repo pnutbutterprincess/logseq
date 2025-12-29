@@ -1,2 +1,2 @@
 - relating to <i>capitulum</i>
-- (anatomy) a small protuberance on a bone which articulates into another bone, such as a ball-and-socket
+- (anatomy) a small protuberance on a bone which articulates into another bone, such as a ball-and-socket joint
