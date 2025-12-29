@@ -1,1 +1,1 @@
-- a depression or how in a
+- a depression or hollow in a bone
