@@ -1,2 +1,2 @@
 - From Latin (beak, nose) <i>rostrum</i>
--
+- Describes something situated in the oral or nasal region
