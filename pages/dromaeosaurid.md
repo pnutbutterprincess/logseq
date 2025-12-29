@@ -7,5 +7,6 @@
 	- a lateral process of the [[quadrate]] that contacts the [[quadratojugal]]
 	- raised, stalked [[parapophyse]]s on the dorsal vertebrae
 	- a modified pedal digit
-	- [[chevron]]s and [[prezygapophysis]] of the caudal vertebrae, elongate and slamming several vertebrae
+	- [[chevron]]s and [[prezygapophysis]] of the caudal vertebrae, elongate and spanning several vertebrae
+	-
 -
