@@ -1,1 +1,2 @@
-- A [[strain]] parameter symbolized by the Greek letter psi ()
+- A [[strain]] parameter symbolized by the Greek letter psi ψ which measures the changes that take place in the angles between lines
+-
