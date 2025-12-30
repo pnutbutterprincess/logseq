@@ -1,0 +1,2 @@
+- Coaxial deformation is a type of [[plane strain]] in which deformation takes place through shortening and extension of two axes such that the relationships of points on the plane remain symmetrical during deformation
+- [[pure shear]] is a specific type of coaxial deformation in which the shortening is perfectly compensated by extension, resulting in no change to volume
