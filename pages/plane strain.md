@@ -1,0 +1,1 @@
+- [[strain]] in which a geologic body is deformed along a plane with no deformation which is not parallel to the plane

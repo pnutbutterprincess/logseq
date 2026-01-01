@@ -1,0 +1,3 @@
+- noncoaxial deformation is a type of [[plane strain]] in which the body is sheared asymmetrically, so that the top and bottom do not change in orientation, only position relative to each other
+- the height of the body does not change and all points move parallel to the direction of shearing
+- [[simple shear]] is a type of noncoaxial deformation in which the top and bottom do not stretch or shorten, meaning the resulting shape retains its original area
