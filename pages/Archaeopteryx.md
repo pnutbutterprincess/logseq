@@ -1,8 +1,8 @@
 - A [[theropod]] dinosaur in the clade [[Paraves]] with other birdlike dinosaurs, and family [[Archaeopterygidae]]
 - Famous for being one of the first dinosaur fossils discovered with feathers, Archaeopteryx was long known as one of the earliest birds, though older potentials have been since discovered
 - Lived in the [[Late Jurassic]] and maintained a size at most of 50cm (20 in)
-- Discovered and named in 1860 or [[1861]] by [[Hermann von Meyer]] from a single feather
-- The first skeleton was unearthed also in [[1861]] and was sold to the [[Natural History Museum]]. Missing the head and neck, it was described
+- Discovered and named *Archaeopteryx lithographica* in 1860 or [[1861]] by [[Hermann von Meyer]] from a single feather
+- The first skeleton was unearthed also in [[1861]] and was sold to the [[Natural History Museum]]. Missing the head and neck, it was described in [[1863]] by [[Richard Owen]] as *Archaeopteryx macrura*
 - Shared features with [[troodontid]]s and [[dromaeosaurid]]s
 	- jaws with sharp teeth
 	- three fingers with claws
