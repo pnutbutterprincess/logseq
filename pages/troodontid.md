@@ -34,6 +34,18 @@
 	- [[Tamarro]]
 	- [[Tochisaurus]]
 	- [[Zixiasaurus]]
-- Subfamily
-	- [[Troodontinae]]
+- Subfamily Troodontinae
+	- [[Borogovia]]
+	- [[Byronosaurus]]
+	- [[Gobivenator]]
+	- [[Hypnovenator]]
+	- [[Latenivenatrix]]
+	- [[Linhevenator]]
+	- [[Pectinodon]]
+	- [[Philovenator]]
+	- [[Saurornithoides]]
+	- [[Stenonychosaurus]]
+	- [[Troodon]]
+	- [[Urbacodon]]
+	- [[Zanabazar]]
 -
