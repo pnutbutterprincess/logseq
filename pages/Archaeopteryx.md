@@ -1,1 +1,2 @@
-- A [[theropod]]
+- A [[theropod]] dinosaur in the clade [[Paraves]] with other birdlike dinosaurs, and family [[Archaeopterygidae]]
+-
