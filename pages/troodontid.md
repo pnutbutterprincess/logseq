@@ -6,4 +6,5 @@
 	- raptorial hands
 		- sickle claws
 	- unusually long legs
-		- large curved claw on retractable second toes, similar to
+		- large curved claw on retractable second toes, similar to [[dromaeosaurid]]s, but not as large or curved, with some such as [[Borogovia]] having a straight
+	-
