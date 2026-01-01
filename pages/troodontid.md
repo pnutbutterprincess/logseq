@@ -1,2 +1,2 @@
 - *troodontidae*
-- a clade of [[theropod]] dinosaurs from the
+- a clade of [[theropod]] dinosaurs also in the clade [[Paraves]] due to that lived from the [[Late Jurassic]] to the [[Late Cretaceous]]
