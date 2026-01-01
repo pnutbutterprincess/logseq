@@ -3,4 +3,7 @@
 - troodontids lived from the [[Late Jurassic]] to the [[Late Cretaceous]]
 - Description
 	- large numbers of teeth closely spaced in the jaw
-	- sickle claws
+	- raptorial hands
+		- sickle claws
+	- unusually long legs
+		- large curved claw on retractable second toes, similar to
