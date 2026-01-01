@@ -14,5 +14,17 @@
 - genera
 	- [[Albertavenator]]
 	- [[Almas]]
+	- [[Archaeornithoides]]
+	- [[Daliansaurus]]
+	- [[Geminiraptor]]
+	- [[Harenadraco]]
+	- [[Hesperornithoides]]
+	- [[Jianianhualong]]
+	- [[Jingfengopteryx]]
+	- [[Koparion]]
+	- [[Liaoningvenator]]
+	- [[Mei]]
+	- [[Papiliovenator]]
+	- [[Paronychodon]]
 	-
 -
