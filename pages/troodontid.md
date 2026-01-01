@@ -1,4 +1,6 @@
 - *troodontidae*
-- a clade of [[theropod]] dinosaurs also in the clade [[Paraves]] due to many similarities to [[Archaeopteryx]] and primitive [[dromaeosaurid]]s
+- a clade of [[theropod]] [[maniraptora]]n dinosaurs also in the clade [[Paraves]] due to many similarities to [[Archaeopteryx]] and primitive [[dromaeosaurid]]s
 - troodontids lived from the [[Late Jurassic]] to the [[Late Cretaceous]]
--
+- Description
+	- large numbers of teeth closely spaced in the jaw
+	- sickle claws
