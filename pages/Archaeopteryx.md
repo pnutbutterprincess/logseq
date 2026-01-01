@@ -11,4 +11,4 @@
 	- hyperextensible second toes
 	- feathers
 - Other specimens
-	- **Berlin Specimen** discovered in [[1874]] or [[1875]] in [[Germany]] by a farmer
+	- **Berlin Specimen** discovered in [[1874]] or [[1875]] in [[Germany]] by a farmer. It was sold a few times and finally purchased in [[1881]]
