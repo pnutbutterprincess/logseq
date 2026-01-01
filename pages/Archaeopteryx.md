@@ -1,2 +1,3 @@
 - A [[theropod]] dinosaur in the clade [[Paraves]] with other birdlike dinosaurs, and family [[Archaeopterygidae]]
-- Famous for being one of the
+- Famous for being one of the first dinosaur fossils discovered with feathers, Archaeopteryx was long known as one of the earliest birds, though older potentials have been since discovered
+-
