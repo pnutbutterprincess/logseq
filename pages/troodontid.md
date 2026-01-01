@@ -4,7 +4,9 @@
 - Description
 	- large numbers of teeth closely spaced in the jaw
 		- large brains, comparable to those of living flightless birds
-		- large eyes pointing forward,
+		- large eyes pointing forward, giving binocular vision
+		- large middle ear cavities, indicating more acute hearing ability
+		- some troodontids had asymmetrical ear placement, with one being higher than the other, only present in some
 	- raptorial hands
 		- sickle claws
 	- unusually long legs
