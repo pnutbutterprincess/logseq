@@ -12,4 +12,4 @@
 	- feathers
 - Other specimens
 	- **Berlin Specimen** was the first complete specimen discovered with a head, discovered in [[1874]] or [[1875]] in [[Germany]] by a farmer. It was sold a few times and finally purchased in [[1881]] by [[Berlin's Natural History Museum]]. It was described by [[Wilhelm Dames]] in [[1884]] and named a new species in [[1897]], *Archaeopteryx siemensii**
-	- **Maxberg Specimen** is a fossil missing the head and tail, and was discovered in [[1956]] in [[Germany]].
+	- **Maxberg Specimen** is a fossil missing the head and tail, and was discovered in [[1956]] in [[Germany]]. It was loaned to the Maxberg Museum by ownuntil [[1974]]. After the
