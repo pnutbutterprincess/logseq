@@ -26,5 +26,13 @@
 	- [[Mei]]
 	- [[Papiliovenator]]
 	- [[Paronychodon]]
+	- [[Polyodontosaurus]]
+	- [[Sinornithoides]]
+	- [[Sinovenator]]
+	- [[Sinusonasus]]
+	- [[Talos]]
+	- [[Tamarro]]
+	- [[Tochisaurus]]
+	- [[Zixiasaurus]]
+- Subfamily
 	-
--
