@@ -16,4 +16,12 @@
 	- [[Byronosaurus]]
 	- [[Gobivenator]]
 	- [[Hypnovenator]]
-	-
+	- [[Latenivenatrix]]
+	- [[Linhevenator]]
+	- [[Pectinodon]]
+	- [[Philovenator]]
+	- [[Saurornithoides]]
+	- [[Stenonychosaurus]]
+	- [[Troodon]]
+	- [[Urbacodon]]
+	- [[Zanabazar]]
