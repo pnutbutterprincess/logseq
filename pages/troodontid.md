@@ -12,17 +12,7 @@
 	- unusually long legs
 		- large curved claw on retractable second toes, similar to [[dromaeosaurid]]s, but not as large or curved, with some such as [[Borogovia]] having a straight claw that could not be lifted off the ground at all
 - genera
-	- [[Borogovia]]
-	- [[Byronosaurus]]
-	- [[Gobivenator]]
-	- [[Hypnovenator]]
-	- [[Latenivenatrix]]
-	- [[Linhevenator]]
-	- [[Pectinodon]]
-	- [[Philovenator]]
-	- [[Saurornithoides]]
-	- [[Stenonychosaurus]]
-	- [[Troodon]]
-	- [[Urbacodon]]
-	- [[Zanabazar]]
+	- [[Albertavenator]]
+	- [[Almas]]
+	-
 -
