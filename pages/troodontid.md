@@ -6,10 +6,9 @@
 		- large brains, comparable to those of living flightless birds
 		- large eyes pointing forward, giving binocular vision
 		- large middle ear cavities, indicating more acute hearing ability
-		- some troodontids had asymmetrical ear placement, with one being higher than the other, only present in some
+		- some troodontids had asymmetrical ear placement, with one being higher than the other, only present in some [[owl]]s
 	- raptorial hands
 		- sickle claws
 	- unusually long legs
 		- large curved claw on retractable second toes, similar to [[dromaeosaurid]]s, but not as large or curved, with some such as [[Borogovia]] having a straight claw that could not be lifted off the ground at all
-	-
 	-
