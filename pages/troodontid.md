@@ -34,7 +34,7 @@
 	- [[Tamarro]]
 	- [[Tochisaurus]]
 	- [[Zixiasaurus]]
-- Subfamily Troodontinae
+- subfamily Troodontinae
 	- [[Borogovia]]
 	- [[Byronosaurus]]
 	- [[Gobivenator]]
