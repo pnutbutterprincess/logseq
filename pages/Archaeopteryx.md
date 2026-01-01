@@ -1,3 +1,5 @@
 - A [[theropod]] dinosaur in the clade [[Paraves]] with other birdlike dinosaurs, and family [[Archaeopterygidae]]
 - Famous for being one of the first dinosaur fossils discovered with feathers, Archaeopteryx was long known as one of the earliest birds, though older potentials have been since discovered
-- Lived in the [[Late Jurassic]] and maintained a size at most 20cm
+- Lived in the [[Late Jurassic]] and maintained a size at most of 50cm (20 in).
+- Shared features with [[troodontid]]s and [[dromaeosaurid]]s
+	-
