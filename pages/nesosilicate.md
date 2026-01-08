@@ -32,4 +32,8 @@
 		- [[norbergite]] - Mg3(SiO4)(F,OH)2
 		- [[chondrodite]] - Mg5(SiO4)2(F,OH)2
 		- [[humite]] - Mg7(SiO4)3(F,OH)2
-		-
+		- [[clinohumite]] - Mg9(SiO4)4(F,OH)2
+	- [[datolite]] - CaBSiO4(OH)
+	- [[titanite]] - CaTiSiO5
+	- [[chloritoid]] - (Fe,Mg,Mn)2Al4Si2O10(OH)4
+	- [[mullite]] - Al6Si2O13
