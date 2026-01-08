@@ -3,3 +3,4 @@
 	- V1 - total volume of the ions in the unit cell based on their ionic radii
 	- VC - unit cell volume
 - For most minerals the packing index is between about 35 and 74
+-
