@@ -1,2 +1,3 @@
 - also *orthosilicates*
+- isolated silicon [[tetrahedra]]
 - [SiO4]4− ion
