@@ -3,4 +3,5 @@
 	- Al2SiO5
 - a trimorphic [[polymorph]] with [[kyanite]] and [[sillimanite]], and is the low pressure mid temperature polymorph, which may turn into sillimanite at higher temperatures and pressures
 - [[crystal system]]: [[orthorhombic]]
--
+- crystal class: [[dipyramidal]] (mmm)
+- [[crystal habit]]: [[euhedral]] crystals or columnar aggregates with nearly square cross sections
