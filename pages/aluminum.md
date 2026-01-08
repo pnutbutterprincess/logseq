@@ -1,4 +1,4 @@
 - A chemical element with atomic number 13
 - group 13 (boron group)
+- atomic mass: 26.982
 - density: 2.699 g/cm3
--
