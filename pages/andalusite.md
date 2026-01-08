@@ -6,4 +6,7 @@
 - crystal class: [[dipyramidal]] (mmm)
 - [[crystal habit]]: [[euhedral]] crystals or columnar aggregates with nearly square cross sections; fibrous compact to massive
 - [[twinning]]: *rare* - on {101}
-- [[cleavage]]: *good* - on {110}; *poor* - on
+- [[cleavage]]: *good* - on {110}; *poor* - on {100}
+- fracture: uneven to subconchoidal
+- moh's scale: 6.5 - 7.5
+- luster: vi
