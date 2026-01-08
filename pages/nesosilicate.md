@@ -16,4 +16,10 @@
 		- [[grossular]] - Ca3Al2(SiO4)3
 		- [[andradite]] - Ca3Fe2(SiO4)3
 		- [[uvarovite]] - Ca3Cr2(SiO4)3
-		- [[hydrogrossular]] - Ca3Al2Si2O8(SiO4)3
+		- [[hydrogrossular]] - Ca3Al2Si2O8(SiO4)3-m(OH)4m
+	- zircon group
+		- [[zircon]] - ZrSiO4
+		- [[thorite]] - (Th,U)SiO4
+		- [[hafnon]] - (Hf,Zr)SiO4
+	- Al2SiO5 group
+		-
