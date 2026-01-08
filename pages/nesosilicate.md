@@ -1,1 +1,2 @@
-- also
+- also *orthosilicates*
+- [SiO4]4− ion
