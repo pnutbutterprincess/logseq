@@ -7,5 +7,9 @@
 		- [[willemite]] - Zn2SiO4
 	- [[olivine]] group
 		- [[forsterite]] - Mg2SiO4
-		- [[fayalite]] - Fe2
-		- [[tephroite]]
+		- [[fayalite]] - Fe2SiO4
+		- [[tephroite]] - Mn2SiO4
+	- [[garnet]] group
+		- [[pyrope]] - Mg3Al2(SiO4)3
+		- [[almandine]] - Fe3Al2(SiO4)3
+		-
