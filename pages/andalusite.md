@@ -1,1 +1,3 @@
-- a [[metamorphic]] [[mineral]]
+- an [[aluminum]] [[nesosilicate]] [[mineral]]
+- chemical formula
+	- AAl2SiO5
