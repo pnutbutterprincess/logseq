@@ -1,4 +1,6 @@
 - an [[aluminum]] [[nesosilicate]] [[mineral]]
 - chemical formula
 	- Al2SiO5
-- a trimorphic [[polymorph]] with [[kyanite]] and [[sillimanite]], and is the low pressure mid temperature
+- a trimorphic [[polymorph]] with [[kyanite]] and [[sillimanite]], and is the low pressure mid temperature polymorph, which may turn into sillimanite at higher temperatures and pressures
+- [[crystal system]]: [[orthorhombic]]
+-
