@@ -1,2 +1,2 @@
 - a measure of how tightly ions are packed together in a mineral
-- PI =
+- PI = V1/VC
