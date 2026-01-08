@@ -3,7 +3,9 @@
 - chemical formula: [SiO4]4−
 - minerals:
 	- [[phenakite]] group
-		- [[phenakite]]
-		- [[willemite]]
+		- [[phenakite]] - Be2SiO4
+		- [[willemite]] - Zn2SiO4
 	- [[olivine]] group
-		- [[olivine]]
+		- [[forsterite]] - Mg2SiO4
+		- [[fayalite]] - Fe2
+		- [[tephroite]]
