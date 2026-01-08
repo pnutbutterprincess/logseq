@@ -26,4 +26,10 @@
 		- [[kyanite]] - Al2SiO5
 		- [[sillimanite]] - Al2SiO5
 		- [[dumortierite]] - Al6.5-7BO3(SiO4)3(O,OH)3
-		- [[topaz]] - Al2SiO4(F,OH
+		- [[topaz]] - Al2SiO4(F,OH)2
+		- [[staurolite]] - Fe2Al9(SiO4)4(O,OH)2
+	- [[humite]] group
+		- [[norbergite]] - Mg3(SiO4)(F,OH)2
+		- [[chondrodite]] - Mg5(SiO4)2(F,OH)2
+		- [[humite]] - Mg7(SiO4)3(F,OH)2
+		-
