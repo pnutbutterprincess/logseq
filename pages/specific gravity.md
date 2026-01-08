@@ -1,2 +1,3 @@
 - A mass-dependent mineral property defined as the density of the material divided by the density of water at 4C
-- G = density / density
+- G = density / density of H2O
+- The density of water at 4C
