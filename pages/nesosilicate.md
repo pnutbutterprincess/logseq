@@ -1,4 +1,9 @@
 - also *orthosilicates*
 - isolated silicon [[tetrahedra]]
 - chemical formula: [SiO4]4−
--
+- minerals:
+	- [[phenakite]] group
+		- [[phenakite]]
+		- [[willemite]]
+	- [[olivine]] group
+		- [[olivine]]
