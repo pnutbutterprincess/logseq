@@ -1,3 +1,4 @@
 - an [[aluminum]] [[nesosilicate]] [[mineral]]
 - chemical formula
-	- AAl2SiO5
+	- Al2SiO5
+- a trimorphic [[polymorph]] with [[kyanite]] and [[sillimanite]], and is the low pressure mid temperature
