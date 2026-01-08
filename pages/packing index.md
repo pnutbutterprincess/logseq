@@ -1,2 +1,5 @@
 - a measure of how tightly ions are packed together in a mineral
-- PI = V1/VC
+- PI = (V1/VC) * 100
+	- V1 - total volume of the ions in the unit cell based on their ionic radii
+	- VC - unit cell volume
+- For most minerals the packing index is between about 35 and 74
