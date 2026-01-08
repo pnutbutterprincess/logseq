@@ -22,4 +22,8 @@
 		- [[thorite]] - (Th,U)SiO4
 		- [[hafnon]] - (Hf,Zr)SiO4
 	- Al2SiO5 group
-		-
+		- [[andalusite]] - Al2SiO5
+		- [[kyanite]] - Al2SiO5
+		- [[sillimanite]] - Al2SiO5
+		- [[dumortierite]] - Al6.5-7BO3(SiO4)3(O,OH)3
+		- [[topaz]] - Al2SiO4(F,OH
