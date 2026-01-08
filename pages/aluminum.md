@@ -1,4 +1,5 @@
-- A chemical element with atomic number 13, one of the [[post-transition metal]]s
+- A chemical [[element]] with atomic number 13, one of the [[post-transition metal]]s
 - group 13 (boron group)
 - atomic mass: 26.982
 - density: 2.699 g/cm3
+- atomic radius: 143 pm
