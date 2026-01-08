@@ -1,3 +1,4 @@
 - also *orthosilicates*
 - isolated silicon [[tetrahedra]]
 - chemical formula: [SiO4]4−
+-
