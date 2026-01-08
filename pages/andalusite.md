@@ -9,4 +9,7 @@
 - [[cleavage]]: *good* - on {110}; *poor* - on {100}
 - fracture: uneven to subconchoidal
 - moh's scale: 6.5 - 7.5
-- luster: vi
+- luster: vitreous
+- streak: white
+- color: pink, violet, yellow, green, white, grey
+	- thin section: colorless to pink or green
