@@ -13,3 +13,5 @@
 - streak: white
 - color: pink, violet, yellow, green, white, grey
 	- thin section: colorless to pink or green
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Andalusite_-_Malacheta%2C_Minas_Gerais%2C_Brazil.jpg/960px-Andalusite_-_Malacheta%2C_Minas_Gerais%2C_Brazil.jpg"/>
+-
