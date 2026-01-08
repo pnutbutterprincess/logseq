@@ -12,4 +12,8 @@
 	- [[garnet]] group
 		- [[pyrope]] - Mg3Al2(SiO4)3
 		- [[almandine]] - Fe3Al2(SiO4)3
-		-
+		- [[spessartine]] - Mn3Al2(SiO4)3
+		- [[grossular]] - Ca3Al2(SiO4)3
+		- [[andradite]] - Ca3Fe2(SiO4)3
+		- [[uvarovite]] - Ca3Cr2(SiO4)3
+		- [[hydrogrossular]] - Ca3Al2Si2O8(SiO4)3
