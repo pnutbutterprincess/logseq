@@ -1,1 +1,3 @@
-[[sauropod]] dinosaurs, having shorter front legs, small narrow heads, and plates or spikes along the back made of a special type of bones known as [[osteoderm]]s. A type of [[Thyreophora]] dinosaur
+- [[sauropod]] dinosaurs, having shorter front legs, small narrow heads, and plates or spikes along the back made of a special type of bones known as [[osteoderm]]s. A type of [[Thyreophora]]n dinosaur
+- Major quadrupedal [[ornithiscia]]ns of the [[Jurassic]]
+- Were replaced in the [[Early Cretaceous]] and [[Middle Cretaceous]] by [[ankylosaur]]s
