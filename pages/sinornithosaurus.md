@@ -1,0 +1,3 @@
+- Had true feathers on all four limbs as well as its tail
+- Likely used its feathers for gliding flight, similar to [[microraptor]]
+-

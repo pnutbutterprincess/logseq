@@ -1,0 +1,1 @@
+- Had fine down feathers on its body, tail, and legs; and a fan of longer feathers at the end of its tail
