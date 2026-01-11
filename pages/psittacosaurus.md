@@ -2,4 +2,4 @@
 -
 - *3D Camouflage in an [[ornithiscia]]n Dinosaur*
 	-
-	- [Current Biology, Volume 26, Issue 18](https://doi.org/10.1016/j.cub.2016.06.065)
+	- [Current Biology, Volume 26](https://doi.org/10.1016/j.cub.2016.06.065) [[2016]]
