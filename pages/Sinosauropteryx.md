@@ -24,4 +24,4 @@
 			- back
 			- top and bottom of the tail
 			- sides of the body
--
+- Coloration has been distinguished to have ginger and white stripes down the length of its tail

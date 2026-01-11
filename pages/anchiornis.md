@@ -1,0 +1,2 @@
+- A feathered dinosaur from the [[Middle Jurassic]] of [[China]]
+- Vibrant coloration, having black and white stripes and spots on its wings, ginger/reddish spots on its cheeks, and a ginger/reddish crest of feathers on its head
