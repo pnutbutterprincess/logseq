@@ -1,3 +1,3 @@
 - An [[Early Cretaceous]] [[ceratopsia]]n  known from exceptional fossils in [[China]] which preserve scales in light and dark countershading on the body and long quill-like feathers along the crest of the tail
 -
-- *3D Camouflage
+- *3D Camouflage in an
