@@ -1,2 +1,3 @@
 - an organ found in invertebrate [[chordate]] species of [[tunicate]]s and [[lancelet]]s and in the larval stage of vertebrate [[lamprey]]s which assists in filter feeding. In vertebrate [[chordate]]s this organ has evolved into the [[thyroid]]
 - when feeding, food particles stick to the mucus produced by the endostyle and are fed to the esophagus, while the water is expelled through gill slits
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Uroc004b_Jon.png/960px-Uroc004b_Jon.png" />
