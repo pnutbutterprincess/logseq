@@ -1,2 +1,2 @@
 - Filter feeding organs that are seen as repeated openings along the pharynx caudal to the mouth, allowing for water to enter through the mouth and exit through the pharyngeal slits
-- Gill slits <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Gill_slits.png" />
+- Gill slits in an acorn worm (left) and a [[tunicate]] (right) <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Gill_slits.png" />
