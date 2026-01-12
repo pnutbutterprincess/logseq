@@ -1,1 +1,1 @@
-- An [[endocrine]] gland in vertebrates,
+- An [[endocrine]] gland in vertebrates, which secretes
