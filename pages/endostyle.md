@@ -1,1 +1,1 @@
-- an organ found in invertebrate
+- an organ found in invertebrate [[chordate]] species
