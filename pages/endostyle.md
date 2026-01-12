@@ -1,2 +1,2 @@
 - an organ found in invertebrate [[chordate]] species of [[tunicate]]s and [[lancelet]]s and in the larval stage of vertebrate [[lamprey]]s which assists in filter feeding. In vertebrate [[chordate]]s this organ has evolved into the [[thyroid]]
-- when
+- when feeding,
