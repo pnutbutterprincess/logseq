@@ -1,4 +1,5 @@
 - Phylum *Chordata*
 - Five distinguishing characteristics
 	- [[notochord]]
-	- a hollow dorsal
+	- a hollow dorsal nerve cord
+	-
