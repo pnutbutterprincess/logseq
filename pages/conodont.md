@@ -1,3 +1,3 @@
 - Early jawless [[chordate]]s from class [[conodonta]] that existed from the [[Cambrian]] to the beginning of the [[Jurassic]]
 - Known primarily from the teethlike structures, called 'conodont elements' that were used to process food
--
+- Over 1500 species have been recorded, and conodonts are useful in [[biostratigraphy]]
