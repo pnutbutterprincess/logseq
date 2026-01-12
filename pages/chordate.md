@@ -1,4 +1,4 @@
 - Phylum *Chordata*
 - Five distinguishing characteristics
 	- [[notochord]]
-	-
+	- a hollow dorsal
