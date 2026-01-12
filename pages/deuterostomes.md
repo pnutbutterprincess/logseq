@@ -1,2 +1,2 @@
 - superphylum *Deuterostomia*
-- Containing bilaterian animals characterized by the anus developing
+- Containing bilaterian animals characterized by the anus  developing
