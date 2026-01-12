@@ -1,1 +1,2 @@
-- an organ found in invertebrate [[chordate]] species of [[tunicate]]s and [[lancelet]]s
+- an organ found in invertebrate [[chordate]] species of [[tunicate]]s and [[lancelet]]s, and in the larval stage of vertebrate [[lamprey]]s
+-
