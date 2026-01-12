@@ -1,1 +1,1 @@
-- Filter feeding organs that are seen as repeated openings on the pharynx
+- Filter feeding organs that are seen as repeated openings the pharynx
