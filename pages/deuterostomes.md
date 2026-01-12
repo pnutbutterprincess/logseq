@@ -2,5 +2,6 @@
 - Containing bilaterian animals characterized by the anus forming before the mouth during embryonic development
 - Includes
 	- [[chordate]]s
+	- [[echinoderm]]s
 	-
 -
