@@ -1,1 +1,1 @@
-- Early jawless [[chordate]]s
+- Early jawless [[chordate]]s that existed from the [[Cambrian]] to the
