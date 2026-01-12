@@ -3,6 +3,6 @@
 - Includes
 	- [[chordate]]s
 	- [[echinoderm]]s
-	- [[Hemichordate]]s
-	- [[cambroer]]
+	- [[hemichordate]]s
+	- [[cambroernid]]
 -
