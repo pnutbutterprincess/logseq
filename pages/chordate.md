@@ -3,4 +3,5 @@
 	- [[notochord]]
 	- a hollow dorsal nerve cord
 	- an [[endostyle]] or [[thyroid]]
+	- [[pharangeal slit]]s
 	-
