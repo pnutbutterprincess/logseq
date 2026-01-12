@@ -1,2 +1,2 @@
-- Early jawless [[chordate]]s from class  that existed from the [[Cambrian]] to the beginning of the [[Jurassic]]
+- Early jawless [[chordate]]s from class [[conodonta]] that existed from the [[Cambrian]] to the beginning of the [[Jurassic]]
 - Known primarily from the teeth
