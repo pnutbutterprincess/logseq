@@ -2,4 +2,5 @@
 - Five distinguishing characteristics
 	- [[notochord]]
 	- a hollow dorsal nerve cord
-	- an
+	- an [[endostyle]] or [[thyroid]]
+	-
