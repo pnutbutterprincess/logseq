@@ -1,2 +1,3 @@
 - Phylum *Chordata*
-- Five
+- Five distinguishing characteristics
+	-
