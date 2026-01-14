@@ -1,1 +1,1 @@
-- a genus of [[Late Cretaceous]] [[hadrosaur]]
+- a genus of [[Late Cretaceous]] [[hadrosaur]] known from
