@@ -1,4 +1,4 @@
 - *Xianglong zhaoi*
 - A [[lizard]] species of [[reptile]] from the [[Barremian]], lower [[Cretaceous]] of [[China]] which had modified rib bones which allowed it to fly using membranes attached to the extended rib bones to glide
-- Known from a single skeleton and skin impressions found in the [[Yixian Formation]]
+- Known from a single skeleton and skin impressions found in the [[Yixian Formation]], described in [[2007]] by Chinese paleontologists, including
 - Had 8 oversized ribs on either side with attached membrane giving it the ability to glide
