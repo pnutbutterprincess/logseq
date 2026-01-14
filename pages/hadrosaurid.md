@@ -1,2 +1,2 @@
 - *Hadrosauridae*
-- Family of [[hadrosaur]] [[ornithiscia]]n [[ornithopod]]
+- Family of [[hadrosaur]] [[ornithiscia]]n [[ornithopod]]s
