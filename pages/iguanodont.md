@@ -1,3 +1,3 @@
 - [[Early Cretaceous]] [[ornithopod]]s that grew in abundance and reached sizes of up to 9m in length and 5m in height
 - Had powerful beaks which they used to crop vegetation before grinding it with their batteries of teeth
-- Were succeeded in the [[Middle Cretaceous]] to [[Late Cretaceous]] by various [[hadrosaur]]s, which were similar in size and body plan, but had even more numerous teeth for grinding vegetation.
+- Were succeeded in the [[Middle Cretaceous]] to [[Late Cretaceous]] by various [[hadrosaurid]]s, which were similar in size and body plan, but had even more numerous teeth for grinding vegetation.

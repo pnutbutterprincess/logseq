@@ -1,2 +1,4 @@
 - *Hadrosauridae*
-- Family of [[hadrosaur]] [[ornithiscia]]n [[ornithopod]]s
+- Family of [[hadrosaurid]] [[ornithiscia]]n [[ornithopod]]s
+- Dinosaurs such as [[Parasaurolophus]]
+-
