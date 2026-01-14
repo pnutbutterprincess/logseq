@@ -1,4 +1,4 @@
-- *
+- *Xiang
 - A [[lizard]] species of [[reptile]] from the [[Cretaceous]] of [[China]] which had modified rib bones which allowed it to fly using membranes attached to the extended rib bones to glide
 - Known from a single skeleton and skin impressions found in the [[Yixian Formation]]
 - Had 8 oversized ribs on either side with attached membrane giving it the ability to glide
