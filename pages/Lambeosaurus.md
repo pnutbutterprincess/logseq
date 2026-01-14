@@ -1,2 +1,3 @@
-- a genus of [[Late Cretaceous]] [[hadrosaur]] known from western [[North America]]
+- a genus of [[Late Cretaceous]] [[hadrosaurid]] known from western [[North America]]
+-
 -
