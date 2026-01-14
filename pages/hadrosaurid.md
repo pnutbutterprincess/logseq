@@ -1,5 +1,4 @@
 - *Hadrosauridae*
 	- From Greek "stout, thick" and "lizard"
 - Family of [[hadrosaurid]] [[ornithiscia]]n [[ornithopod]]s
-- Dinosaurs such as [[Parasaurolophus]]
--
+- Dinosaurs such as [[Parasaurolophus]] and [[Edmontosaurus]]
