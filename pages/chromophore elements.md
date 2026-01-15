@@ -1,3 +1,4 @@
 - ionically bonded minerals that contain cations with partially filled *3d* orbitals
 - these elements are effective at absorbing light and producing visible colors
-- Ti, [[Vanadium]]
+- Ti, [[Vanadium]] (V), Cr, Mn, Fe, Co, Ni, Cu
+- Of these, Fe is the most abundant and responsible for color in many minerals
