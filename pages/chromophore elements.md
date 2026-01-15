@@ -1,0 +1,3 @@
+- ionically bonded minerals that contain cations with partially filled *3d* orbitals
+- these elements are effective at absorbing light and producing visible colors
+- Ti, [[Vanadium]]
