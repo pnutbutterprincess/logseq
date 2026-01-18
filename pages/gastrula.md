@@ -1,1 +1,1 @@
-- An embryonic stage in which
+- An embryonic stage during which an embryo is organized into a
