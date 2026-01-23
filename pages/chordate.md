@@ -1,0 +1,12 @@
+- Phylum *Chordata*
+- Five distinguishing characteristics
+	- [[notochord]]
+	- a hollow dorsal nerve cord
+	- an [[endostyle]] or [[thyroid]]
+	- [[pharyngeal slit]]s
+	- a post-anal tail
+- Subphyla
+	- [[Vertebra]]
+	- [[Tunicata]]
+	- [[Cephalochordata]]
+-

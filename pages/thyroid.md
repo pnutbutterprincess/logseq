@@ -1,0 +1,1 @@
+- An [[endocrine]] gland in vertebrates, which secretes hormones

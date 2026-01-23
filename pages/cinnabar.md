@@ -1,0 +1,3 @@
+- [[Hg]][[S]]
+-
+- Has an intermediate [[band gap]], and high-energy short-wavelength light from the red end of the spectrum will not be absorbed unlike the high-energy short-wavelength light from the violet end, resulting in the mineral having a red coloring

@@ -1,0 +1,4 @@
+- Early ornithopods were small, less than a meter long, but quickly increased in size, many of them remaining bipedal
+- Had large batteries of teeth and evolved jaw/jaw supports allowing for more complex chewing motions
+- Especially abundant in the [[Early Cretaceous]] were [[iguanodont]]s, reaching 9m in length and up to perhaps 5m in height.
+-

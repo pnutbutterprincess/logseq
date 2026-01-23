@@ -1,2 +1,2 @@
 - [[sulfide]] [[mineral]]
-- formula: PbS
+- formula: [[Pb]][[S]]

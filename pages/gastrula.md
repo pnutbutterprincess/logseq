@@ -1,0 +1,1 @@
+- An embryonic stage during which an embryo is organized into a two or three layered embryo with the basic axes of the body being established

@@ -1,0 +1,2 @@
+- Had true feathers on all four limbs as well as its tail
+- Used its feathers for gliding flight

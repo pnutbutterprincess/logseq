@@ -1,0 +1,3 @@
+- An elastic, rod-like embryonic structure found in [[chordate]]s. In vertebrates, disintegrates to become part of the spinal cord tissue. In invertebrates, persists during development
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Gray19_with_color.png/670px-Gray19_with_color.png" />
