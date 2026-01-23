@@ -1,0 +1,2 @@
+- A red-brown variety of [[quartz]]
+- Color is due to the inclusion of [[hematite]] within the rock
