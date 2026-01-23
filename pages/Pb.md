@@ -1,0 +1,3 @@
+- Lead
+- atomic number: 82
+- weight: 207.2

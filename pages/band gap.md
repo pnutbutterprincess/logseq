@@ -1,0 +1,2 @@
+- A gap in available electron energy levels between the [[valence band]] and the [[conduction band]]
+- [[metallic bonding]] has no band gap, and metallic materials are considered opaque. Which wavelengths are more strongly absorbed determines the appearance of the metal
