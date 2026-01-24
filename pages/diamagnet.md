@@ -1,3 +1,3 @@
 - *diamagnetic/diamagnetism*
 - In diamagetic [[mineral]]s, all orbitals of the atoms/ions contain paired electrons
-- When placed in  magnetic field
+- When placed in a magnetic field, diamagnetic minerals will be slightly repelled as electrons in the mineral move
