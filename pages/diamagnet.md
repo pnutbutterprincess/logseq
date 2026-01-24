@@ -1,0 +1,3 @@
+- *diamagnetic/diamagnetism*
+- In diamagetic [[mineral]]s, all orbitals of the atoms/ions contain paired electrons
+- When placed in  magnetic field
