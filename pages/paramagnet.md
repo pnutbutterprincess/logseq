@@ -1,2 +1,5 @@
 - *paramagnetic/paramagnetism*
-- [[mineral]]s in which the electrons of the atoms/ions not
+- [[mineral]]s in which the electrons of the atoms/ions do not have aligned [[magnetic moment]]s
+- paramagnetic minerals have random alignments of unpaired electrons in the ions, so the net magnetic moment and net attraction are weak and the minerals are not noticeably attracted to a magnet
+- Most [[iron]]-bearing [[silicate]] minerals are paramagnetic
+-
