@@ -1,2 +1,2 @@
 - *paramagnetic/paramagnetism*
--
+- [[mineral]]s in which the electrons of the atoms/ions not
