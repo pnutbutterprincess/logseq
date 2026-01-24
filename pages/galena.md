@@ -1,2 +1,2 @@
 - [[sulfide]] [[mineral]]
-- formula: [[Pb]][[S]]
+- formula: [Pb]([[lead]])[S]([[sulfur]])

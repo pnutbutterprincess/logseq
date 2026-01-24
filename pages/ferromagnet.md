@@ -1,0 +1,5 @@
+- *ferromagnetic/ferromagnetism*
+- Ferromagnetic materials are capable of holding a magnetic polarity because the [[magnetic moment]]s of the atoms/ions become systematically aligned
+- An effect known as **exchange coupling** locks adjacent ions into parallel magnetic moments. These parallel alignments are generally restricted to microscopic volumes within a ferromagnetic grain, known as a **domain.** Adjacent domains don't necessarily have parallel alignments.
+- Attraction to an external magnet is strong because the magnetic field rearranges the alignment of the magnetic domains
+- If the external magnet is strong enough, the domains with alignment parallel to the magnetic field will expand, permanently magnetizing the material
