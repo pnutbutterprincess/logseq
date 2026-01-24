@@ -1,4 +1,4 @@
 - *ferrimagnetic/ferrimagnetism*
 - Differs from [[ferromagnet]]ism in that some atoms/ions in adjacent structural sites in a [[mineral]] will have antiparallel [[magnetic moment]]s because of **exchange coupling** and will cancel each other
 - As long as some atoms/ions do not have an antiparallel partner, the material will display [[ferromagnet]]ic properties
-- [[magnetite]] is a ferrimagnetic mineral
+- [[magnetite]] is a ferrimagnetic mineral consisting of cubic close-packed oxygen anions with the first Fe3+ in tetrahedral coordination and the second Fe3+ and the Fe2+ in [[octahedral coordination]]. Exchange coupling forces the tetrahedral and octahedral Fe3+ to have opposite spins, but the magnetic moments of the octahedral Fe2+ align in adjacent sites, giving the magnetite a net magnetic moment.
