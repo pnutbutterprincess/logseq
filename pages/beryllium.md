@@ -4,3 +4,4 @@
 - atomic mass: 9.0122
 - density: 1848 kg/cm3
 - atomic radius: 112 pm
+- generally only occurs in [[mineral]]s in combination with other
