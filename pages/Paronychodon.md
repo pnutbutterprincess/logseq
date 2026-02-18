@@ -1,3 +1,3 @@
 - a [[theropod]] tooth taxon, a [[form taxon]] that some think may be representative of juvenile [[deinonychosaur]]s
 - named by [[Edward Cope]] in [[1876]]
--
+- the type species, *Paronychodon lacustris,* is from the [[Judith River Formation]] in [[Montana]] dating to
