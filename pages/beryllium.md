@@ -1,2 +1,2 @@
 - *Be*
-- [[element]]
+- a chemical [[element]] with atomic number 4
