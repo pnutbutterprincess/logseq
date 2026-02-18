@@ -1,4 +1,8 @@
 - *Be*
 - a chemical [[element]] with atomic number 4, one of the [[alkaline earth metal]]s
 - group 2
--
+- atomic mass: 9.01
+- density: 2.699 g/cm3
+- atomic radius: 143 pm
+- an excellent thermal and electrical conductor
+- discovered in [[1825]] by Danish physicist Hans Christian Ørsted
