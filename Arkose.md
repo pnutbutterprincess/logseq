@@ -5,5 +5,5 @@
 - Angularity/sphericity
 - sorting
 - sedimentary maturity: immature
-- character of cement: generally quartz, and may have traces of [[calcite]] cement
+- character of cement: generally quartz, may have traces of [[calcite]] cement
 - formation: generally formed from weathered [[igneous]] or [[metamorphic]] rock, typically [[granite]], and deposited in an environment where the minerals do not experience significant chemical weathering
