@@ -1,1 +1,1 @@
-The third step in the production of [[Clastic Rock]], transportation by moving water, ice, or wind removes clasts created by [[erosion]] and carries them somewhere else.
+The third step in the production of [[clastic rock]], transportation by moving water, ice, or wind removes clasts created by [[erosion]] and carries them somewhere else.

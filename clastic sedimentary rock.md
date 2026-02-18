@@ -1,1 +1,1 @@
-[[Clastic Rock]]
+[[clastic rock]]
