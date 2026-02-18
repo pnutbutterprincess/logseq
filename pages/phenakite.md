@@ -1,2 +1,2 @@
 - a [[nesosilicate]] [[mineral]] bearing a resemblance to quartz, composed of beryllium orthosilicate
-- chemical formula: Be2[SiO4]
+- chemical formula: [Be](beryllium)2[SiO4]

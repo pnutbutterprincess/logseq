@@ -1,4 +1,4 @@
-- a [[biochemical rock]] sedimentary rock containing more than 50% (CaCO3)[[calcium carbonate]]
+- a [[biochemical rock]] sedimentary rock containing more than 50% [CaCO3)[[calcium carbonate]]
 - limestone is formed from [[calcite]] and [[aragonite]]
 - fossiliferous limestone - contains visible fossil shells or shell fragments
 - micrite - very fine carbonate mud
