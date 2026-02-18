@@ -4,5 +4,3 @@
 - atomic mass: 9.0122
 - density: 1848 kg/cm3
 - atomic radius: 112 pm
-- an excellent thermal and electrical conductor
-- discovered in [[1825]] by Danish physicist Hans Christian Ørsted
