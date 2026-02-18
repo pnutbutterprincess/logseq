@@ -1,3 +1,2 @@
-[[Types of Biochemical Sedimentary Rocks]]
-
-chert is formed from silica shells and clay
+- a type of [[biochemical rock]]
+- chert is formed from [[silica]] shells and clay
