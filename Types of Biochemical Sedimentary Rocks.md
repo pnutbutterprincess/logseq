@@ -1,1 +1,1 @@
-Types of [[Biochemical Rock]]
+Types of [[biochemical rock]]

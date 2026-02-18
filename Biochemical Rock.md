@@ -1,1 +1,1 @@
-A type of [[Sedimentary Rock]] made up of shells grown by organisms
+A type of [[sedimentary rock]] made up of shells grown by organisms
