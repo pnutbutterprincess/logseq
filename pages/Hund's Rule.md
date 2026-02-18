@@ -1,0 +1,1 @@
+- In [[chemistry]], states that each orbital within a subshell gets one electron with a +1/2 quantum number (up spin) before any orbital gets a second electron with a -1/2 quantum number (down spin)
