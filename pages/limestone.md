@@ -1,1 +1,7 @@
-- a sedimentary rock containing more than 50% CaCO3
+- a [[biochemical rock]] sedimentary rock containing more than 50% CaCO3
+- limestone is formed from [[calcite]] and [[aragonite]]
+- fossiliferous limestone - contains visible fossil shells or shell fragments
+- micrite - very fine carbonate mud
+- chalk - plankton shells
+  
+  in color, biochemical limestone goes from light grey to dark bluish-grey
