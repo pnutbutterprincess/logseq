@@ -1,11 +1,12 @@
-[[Types of Clastic Sedimentary Rock]]
+[[clastic sedimentary rock]]
 
 Clast size
+
 - coarse to very coarse
-Clast composition
-Angularity / Sphericity
-Sorting
+  Clast composition
+  Angularity / Sphericity
+  Sorting
 - large clasts
-Sedimentary maturity
-Character of cement
+  Sedimentary maturity
+  Character of cement
 - muddy matrix

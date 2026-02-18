@@ -1,4 +1,4 @@
-[[Types of Clastic Sedimentary Rock]]
+[[clastic sedimentary rock]]
 
 Clast size
 

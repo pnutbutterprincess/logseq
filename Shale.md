@@ -1,11 +1,12 @@
-[[Types of Clastic Sedimentary Rock]]
+[[clastic sedimentary rock]]
 Shale breaks into platy sheets
 
 Clast size
+
 - very fine
-Clast composition
+  Clast composition
 - clay and/or very fine silt
-Angularity / Sphericity
-Sorting
-Sedimentary maturity
-Character of cement
+  Angularity / Sphericity
+  Sorting
+  Sedimentary maturity
+  Character of cement
