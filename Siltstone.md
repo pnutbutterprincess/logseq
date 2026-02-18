@@ -1,10 +1,11 @@
 [[Types of Clastic Sedimentary Rock]]
 
 Clast size
+
 - fine
-Clast composition
+  Clast composition
 - silt-sized clasts
-Angularity / Sphericity
-Sorting
-Sedimentary maturity
-Character of cement
+  Angularity / Sphericity
+  Sorting
+  Sedimentary maturity
+  Character of cement

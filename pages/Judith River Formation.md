@@ -1,2 +1,2 @@
 - A [[Campanian]] age formation dating from 79-75.5 Ma
-- composed of primarily
+- composed of primarily [[sandstone]] , [[siltstone]], and [[mudstone]]
