@@ -1,3 +1,4 @@
 - *Be*
 - a chemical [[element]] with atomic number 4, one of the [[alkaline earth metal]]s
-- group
+- group 2
+-
