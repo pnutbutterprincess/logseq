@@ -1,1 +1,1 @@
-- uncertainty taxon, often used in paleontology, which describes a fossil
+- uncertainty taxon, often used in paleontology, which describes a fossil having too few defining features for a definite classification
