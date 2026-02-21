@@ -3,4 +3,4 @@
 - crystal system: [[orthorhombic]]
 - color: steel-grey to tin-white with a rose tint; brass-yellow
 - crystal habit: [[acicular]] prismatic
-- twinning: commonly
+- twinning: commonly stellate and cruciform twinning
