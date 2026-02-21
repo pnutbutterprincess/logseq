@@ -1,4 +1,5 @@
 - an iron [[selenide]] mineral generally precipitated in anoxic environments
 - Formula: [Fe](iron)[Se](selenium)2
 - crystal system: [[orthorhombic]]
-- color: steel-grey to tin-white with a rose hue;
+- color: steel-grey to tin-white with a rose tint; brass-yellow
+-
