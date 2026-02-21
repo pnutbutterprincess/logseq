@@ -1,1 +1,1 @@
-- an iron [[selenide]] mineral
+- an iron [[selenide]] mineral generally precipitated in anoxic
