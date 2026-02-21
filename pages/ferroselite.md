@@ -4,3 +4,4 @@
 - color: steel-grey to tin-white with a rose tint; brass-yellow
 - crystal habit: [[acicular]] prismatic
 - twinning: commonly stellate and cruciform twinning
+- hardness (Mohs): 6-6.6
