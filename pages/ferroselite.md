@@ -7,4 +7,5 @@
 - hardness (Mohs): 6-6.5
 - luster: metallic
 - streak: black
-- polymorph:
+- polymorph: [[dzharkenite]]
+-

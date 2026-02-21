@@ -3,7 +3,7 @@
 - System: [[orthorhombic]]
 - Class: dipyramidal (mmm) (2/m 2/m 2/m)
 - color: yellowish to reddish to dark brown or black
-- Habit: radial acicular, [[mammillary]], [[botryoidal]], [[stalactitic]], [[massive]], [[encrustation]], [[pseudomorph]]
+- Habit: radial [[acicular]], [[mammillary]], [[botryoidal]], [[stalactitic]], [[massive]], [[encrustation]], [[pseudomorph]]
 - Cleavage: perfect {010}
 - Luster: adamantine to dull
 - Streak: brown, brownish yellow to orange yellow
