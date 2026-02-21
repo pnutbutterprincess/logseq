@@ -5,3 +5,5 @@
 - crystal habit: [[acicular]] prismatic
 - twinning: commonly stellate and cruciform twinning
 - hardness (Mohs): 6-6.5
+- luster: metallic
+- streak: black
