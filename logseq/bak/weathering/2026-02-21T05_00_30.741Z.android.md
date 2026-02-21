@@ -1,0 +1,1 @@
+The first step towards the production of [[Clastic Rock]], weathering wears down rock from its surrounding bedrock
