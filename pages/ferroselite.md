@@ -1,2 +1,2 @@
 - an iron [[selenide]] mineral generally precipitated in anoxic environments
--
+- Formula: [Fe](iron)
