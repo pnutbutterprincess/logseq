@@ -2,4 +2,5 @@
 - Formula: [Fe](iron)[Se](selenium)2
 - crystal system: [[orthorhombic]]
 - color: steel-grey to tin-white with a rose tint; brass-yellow
-- crystal habit: [[aciculat]]
+- crystal habit: [[acicular]] prismatic
+-

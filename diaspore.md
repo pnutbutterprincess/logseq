@@ -3,7 +3,7 @@
 - System: [[orthorhombic]]
 - Class: dipyramidal (mmm) (2/m 2/m 2/m)
 - Color: white, pale grey, colorless, greenish grey, brown, pale yellow, pink, purple
-- Habit: [[platy]], elongated to [[aciculat]], [[stalactitic]], [[foliated]], scaly, disseminated, [[massive]]
+- Habit: [[platy]], elongated to [[acicular]], [[stalactitic]], [[foliated]], scaly, disseminated, [[massive]]
 - Twinning: heart shaped twins on {021}
 - Cleavage: perfect {010}, distinct {110}, traces {100}
 - Luster: adamantine, vitreous, pearly on cleavage faces
