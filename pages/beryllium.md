@@ -1,7 +1,7 @@
 - *Be*
-- a chemical [[element]] with atomic number 4, one of the [[alkaline earth metal]]s
-- group 2
+- a chemical [[element]] with atomic number 4
+- group 2, [[alkaline earth metal]]
 - atomic mass: 9.0122
 - density: 1848 kg/cm3
 - atomic radius: 112 pm
-- generally only occurs in [[mineral]]s in combination with other
+- generally only occurs in [[mineral]]s in combination with other elements
