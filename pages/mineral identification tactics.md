@@ -1,5 +1,7 @@
 - geological context
 - hand sample identification
-	- observe and record crystal habit and/or grain shape. if crystals are well-developed,
+	- observe and record crystal habit and/or grain shape. if crystals are well-developed, determine the crystal system to which they belong based on symmetry and the geometry of the crystals
+	- observe and record color, luster, and streak. use a streak plate if it is available, otherwise just crush a bit of the sample
+	- measure specific gravity
 - #tools
 - [[Introduction to Mineralogy]]
