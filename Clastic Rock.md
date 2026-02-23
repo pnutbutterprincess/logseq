@@ -1,4 +1,4 @@
-Most common type of [[sedimentary rock]], formed of cemented clasts
+Most common type of [[sedimentary]], formed of cemented clasts
 
 - classified by a variety of factors:
 	- clast/grain size

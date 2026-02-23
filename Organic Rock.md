@@ -1,1 +1,1 @@
-A carbon-rich type of [[sedimentary rock]] composed of the remains of plants and other organisms
+A carbon-rich type of [[sedimentary]] composed of the remains of plants and other organisms
