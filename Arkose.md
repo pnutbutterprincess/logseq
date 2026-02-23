@@ -1,4 +1,4 @@
-- a [[clastic sedimentary rock]]
+- a clastic
 - [[detrital]] [[sandstone]]
 - Clast size: medium to coarse
 - clast composition: [[quartz]] and [[feldspar]], containing mostly quartz and at least 25% feldspar, and may contain mica along with lithic clasts
