@@ -1,4 +1,5 @@
-logseq.order-list-type:: number
-
+- geological context
+- hand sample identification
+	- observe and record crystal habit and/or grain shape. if crystals are well-developed,
 - #tools
 - [[Introduction to Mineralogy]]
