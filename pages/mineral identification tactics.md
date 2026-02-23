@@ -4,6 +4,6 @@
 	- observe and record color, luster, and streak. use a streak plate if it is available, otherwise just crush a bit of the sample
 	- measure specific gravity, using a Jolly balance, pychnometer, or heavy liquids, if sample size and purity allow. an estimate of specific gravity can sometimes be made by simply hefting the sample, if it is lard enough
 	- measure the hardness by scratching with a fingernail (H=2-2.5), copper penny (H=3), knife blade (H=5), glass (H=5.5), and/or piece of quartz (H=7). scratch the mineral with the scratch tester and vice versa, to confirm hardness. minerals that have suffered some alteration may be softer than normal
-	- carefully examine the mineral to determine if it has cleavage, and if so, how many different directions
+	- carefully examine the mineral to determine if it has cleavage, and if so, how many different directions and the angles between them. a hand lens or binocular microscope is a great aid here. fine grains may reveal cleavage by a flash or sparkle when moved. be alert to the possibility that what appears to be a cleavage may actually be a parting. on noncleavage surfaces, observe and record the nature of the fracture.
 - #tools
 - [[Introduction to Mineralogy]]
