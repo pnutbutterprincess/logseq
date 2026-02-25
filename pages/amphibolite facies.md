@@ -1,1 +1,4 @@
-- the amphibolite facies occurs at higher pressure and depth following the
+- the amphibolite facies occurs at higher pressure and depth following the [[greenschist facies]]
+- typical minerals
+	- [[amphibole]]
+	-
