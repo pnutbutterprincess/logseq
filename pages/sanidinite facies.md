@@ -4,3 +4,4 @@
 	- [[corundum]]
 	- [[cordierite]]
 	- [[sillimanite]]
+	- glass may also be present
