@@ -2,7 +2,7 @@
 - typical minerals
 	- [[amphibole]]
 	- [[diopside]]
-	- [[epidote]]
-	- [[plagioclase]]
+	- [[epidote]] (disappearing)
+	- [[plagioclase]] (calcium-increasing)
 	- [[almandine]]
 	- grossular [[garnet]]
