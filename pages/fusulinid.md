@@ -1,4 +1,4 @@
 - *Fusulinida*
 - an extinct order within [[foraminifera]]
 - single-celled organisms which had [[test]]s made up of microgranular [[calcite]]
-- some of the earliest calcareous f
+- some of the earliest calcareous foraminifera, originating in the [[Llandoverian]] epoch of the [[Silurian]]
