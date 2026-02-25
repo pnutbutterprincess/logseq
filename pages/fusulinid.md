@@ -1,3 +1,3 @@
 - *Fusulinida*
 - an extinct order within [[foraminifera]]
-- which had [[test]]s made up of microgranular [[calcite]]
+- single-celled organisms which had [[test]]s made up of microgranular [[calcite]]
