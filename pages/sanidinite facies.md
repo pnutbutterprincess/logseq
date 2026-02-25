@@ -1,0 +1,1 @@
+- an intense [[metamorphic]] facies where temperatures are approaching the melting point of the rock, and generally under low pressure
