@@ -1,1 +1,2 @@
-- [[metamorphic]] rock formed under the lowest temperature and pressure scenarios
+- [[metamorphic]] rock formed under low temperature and low to moderate pressures
+-
