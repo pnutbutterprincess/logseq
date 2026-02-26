@@ -1,1 +1,1 @@
-- typically a low-pressure, high-pressure [[metamorphic]] grade of rocks
+- typically a low-temperature, high-pressure [[metamorphic]] grade of rocks
