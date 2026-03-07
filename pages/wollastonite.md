@@ -1,2 +1,8 @@
-- [[inosilicate]] [[mineral]]
-- formula: (Caalcium](Si[[]]
+- [[inosilicate]] [[mineral]] which forms when impure [[limestone]] or [[dolomite]] is subjected to high temperature and pressure
+- named for English chemist and mineralogist [[William Wollaston]]
+- formula: [Ca](calcium)[Si](silica)[O](oxygen)3
+- formula mass: 116.159 g/mol
+- system: [[triclinic]]
+- class: [[pinacoidal]]
+- color: white, colorless, or grey
+- habit: commonly massive in [[lamellar]], [[radiating]]
