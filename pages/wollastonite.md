@@ -5,4 +5,12 @@
 - system: [[triclinic]]
 - class: [[pinacoidal]]
 - color: white, colorless, or grey
-- habit: commonly massive in [[lamellar]], [[radiating]],
+- streak: white
+- habit: commonly massive in [[lamellar]], [[radiating]], [[fibrous]] aggregates; uncommonly as [[tabular]] crystals
+- twinning: common
+- cleavage: perfect in two directions at near 90
+- fracture: splintery to uneven
+- hardness: 4.5-5
+- luster: [[vitreous]] or [[dull]] to [[pearly]] on cleavage surfaces
+- soluble: HCl
+- insoluble: water
