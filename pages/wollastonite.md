@@ -1,0 +1,2 @@
+- [[inosilicate]] [[mineral]]
+- formula: (Caalcium](Si[[]]
