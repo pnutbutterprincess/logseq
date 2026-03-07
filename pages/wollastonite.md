@@ -5,4 +5,4 @@
 - system: [[triclinic]]
 - class: [[pinacoidal]]
 - color: white, colorless, or grey
-- habit: commonly massive in [[lamellar]], [[radiating]]
+- habit: commonly massive in [[lamellar]], [[radiating]],
