@@ -16,3 +16,6 @@
 	- Masu salmon, cherry salmon, Japanese salmon, seema
 	- Rainbow trout, steelhead, ocean trout, redband trout
 	- Sockeye salmon, red salmon, blueback salmon, kokanee
+- Fossil species
+	- Onchorhynchus australis
+	-
