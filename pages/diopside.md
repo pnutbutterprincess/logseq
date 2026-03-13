@@ -1,1 +1,1 @@
-- A [[pyroxene]] with composition CaMgSi2O6
+- A calcium [[pyroxene]] with composition [Ca](calcium)[Mg](magnesium)[Si](silicon)2[O](oxygen)6
