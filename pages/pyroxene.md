@@ -1,4 +1,5 @@
 - general group of [[silicate]] minerals
 - chemical formula: XYZ2O6
 - Major subdivisions of pyroxenes
-	- Magnesium-
+	- Magnesium-Iron pyroxenes
+	-
