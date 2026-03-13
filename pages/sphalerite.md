@@ -9,4 +9,4 @@
 - cleavage: perfect dodecahedral on {011}
 - fracture: uneven to conchoidal
 - hardness: 3.5-4
-- luster:
+- luster: adamantine, resinous, greasy
