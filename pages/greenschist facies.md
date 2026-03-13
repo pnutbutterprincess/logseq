@@ -1,3 +1,12 @@
 - [[metamorphic]] rock formed under low temperature and low to moderate pressures
 - conditions for the greenschist facies are the [[Barrovian]] facies sequence, and the lower-pressure [[Abukuma]] facies sequence.
 - characterized by temperatures from 400-500C and depths of about 8 to 50 kilometers
+- Terms to be greenish in color and platy/schistose (having a tendency to split)
+- Common minerals
+	- [[quartz]]
+	- [[orthoclase]]
+	- [[muscovite]]
+	- [[chlorite]]
+	- [[serpentine]]
+	- [[talc]]
+	- [[epidote]]
