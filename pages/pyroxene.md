@@ -13,5 +13,5 @@
 		- [[johannsenite]] - [Ca](calcium)[Mn](manganese)[Si](silicon)2[O](oxygen)6
 	- Calcium-Sodium Pyroxenes
 		- [[omphacite]] - ([Ca](calcium),[Na](sodium))([Mg](magnesium)^2+,[Fe](iron)^2+,[Al](aluminum))[Si](silicon)2[O](oxygen)6
-		-
+		- [[aeginne-augite]] - ([Ca](calcium),[Na](sodium))(
 	-
