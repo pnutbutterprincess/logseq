@@ -9,5 +9,5 @@
 	- Calcium Pyroxenes
 		- [[augite]] - ([Ca](calcium),[Na](sodium))([Mg](magnesium),[Fe](iron),[Al](aluminum))2([Si](silicon),[Al](aluminum))2[O](oxygen)6
 		- [[diopside]] - [Ca](calcium)[Mg](magnesium)[Si](silicon)2[O](oxygen)6
-		- [[hedenbergite]] -
+		- [[hedenbergite]] - [Ca](calcium)[Fe](iron)^2+
 	-
