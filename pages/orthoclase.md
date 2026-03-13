@@ -7,4 +7,5 @@
 - twinning: typically [[Carlsbad twinning]], occasionally [[Baveno]] and [[Manebach]] twins are seen
 - cleavage: perfect in {001}, good on {010}, intersect at 90 degrees
 - fracture: uneven
-- hardness: ;6<-⁹
+- hardness: 6
+- luster: vitreous, pearly
