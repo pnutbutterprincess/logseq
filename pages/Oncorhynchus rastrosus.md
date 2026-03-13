@@ -1,4 +1,3 @@
 - *spike-toothed salmon*
 - From middle [[miocene]] to early [[pliocene]] of western [[North America]] and [[Japan]]
-- Likely part of Pacific Salmon
--
+- Likely part of Pacific Salmon group

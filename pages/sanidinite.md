@@ -1,0 +1,2 @@
+- One of the major [[metamorphic]] facies used to classify metamorphic rocks, characterized by high temperature conditions of contact metamorphism at or near the melting point of rock, with variable pressure
+-
