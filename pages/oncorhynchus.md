@@ -17,5 +17,8 @@
 	- Rainbow trout, steelhead, ocean trout, redband trout
 	- Sockeye salmon, red salmon, blueback salmon, kokanee
 - Fossil species
-	- Onchorhynchus australis
+	- Onchorhynchus australis ([[1982]])
+	- Onchorhynchus belli ([[2018]])
+	- Onchorhynchus ketopsis ([[2007]])
+	- Onchorhynchus lacustris ([Cope] (Edward Cope), [[1870]])
 	-
