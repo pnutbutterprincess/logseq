@@ -12,4 +12,3 @@
 - fracture: splintery
 - hardness: 7
 - luster: vitreous to subadamantine, silky
--
