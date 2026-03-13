@@ -7,5 +7,5 @@
 		- [[orthopyroxene]] - ([Mg](magnesium),[Fe](iron)^2+)2[Si](silicon)2[O](oxygen)6
 		- [[pigeonite]] - ([Mg](magnesium),[Fe](iron)^2+,[Ca](calcium))2[Si](silicon)2[O](oxygen)6
 	- Calcium Pyroxenes
-		- [[augite]] - ([Ca](calcium),[
+		- [[augite]] - ([Ca](calcium),[S
 	-
