@@ -2,4 +2,4 @@
 - silicate tetrahedrons arranged in chains
 - Mineral examples
 	- [[pyroxene]]s - single chain
-	- [[amphibole]]s - double
+	- [[amphibole]]s - double chain
