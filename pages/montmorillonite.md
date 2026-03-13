@@ -1,4 +1,6 @@
 - very soft [[phyllosilicate]] minerals that precipitate from water as [[clay]], and is part of the [[smectite]] group (2:1)
+- TOT clay, with a greater than 50% charge in the octohedral layer due to substitution of magnesium for aluminum
+- individual crystals are not tightly bound, making it a  swelling clay
 - Named after Montmorillon in France
 - chemical formula: ([Na](sodium),[Ca](calcium))0.33([Al](aluminum),[Mg](magnesium))2([Si](silicon)2[O](oxygen)10(OH)2•nH2O
 - system: [[monoclinic]]
@@ -8,4 +10,4 @@
 - cleavage: {001} perfect
 - fracture: uneven
 - hardness: 1-2
-- luster: dull,
+- luster: dull, earthy
