@@ -6,6 +6,10 @@
 - space group: Pbnm
 - color: colorless or white to grey, brown, yellow, yellow-green, grey-green, blue-green, blue
 	- colorless in thin section
+- streak: white
 - crystal habit: prismatic crystals, [[fibrous]], [[acicular]]
 - cleavage: {010} perfect
+- fracture: splintery
+- hardness: 7
+- luster: vitreous to subadamantine, silky
 -
