@@ -17,5 +17,5 @@
 		- [[omphacite]] - ([Ca](calcium),[Na](sodium))([Mg](magnesium)^2+,[Fe](iron)^2+,[Al](aluminum))[Si](silicon)2[O](oxygen)6
 		- [[aeginne-augite]] - ([Ca](calcium),[Na](sodium))([Mg](magnesium)^2+,[Fe](iron)^2+,[Fe](iron)^3+)[Si](silicon)2[O](oxygen)6
 	- Sodium Pyroxenes
-		-
+		- [[jadeite]] -
 	-
