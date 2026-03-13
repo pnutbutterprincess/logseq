@@ -1,0 +1,6 @@
+- [[1858]]- [[1960]]
+- A Boston socialite and abolitionist who cofounded the Massachusetts Audubon Society with [[Minna B. Hall]]
+	- wife of Augustus Hemenway
+- Spoke against the wearing of feathered hats, which at the time were the cause of the killing of thousands of [[woodpecker]]s, [[warbler]]s, [[bluebird]]s, [[owl]]s, and [[heron]]s each year, and urged other women to join a society for the protection of birds, leading to support allowing them to open the Massachusetts Audubon Society.
+- Had a [[Massachusetts]] law passed in [[1897]] outlawing trade of wild bird feathers.
+- Aided in the creation of a federal law in [[1900]], the [[Lacey Act]], prohibiting shipment of animals killed in violation of local laws.
