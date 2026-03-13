@@ -1,2 +1,2 @@
 - Also known as *chain silicate*
--
+- silicate tetrahedrons arranged in chains
