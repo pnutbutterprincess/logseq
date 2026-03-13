@@ -1,1 +1,2 @@
 - general group of [[silicate]] minerals
+- chemical formula:
