@@ -1,5 +1,10 @@
 - genus of ray-finned fish in the [[salmoninae]] subfamily of the family [[salmonidae]]
 - Contains 16 species of salmon and trout
 	- Pacific salmon
-		-
+		- Pink salmon, humpback salmon
+		- Kunimasu, black kokanee
+		- Chum salmon, dog salmon, keta salmon, silverbrite salmon
+		- Coho salmon, silver salmon, silvers
+		- Masu salmon, cherry salmon, Japanese salmon, seema
+		- Sockeye salmon, red salmon, blueback salmon, kokanee
 	- Pacific trout
