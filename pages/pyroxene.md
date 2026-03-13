@@ -1,4 +1,4 @@
-- general group of [[silicate]] minerals
+- general group of [[silicate]] minerals which contain no water (hydroxyls) in
 - chemical formula: XYZ2O6
 - Major subdivisions of pyroxenes
 	- Magnesium-Iron pyroxenes
