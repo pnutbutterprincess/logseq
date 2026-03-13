@@ -2,7 +2,7 @@
 - chemical formula: XYZ2O6
 - Major subdivisions of pyroxenes
 	- Magnesium-Iron pyroxenes
-		- [[enstatite]] - [Mg](magnesium)
-		- [[orthoferrosilite]]
+		- [[enstatite]] - [Mg](magnesium)2[Si](silica)2[O](oxygen)6
+		- [[orthoferrosilite]] -
 		- [[orthopyroxene]]
 	-
