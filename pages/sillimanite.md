@@ -1,3 +1,4 @@
-- an aluminosilicate [[mineral]]
+- an aluminosilicate [[mineral]], polymorph of [[andalusite]] and [[kyanite]]
 - chemical formula: [Al](aluminum)2[Si](silicon)[O](oxygen)5
-- named after
+- named after American chemist [[Benjamin Silliman]]
+-
