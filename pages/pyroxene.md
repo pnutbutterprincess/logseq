@@ -18,5 +18,5 @@
 		- [[aegirine-augite]] - ([Ca](calcium),[Na](sodium))([Mg](magnesium)^2+,[Fe](iron)^2+,[Fe](iron)^3+)[Si](silicon)2[O](oxygen)6
 	- Sodium Pyroxenes
 		- [[jadeite]] - [Na](sodium)[Al](aluminum)[Si](silicon)2[O](oxygen)6
-		- [[aegirine]] (acmite) -
+		- [[aegirine]] (acmite) - [Na](sodium)[
 	-
