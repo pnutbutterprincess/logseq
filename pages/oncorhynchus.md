@@ -2,7 +2,7 @@
 - Contains 16 species of salmon and trout
 	- Pacific salmon
 		- Pink salmon, humpback salmon
-		- Kunimasu, black kokanee
+		- Chinook salmon, blackmouth, black salmon, chub salmon, Columbia River salmon, king salmon, Quinnat salmon,
 		- Chum salmon, dog salmon, keta salmon, silverbrite salmon
 		- Coho salmon, silver salmon, silvers
 		- Masu salmon, cherry salmon, Japanese salmon, seema
