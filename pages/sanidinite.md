@@ -1,3 +1,8 @@
 - One of the major [[metamorphic]] facies used to classify metamorphic rocks, characterized by high temperature conditions of contact metamorphism at or near the melting point of rock, with variable pressure
 - Lower pressure conditions form the [[hornfels]] series, and higher pressure simply results in fusion
+- Characteristic minerals
+	- [[sanidine]]
+	- [[corundum]]
+	- [[cordierite]]
+	- [[sillimanite]]
 -
