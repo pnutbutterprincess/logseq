@@ -4,5 +4,6 @@
 	- Magnesium-Iron pyroxenes
 		- [[enstatite]] - [Mg](magnesium)2[Si](silicon)2[O](oxygen)6
 		- [[orthoferrosilite]] - [Fe](iron)2^2+[Si](silicon)2[O](oxygen)6
-		- [[orthopyroxene]] - ([Mg](magnesium),[Fe](iron)^2+)2
+		- [[orthopyroxene]] - ([Mg](magnesium),[Fe](iron)^2+)2[Si](silicon)2[O](oxygen)6
+		-
 	-
