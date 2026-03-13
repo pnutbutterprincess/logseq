@@ -1,10 +1,18 @@
 - genus of ray-finned fish in the [[salmoninae]] subfamily of the family [[salmonidae]]
 - species of Pacific salmon and Pacific trout
-	-
-		- Pink salmon, humpback salmon
-		- Chinook salmon, blackmouth, black salmon, chub salmon, Columbia River salmon, king salmon, Quinnat salmon,
-		- Chum salmon, dog salmon, keta salmon, silverbrite salmon
-		- Coho salmon, silver salmon, silvers
-		- Masu salmon, cherry salmon, Japanese salmon, seema
-		- Sockeye salmon, red salmon, blueback salmon, kokanee
-	- Pacific trout
+	- Apache trout, Arizona trout
+	- Biwa trout, Biwamasu, Biwa salmon
+	- Mexican golden trout
+	- Coastal cutthroat trout
+	- Lahontan cutthroat trout
+	- Rocky Mountain cutthroat trout, black-spotted cutthroat trout
+	- Westslope cutthroat trout
+	- Gila trout
+	- Pink salmon, humpback salmon
+	- Kunimasu, black kokanee
+	- Chinook salmon, blackmouth, black salmon, chub salmon, Columbia River salmon, king salmon, Quinnat salmon,
+	- Chum salmon, dog salmon, keta salmon, silverbrite salmon
+	- Coho salmon, silver salmon, silvers
+	- Masu salmon, cherry salmon, Japanese salmon, seema
+	- Rainbow trout, steelhead, ocean trout, redband trout
+	- Sockeye salmon, red salmon, blueback salmon, kokanee
