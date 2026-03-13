@@ -1,0 +1,11 @@
+- Potassium feldspar (or K-feldspar)  endmember of [[feldspar]] and a [[tectosilicate]] [[mineral]] in [[igneous]] rocks
+- formula: [K](potassium)[Al](aluminum)[Si](silicon)3[O](oxygen)8
+- system: [[monoclinic]]
+- class: [[prismatic]] (2/m)
+- color: colorless, greenish, greyish yellow, white, pink
+- habit: [[anhedral]] or [[euhedral]], grains are commonly elongate with a tabular appearance
+- twinning: typically [[Carlsbad twinning]], occasionally [[Baveno]] and [[Manebach]] twins are seen
+- cleavage: perfect in {001}, good on {010}, intersect at 90 degrees
+- fracture: uneven
+- hardness: 6
+- luster: vitreous, pearly

@@ -1,0 +1,26 @@
+- genus of ray-finned fish in the [[salmoninae]] subfamily of the family [[salmonidae]]
+- species of Pacific salmon and Pacific trout
+	- Apache trout, Arizona trout
+	- Biwa trout, Biwamasu, Biwa salmon
+	- Mexican golden trout
+	- Coastal cutthroat trout
+	- Lahontan cutthroat trout
+	- Rocky Mountain cutthroat trout, black-spotted cutthroat trout
+	- Westslope cutthroat trout
+	- Gila trout
+	- Pink salmon, humpback salmon
+	- Kunimasu, black kokanee
+	- Chinook salmon, blackmouth, black salmon, chub salmon, Columbia River salmon, king salmon, Quinnat salmon,
+	- Chum salmon, dog salmon, keta salmon, silverbrite salmon
+	- Coho salmon, silver salmon, silvers
+	- Masu salmon, cherry salmon, Japanese salmon, seema
+	- Rainbow trout, steelhead, ocean trout, redband trout
+	- Sockeye salmon, red salmon, blueback salmon, kokanee
+- Fossil species
+	- Oncorhynchus australis ([[1982]])
+	- Oncorhynchus belli ([[2018]])
+	- Oncorhynchus ketopsis ([[2007]])
+	- Oncorhynchus lacustris ([Cope](Edward Cope), [[1870]])
+	- Oncorhynchus rastellus ([[2018]])
+	- [[Oncorhynchus rastrosus]] ([[1972]])
+	- Oncorhynchus salax ([[1975]])

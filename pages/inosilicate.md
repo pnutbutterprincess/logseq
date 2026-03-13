@@ -1,0 +1,5 @@
+- Also known as *chain silicate*
+- silicate tetrahedrons arranged in chains
+- Mineral examples
+	- [[pyroxene]]s - single chain
+	- [[amphibole]]s - double chain

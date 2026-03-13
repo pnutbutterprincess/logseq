@@ -1,0 +1,16 @@
+- [[inosilicate]] [[mineral]] which forms when impure [[limestone]] or [[dolomite]] is subjected to high temperature and pressure
+- named for English chemist and mineralogist [[William Wollaston]]
+- formula: [Ca](calcium)[Si](silica)[O](oxygen)3
+- formula mass: 116.159 g/mol
+- system: [[triclinic]]
+- class: [[pinacoidal]]
+- color: white, colorless, or grey
+- streak: white
+- habit: commonly massive in [[lamellar]], [[radiating]], [[fibrous]] aggregates; uncommonly as [[tabular]] crystals
+- twinning: common
+- cleavage: perfect in two directions at near 90
+- fracture: splintery to uneven
+- hardness: 4.5-5
+- luster: [[vitreous]] or [[dull]] to [[pearly]] on cleavage surfaces
+- soluble: HCl
+- insoluble: water
