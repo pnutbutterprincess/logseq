@@ -4,4 +4,4 @@
 - crystal class: hextetrahedral
 - color: light to dark brown, red-brown, yellow, red, green, light blue, black, and colorless
 - streak: brownish white, pale yellow
-- crystal habit:
+- crystal habit: euhedral crystals, granular (anhedral to subhedral)
