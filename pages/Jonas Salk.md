@@ -1,2 +1,2 @@
--
-	- Jewish-American virologist who developed one of the first polio vaccines
+- Jewish-American virologist who developed one of the first polio vaccines
+- October 14
