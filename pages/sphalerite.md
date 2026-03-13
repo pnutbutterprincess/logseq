@@ -1,0 +1,2 @@
+- a [[sulfide]] mineral important for mining [[zinc]]
+- chemical formula: [Zn](zinc)[S]()
