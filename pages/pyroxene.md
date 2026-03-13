@@ -1,2 +1,3 @@
 - general group of [[silicate]] minerals
-- chemical formula: XYZ2
+- chemical formula: XYZ2O6
+-
