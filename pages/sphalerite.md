@@ -1,2 +1,3 @@
 - a [[sulfide]] mineral important for mining [[zinc]]
-- chemical formula: [Zn](zinc)[S]()
+- chemical formula: ([Zn](zinc),[Fe](iron))[S](sulfur)
+-
