@@ -2,4 +2,4 @@
 - October 14 [[1914]]-June 23 [[1995]]
 - He began studying poliovirus in 1948, and presented a vaccine in [[1955]], choosing not to patent it or seek profit to maximize global distribution of the vaccine
 - He founded the Salk Institute of Biological Studies in La Jolla, California, a center for medical and scientific research
-- Campaigned for mandatory vaccination in the United States and spent his later years looking for a vaccine HIV
+- Campaigned for mandatory vaccination in the United States and spent his later years looking for a vaccine against HIV
