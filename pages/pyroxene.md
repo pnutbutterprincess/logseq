@@ -3,6 +3,6 @@
 - Major subdivisions of pyroxenes
 	- Magnesium-Iron pyroxenes
 		- [[enstatite]] - [Mg](magnesium)2[Si](silica)2[O](oxygen)6
-		- [[orthoferrosilite]] - [Fe](iron)2^2
+		- [[orthoferrosilite]] - [Fe](iron)2^2[Si](silica)
 		- [[orthopyroxene]]
 	-
