@@ -8,5 +8,5 @@
 		- [[pigeonite]] - ([Mg](magnesium),[Fe](iron)^2+,[Ca](calcium))2[Si](silicon)2[O](oxygen)6
 	- Calcium Pyroxenes
 		- [[augite]] - ([Ca](calcium),[Na](sodium))([Mg](magnesium),[Fe](iron), [Al](aluminum))2([Si](silicon),[Al](aluminum))2[O](oxygen)6
-		- [[diopside]]
+		- [[diopside]] -
 	-
