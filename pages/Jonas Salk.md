@@ -1,3 +1,3 @@
 - Jewish-American virologist who developed one of the first polio vaccines
 - October 14 [[1914]]-June 23 [[1995]]
-- He began studying poliovirus in 1948, and presented a vaccine in [[1955]], choosing not to patent it
+- He began studying poliovirus in 1948, and presented a vaccine in [[1955]], choosing not to patent it or seek profit to maximize global distribution of the vaccine.
