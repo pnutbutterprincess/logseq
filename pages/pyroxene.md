@@ -11,4 +11,6 @@
 		- [[diopside]] - [Ca](calcium)[Mg](magnesium)[Si](silicon)2[O](oxygen)6
 		- [[hedenbergite]] - [Ca](calcium)[Fe](iron)^2+[Si](silicon)2[O](oxygen)6
 		- [[johannsenite]] - [Ca](calcium)[Mn](manganese)[Si](silicon)2[O](oxygen)6
+	- Calcium-Sodium Pyroxenes
+		-
 	-
