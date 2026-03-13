@@ -1,3 +1,5 @@
 - a [[sulfide]] mineral important for mining [[zinc]]
 - chemical formula: ([Zn](zinc),[Fe](iron))[S](sulfur)
--
+- crystal system: [[cubic]]
+- crystal class: hextetrahedral
+- color: light to dark brown, red-brown, yellow, red, green, light blue, black, and colorless
