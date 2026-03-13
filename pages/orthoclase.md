@@ -1,0 +1,3 @@
+- An endmember [[feldspar]]
+- formula: [K](potassium)[Al](aluminum) [Si](silicon)3[O](oxygen)8
+-
