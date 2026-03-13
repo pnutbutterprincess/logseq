@@ -1,0 +1,3 @@
+- very soft [[phyllosilicate]] minerals that precipitate from water as [[clay]], and is part of the [[smectite]] group (2:1)
+- Named after Montmorillon in France
+-
