@@ -4,3 +4,8 @@
 - crystal system: [[orthorhombic]]
 - crystal class: [[dipyramidal]] (mmm)
 - space group: Pbnm
+- color: colorless or white to grey, brown, yellow, yellow-green, grey-green, blue-green, blue
+	- colorless in thin section
+- crystal habit: prismatic crystals, [[fibrous]], [[acicular]]
+- cleavage: {010} perfect
+-
