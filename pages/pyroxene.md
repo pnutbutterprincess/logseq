@@ -5,5 +5,5 @@
 		- [[enstatite]] - [Mg](magnesium)2[Si](silicon)2[O](oxygen)6
 		- [[orthoferrosilite]] - [Fe](iron)2^2+[Si](silicon)2[O](oxygen)6
 		- [[orthopyroxene]] - ([Mg](magnesium),[Fe](iron)^2+)2[Si](silicon)2[O](oxygen)6
-		- [[pigeonite]] - ([Mg](magnesium),[Fe](iron)^2+)2[Si](silicon)2[O](oxygen)6
+		- [[pigeonite]] - ([Mg](magnesium),[Fe](iron)^2+,[Ca](calcium))2[Si](silicon)2[O](oxygen)6
 	-
