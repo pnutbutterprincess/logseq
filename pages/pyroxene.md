@@ -21,4 +21,4 @@
 		- [[aegirine]] (acmite) - [Na](sodium)[Fe](iron)^3+[Si](silicon)2[O](oxygen)6
 		- [[kosmochlor]] (ureyite) - [Na](sodium) [Cr](chromium)^3+[Si](silicon)2[O](oxygen)6
 	- Lithium Pyroxenes
-		-
+		- [[spodumene]] - [Li](lithium)
