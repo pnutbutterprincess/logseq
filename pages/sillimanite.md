@@ -1,0 +1,3 @@
+- an aluminosilicate [[mineral]]
+- chemical formula: [Al](aluminum)2[Si](silicon)[O](oxygen)5
+- named after
