@@ -4,4 +4,9 @@
 - crystal class: hextetrahedral
 - color: light to dark brown, red-brown, yellow, red, green, light blue, black, and colorless
 - streak: brownish white, pale yellow
-- crystal habit: euhedral crystals, granular (anhedral to subhedral)
+- crystal habit: euhedral crystals, granular (anhedral to subhedral crystals in matrix)
+- twinning: simple contact twins or complex lamellar forms
+- cleavage: perfect dodecahedral on {011}
+- fracture: uneven to conchoidal
+- hardness: 3.5-4
+- luster:
