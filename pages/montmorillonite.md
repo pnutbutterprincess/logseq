@@ -5,4 +5,7 @@
 - class: prismatic (2/m)
 - color: white, pale pink, blue, yellow, red, green
 - habit: compact masses of [[lamellar]] or globular microcrystalline aggregates
--
+- cleavage: {001} perfect
+- fracture: uneven
+- hardness: 1-2
+- luster: dull,
