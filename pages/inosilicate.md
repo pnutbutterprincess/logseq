@@ -1,0 +1,2 @@
+- Also known as *chain silicate*
+-
