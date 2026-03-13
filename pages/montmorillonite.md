@@ -1,3 +1,8 @@
 - very soft [[phyllosilicate]] minerals that precipitate from water as [[clay]], and is part of the [[smectite]] group (2:1)
 - Named after Montmorillon in France
+- chemical formula: ([Na](sodium),[Ca](calcium))0.33([Al](aluminum),[Mg](magnesium))2([Si](silicon)2[O](oxygen)10(OH)2•nH2O
+- system: [[monoclinic]]
+- class: prismatic (2/m)
+- color: white, pale pink, blue, yellow, red, green
+- habit: compact masses of [[lamellar]] or globular microcrystalline aggregates
 -
