@@ -1,4 +1,5 @@
 - genus of ray-finned fish in the [[salmoninae]] subfamily of the family [[salmonidae]]
 - Contains 16 species of salmon and trout
 	- Pacific salmon
-	- rout
+		-
+	- Pacific trout
