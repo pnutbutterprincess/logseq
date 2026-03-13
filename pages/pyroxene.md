@@ -2,11 +2,13 @@
 - chemical formula: XYZ2O6
 - Major subdivisions of pyroxenes
 	- Magnesium-Iron pyroxenes
+	  collapsed:: true
 		- [[enstatite]] - [Mg](magnesium)2[Si](silicon)2[O](oxygen)6
 		- [[orthoferrosilite]] - [Fe](iron)2^2+[Si](silicon)2[O](oxygen)6
 		- [[orthopyroxene]] - ([Mg](magnesium),[Fe](iron)^2+)2[Si](silicon)2[O](oxygen)6
 		- [[pigeonite]] - ([Mg](magnesium),[Fe](iron)^2+,[Ca](calcium))2[Si](silicon)2[O](oxygen)6
 	- Calcium Pyroxenes
+	  collapsed:: true
 		- [[augite]] - ([Ca](calcium),[Na](sodium))([Mg](magnesium),[Fe](iron),[Al](aluminum))2([Si](silicon),[Al](aluminum))2[O](oxygen)6
 		- [[diopside]] - [Ca](calcium)[Mg](magnesium)[Si](silicon)2[O](oxygen)6
 		- [[hedenbergite]] - [Ca](calcium)[Fe](iron)^2+[Si](silicon)2[O](oxygen)6
@@ -14,5 +16,6 @@
 	- Calcium-Sodium Pyroxenes
 		- [[omphacite]] - ([Ca](calcium),[Na](sodium))([Mg](magnesium)^2+,[Fe](iron)^2+,[Al](aluminum))[Si](silicon)2[O](oxygen)6
 		- [[aeginne-augite]] - ([Ca](calcium),[Na](sodium))([Mg](magnesium)^2+,[Fe](iron)^2+,[Fe](iron)^3+)[Si](silicon)2[O](oxygen)6
+	- Sodium Pyroxenes
 		-
 	-
