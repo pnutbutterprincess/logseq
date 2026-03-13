@@ -1,1 +1,2 @@
-- Jewish-American virologist and
+-
+	- Jewish-American virologist who developed one of the first polio vaccines
