@@ -1,6 +1,6 @@
 - genus of ray-finned fish in the [[salmoninae]] subfamily of the family [[salmonidae]]
-- Contains 16 species of salmon and trout
-	- Pacific salmon
+- species of Pacific salmon and Pacific trout
+	-
 		- Pink salmon, humpback salmon
 		- Chinook salmon, blackmouth, black salmon, chub salmon, Columbia River salmon, king salmon, Quinnat salmon,
 		- Chum salmon, dog salmon, keta salmon, silverbrite salmon
