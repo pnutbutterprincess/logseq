@@ -1,0 +1,3 @@
+- a species of [[moth]] in the family [[zygaenidae]] known from Assam (northeast [[India]]), [[Bhutan]], and [[Myanmar]]
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Corma_sp_cf._maculata_%287211457934%29.jpg/250px-Corma_sp_cf._maculata_%287211457934%29.jpg" />

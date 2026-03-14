@@ -1,0 +1,5 @@
+- a genus of [[ankylosaurid]] dinosaurs from the [[Late Cretaceous]] [[Huiquanpu Formation]] of Shanxi Province, [[China]], first described by [[Pang Qiqing]] and [[Cheng Zhengwu]] in [[1998]]
+- species
+	- Tianzhenosaurus youngi (type species)
+	- Tianzhenosaurus chengi
+-

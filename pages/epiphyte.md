@@ -1,0 +1,3 @@
+- a [[plant]] or plant-like organism that grows on the surface of another plant or plant-like organism, called [[phorophyte]]s, deriving its moisture and nutrients from the air, rain, water (marine), or from debris accumulating around it.
+- different from parasitic plants in that they only grow on the other plant for physical support and do not draw nourishment from it
+-
