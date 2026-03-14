@@ -8,4 +8,4 @@
 - cleavage: perfect in {001}, good on {010}, intersect at 90 degrees
 - fracture: uneven
 - hardness: 6
-- luster: vitreous, pearly
+- luster: vitreous, pearly on cleavage
