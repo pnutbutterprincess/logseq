@@ -1,0 +1,1 @@
+[[sauropod]] dinosaurs, having shorter front legs, small narrow heads, and plates or spikes along the back made of a special type of bones known as [[osteoderm]]s. A type of [[Thyreophoran]] dinosaur 

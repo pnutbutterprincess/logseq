@@ -1,0 +1,2 @@
+- An Australian pediatrician and amateur entomologist
+- October 3, [[1861]]-December 29, 1947

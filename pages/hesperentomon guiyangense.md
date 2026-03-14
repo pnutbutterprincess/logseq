@@ -1,0 +1,1 @@
+- a species of [[protura]]n in the family [[hesperentomidae]], found in Southern Asia

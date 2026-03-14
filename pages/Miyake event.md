@@ -1,0 +1,15 @@
+- an observed sharp enhancement in the production of [[cosmogenic isotopes]] by [[cosmic ray]]s, which can be marked by a spike in the concentration of the radioactive carbon isotope 14[C](carbon) in tree rings, as well as 10[Be](beryllium) and 36[Cl](chlorine) in ice cores
+- these events are estimated to occur every 400 to 2400 years, and would cause severe damage to technological infrastructure
+- strong evidence points to Miyake events being caused by extreme solar particle events, likely related to solar super-flares
+- discovered by Japanese physicist Fusa Miyake, who published her findings in the journal [[Nature]] in [[2012]]
+- five events are currently known for a spike in 14C
+	- 7176 BCE
+	- 5259 BCE
+	- 660 BCE
+	- 774 CE
+	- 993 CE
+- four additional events need further confirmation
+	- 12350 BCE
+	- 5410 BCE
+	- 1052 BCE
+	- 1279 CE

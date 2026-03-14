@@ -1,0 +1,2 @@
+- an Italian [[entomologist]], specializing in [[protura]], [[thysanura]], [[diplura]], and [[isoptera]]
+	- June 22 [[1873]]-June 10, 1949

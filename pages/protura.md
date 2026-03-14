@@ -1,0 +1,4 @@
+- very small soil-dwelling animals, constituting an order of [hexapod](hexapoda)s previously regarded as insects, but are #unconfirmed whether they are basal to other hexapods, first discovered in the 20th century
+- the first proturan, Acerentomon doderoi, was described in [[1907]] by [[Filippo Silvestri]]
+- proturans have no eyes, wings, or antennae, and are usually whitish or pale brown
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Protura_%28Acerentomon_species%29_micrograph.jpg/250px-Protura_%28Acerentomon_species%29_micrograph.jpg"/>
