@@ -1,0 +1,3 @@
+- a species of [[fish]] in the family [[Zenarchopteridae]], found in [[Indonesia]], described in [[2020]]
+- grows up to 6.1 cm (2.4 in)
+- [A New "Beakless" Halfbeak of the Genus Nomorhamphus from Sulawesi](https://bioone.org/journals/copeia/volume-108/issue-3/CI-19-313/A-New-Beakless-Halfbeak-of-the-Genus-Nomorhamphus-from-Sulawesi/10.1643/CI-19-313.full)
