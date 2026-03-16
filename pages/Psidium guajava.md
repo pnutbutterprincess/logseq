@@ -1,0 +1,4 @@
+- the *common guava, yellow guava, lemon guava,* or *apple guava*
+- an evergreen shrub or small [tree](plant) native to the Caribbean, Central America, and South America, pollinated by insects
+- guava [[fruit]]s is edible and can range from the size of an apricot to the size of a grapefruit, having white, pink, or red flesh
+- a perennial [[tree]] that grows well under sun or warm temperatures, and frequently appears in countries with tropical or sub-tropical weather, more prevalent in humid grasslands

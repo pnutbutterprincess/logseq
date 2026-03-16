@@ -1,0 +1,4 @@
+- 灰泉堡组
+- a geological formation in Shanxi and Hebei provinces, [[China]], from the [[Late Cretaceous]]
+- predominantly consists of purple-red [[mudstone]] containing grey-white sandy conglomerates
+- #formation

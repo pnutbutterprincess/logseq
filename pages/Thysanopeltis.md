@@ -1,0 +1,4 @@
+- a genus of [[trilobite]] that lived from the [[Early Devonian]] to the [[Middle Devonian]], found in [[Africa]] and [[Europe]], named in [[1847]]
+- species
+	- T. iaciniata
+	- T. speciosa

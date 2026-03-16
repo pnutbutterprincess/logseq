@@ -1,0 +1,1 @@
+- a [[moth]] in the subfamily [[Arctiinae]], genus [[Pseudocharis]], and family [[Erebidae]], described in [[1781]], found in [[Colombia]] and [[Suriname]]

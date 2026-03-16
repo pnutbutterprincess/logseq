@@ -1,0 +1,56 @@
+- *Afro-Asian ring-necked parrots*
+- a likely [[paraphyletic]] genus of parrots from Africa and Southeast Asia, defined in [[1800]]
+- widespread group, and the only genus of parrot which has the majority of its species in continental [[Asia]]
+- species
+  collapsed:: true
+	- Newton's parakeet (extinct [[1875]])
+	- Echo parakeet
+		- Réunion parrot (extinct mid-18th century)
+	- Mascarene grey parakeet (extinct [[1764]])
+	- Rose-ringed parakeet
+	- Alexandrine parakeet
+	- Seychelles parakeet (extinct [[1883]])
+	- Plum-headed parakeet
+	- Blossom-headed parakeet
+	- Slaty-headed parakeet
+	- Grey-headed parakeet
+	- Blue-winged parakeet
+	- Layard's parakeet
+	- Lord Derby's parakeet
+	- Red-breasted parakeet
+	- Long-tailed parakeet
+	- Nicobar parakeet
+- alternative phylogeny, published in [[2019]] after a study of genetic evidence
+	- genus himalayapsitta
+		- plum-headed parakeet
+		- grey-headed parakeet
+		- slaty-headed parakeet
+		- blossom-headed parakeet
+	- genus nicopsitta
+		- blue-winged parakeet
+		- layard's parakeet
+	- genus belocercus
+		- long-tailed parakeet
+	- genus psittacula
+		- red-breasted parakeet
+		- lord derby's parakeet
+		- nicobar parakeet
+	- genus palaeornis
+		- alexandrine parakeet
+		- seychelles parakeet
+	- genus alexandrinus
+		- rose-ringed parakeet
+		- newton's parakeet
+		- echo parakeet
+	- genus tanygnathus
+		- great-billed parrot
+		- blue-naped parrot
+		- blue-backed parrot
+		- black-lored parrot
+	- genus psittinus
+		- blue-rumped parrot
+		- simeulue parrot
+	- genus mascarinus
+		- mascarene parrot
+	- genus lophopsittacus
+		- mauritius grey parrot

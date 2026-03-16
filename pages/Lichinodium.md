@@ -1,0 +1,7 @@
+- a genus of filamentous [[lichen]]s, and the only genus in the family [[Lichinodiaceae]], also the only member of the order [[Lichinodiales]]
+- generally prefers cool, humid environments, where they grow on conifer twigs, tree trunks, or rocks
+- species
+	- L. ahlneri
+	- L. canadense
+	- L. saxicola
+	- L. sirosiphoideum

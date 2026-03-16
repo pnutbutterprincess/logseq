@@ -1,0 +1,1 @@
+- a species of [[goby]] widespread along the southern coasts of the Caspian Sea, described in [[1877]]

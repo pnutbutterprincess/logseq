@@ -1,0 +1,1 @@
+- in botany, plants on which other plants ([[epiphyte]]s) grow for support, without any parasitic relationship

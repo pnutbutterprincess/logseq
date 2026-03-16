@@ -1,13 +1,7 @@
-[[clastic sedimentary rock]]
-title:: mudstone
-Mudstone does not break into sheets
-
-Clast size
-
-- very fine
-  Clast composition
-- clay and/or very fine silt
-  Angularity / Sphericity
-  Sorting
-  Sedimentary maturity
-  Character of cement
+- type of [[clastic sedimentary rock]]
+- clast size: very fine
+- clast composition: clay and/or very fine silt
+- angularity / sphericity
+- sorting
+- sedimentary maturity
+- character of cement

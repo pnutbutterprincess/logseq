@@ -1,0 +1,1 @@
+- a species of armored trap-door [[spider]] in the family [[Idiopidae]], endemic to New South Wales, first described in [[2008]]

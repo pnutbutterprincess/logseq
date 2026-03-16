@@ -1,0 +1,4 @@
+- *striped wood snail, banded wood snail,* or *leopard snail*
+- a medium-sized species of air-breathing land [[snail]], a terrestrial pulmonate gastropod mollusc in the family [[Enidae]], distributed in central and southern Europe, living in relatively dry areas, and described in [[1774]]
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Zebrina_detrita_01.JPG/250px-Zebrina_detrita_01.JPG" />

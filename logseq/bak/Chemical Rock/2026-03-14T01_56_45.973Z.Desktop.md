@@ -1,0 +1,1 @@
+A type of [[Sedimentary Rock]] formed directly from water-precipitated minerals, and generally have a crystalline texture

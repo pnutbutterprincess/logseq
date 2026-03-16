@@ -1,0 +1,7 @@
+- an [[epiphyte]] species of [[orchid]] found from [[Brazil]] to [[Paraguay]], growing primarily in wetlands, first described in [[1877]]
+- description
+	- pseudobulbs below ground which store starches
+	- strap-like leaves
+	- blooms in late spring or early summer
+	- blooms are [paniculate](panicle) on stems which have many flowers
+-

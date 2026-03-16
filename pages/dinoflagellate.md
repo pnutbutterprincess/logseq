@@ -1,0 +1,4 @@
+- unicellular organisms possessing two dissimilar flagella
+- complex cell covering called *amphiesma* or *cortex* made up of a series of membranes, flattened vesicles, and related structures
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/2023_Dinoflagellate.svg/500px-2023_Dinoflagellate.svg.png" />

@@ -1,0 +1,1 @@
+The second step in the creation of [[Clastic Rock]], erosion removes clasts worn down by [[weathering]] from their surrounding rock.

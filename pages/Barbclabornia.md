@@ -1,0 +1,1 @@
+- an extinct genus of [[xenacanth]] from the early [[Permian]] and possibly upper Pennsylvanian of [[North America]], initially only known from isolated teeth in 1970 but formally defined in [[2003]]

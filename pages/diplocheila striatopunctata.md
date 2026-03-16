@@ -1,0 +1,3 @@
+- a species of ground [[beetle]] in the family [[carabidae]] and is found in [[North America]], described in [[1844]]
+-
+- <img src="https://api.gbif.org/v1/image/cache/fit-in/500x/occurrence/5198796403/media/d0fae222d7a74acb5dfec05b608ced91" />

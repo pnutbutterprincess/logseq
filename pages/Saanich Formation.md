@@ -1,0 +1,1 @@
+- a geologic formation in the Puget Sound of Washington, consisting of [[Pleistocene]] marine siliciclastic deposits preserving fossils

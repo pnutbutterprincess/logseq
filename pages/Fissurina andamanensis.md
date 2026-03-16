@@ -1,0 +1,6 @@
+- a species of [[corticolous]] (bark-dwelling) script [[lichen]] in the family [[Graphidaceae]], formally described in [[2012]] and found in the Andaman Islands
+- description
+	- a yellowish-brown thallus that is glossy, cracked, and slightly verrucose
+	- lirellate ascomata that are 1-6 mm long, simple to irregularly branched, and the same color as the thallux, with a *dumastii* type structure
+	- the ascospores have 3 transverse septa, are hyaline, and measure 20-27 by 7-10 μm, with a thin halo
+- contains salazinic acid, an uncommon lichen product within the genus [[Fissurina]]

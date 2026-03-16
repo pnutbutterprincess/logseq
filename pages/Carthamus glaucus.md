@@ -1,0 +1,4 @@
+- the *glaucous star thistle*
+- a species of [[plant]] in the family [[Asteraceae]], found in historical Palestine, Lebanon, and Egypt
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Carthamus_glaucus_kz01.jpg/250px-Carthamus_glaucus_kz01.jpg" />

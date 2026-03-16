@@ -1,0 +1,1 @@
+- a proposed evolutionary grouping (clade) of [[iguanian]] [[lizard]]s defined as all taxa sharing a more recent common ancestor with Chamaeleo chamaeleon or Iguana iguana. Named by paleontologist [[Jack Conrad]] in [[2008]] to describe a clade including the extinct genus [[Isodontosaurus]], the extinct family [[Priscagamidae]], and the living clade [[Acrodonta]]

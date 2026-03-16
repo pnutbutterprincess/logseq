@@ -1,0 +1,1 @@
+- a [[lithophyte]] [[plant]] species in the genus [[navia]], native to [[Venezuela]] and [[Guyana]], which grows primarily in wet tropical biomes, first described by the Royal Botanical Gardens in the UK, an organization called Bromeliaceae, in [[1964]]

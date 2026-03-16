@@ -1,0 +1,5 @@
+- *round-winged muslin*
+- a [[moth]] of the family [[Erebidae]] found in northern and central Europe, the Alps, northern Asia Minor, Crimea, and south-western Siberia
+- wingspan about 15-20 mm
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Thumatha_senex.jpg/250px-Thumatha_senex.jpg" />

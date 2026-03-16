@@ -1,0 +1,1 @@
+- a [[plant]] belonging to the genus [[Watsonia]], endemic to the Northern Cape and Western Cape provinces of [[South Africa]]

@@ -1,0 +1,1 @@
+- a species of [mantid](mantis) in the family [[acontistidae]], described in [[1911]], from [[French Guiana]] in [[South America]]

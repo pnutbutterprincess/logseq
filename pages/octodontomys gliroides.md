@@ -1,0 +1,5 @@
+- *mountain degu,* also known as the *Andean degu*
+- a medium-sized species of [[rodent]] in the family [[octodontidae]], and the only species in the genus Octodontomys, was described in [[1844]]
+- has long, silky, grey-brown fur, large grey ears, and white-furred chin and underparts, and is found in the foothills of the [[Andes]] in [[Argentina]], [[Bolivia]], and [[Chile]].
+- an herbivore, eating grasses, leaves, bark, and cacti, and gets most of its water from eating the tissue of prickly pear cactuses
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Octodontomys_gliroides_238516748.jpg/250px-Octodontomys_gliroides_238516748.jpg" />

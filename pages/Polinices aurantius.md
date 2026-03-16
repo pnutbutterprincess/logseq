@@ -1,0 +1,2 @@
+- a species of predatory [[sea snail]], a marine [[gastropod]] [[mollusk]] in the family [[Naticidae]], the moon snails, occurring in the [[Indian Ocean]] off [[Madagascar]] and named in [[1798]]
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Polinices_aurantius_01.JPG/250px-Polinices_aurantius_01.JPG" />

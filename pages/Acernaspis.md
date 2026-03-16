@@ -1,0 +1,6 @@
+- an extinct genus of [[trilobite]] from the [[Silurian]], first described from the type species in [[1860]]
+- species
+	- A. elliptifrons
+	- A. salmoensis
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Acernaspis_orestes_%28trilobite%29.jpg/250px-Acernaspis_orestes_%28trilobite%29.jpg" />

@@ -1,0 +1,3 @@
+- plants which grow in or on rocks
+- epilithic (epipetric) lithophytes grow on rock surfaces
+- endolithic (chasmophyte) lithophytes grow in the cracks or crevices

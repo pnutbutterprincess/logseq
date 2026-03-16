@@ -1,0 +1,1 @@
+- a [[moth]] in the family [[prodoxidae]], found in the [[Mojave Desert]] in [[North America]], described in [[1892]]

@@ -1,0 +1,3 @@
+- a [[moth]] of the family [[Noctuoidea]], first described in [[1808]], and mainly distributed through southern Europe and the south and eastern part of Europe, also North Africa, through the Near and Middle East, Central Asia, and western China
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Mythimna_vitellina_FvL.jpg/250px-Mythimna_vitellina_FvL.jpg" />

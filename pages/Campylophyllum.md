@@ -1,0 +1,7 @@
+- a genus of [[moss]]es belonging to the family [[Hypnaceae]], found in Europe and North America
+- species
+	- C. calcareum
+	- C. halleri
+	- C sommerfeltii
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Campylophyllum_halleri_%28a%2C_144945-474712%29_1162.JPG/250px-Campylophyllum_halleri_%28a%2C_144945-474712%29_1162.JPG" />

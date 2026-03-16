@@ -1,0 +1,3 @@
+- in botany, a panicle is a much-branched [[inflorescence]] , largely characteristic of [[grass]]es
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Inflorescences_Panicle_Kwiatostan_Wiecha.svg/250px-Inflorescences_Panicle_Kwiatostan_Wiecha.svg.png" />

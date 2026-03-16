@@ -1,0 +1,4 @@
+- a small [[shrimp]] in the family [[Palaemonidae]], first described in [[1990]], and is only known from New Caledonia
+- a benthic species living at a depth of 260-285 meters
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Pontonia_monnioti_%28MNHN-IU-2014-20605%29.jpeg/250px-Pontonia_monnioti_%28MNHN-IU-2014-20605%29.jpeg" />
