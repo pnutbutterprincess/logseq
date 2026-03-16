@@ -1,0 +1,1 @@
+- a species of cylindrical weevil in the [[beetle]] family [[Curculionidae]] found in [[North America]], first described in [[1891]]

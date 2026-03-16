@@ -1,0 +1,1 @@
+- a species of jumping [[spider]] in the genus [[Pseudicius]] that lives in Lesotho and South Africa, first described in [[1903]]

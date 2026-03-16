@@ -1,1 +1,1 @@
-- family of [[moth]]s in the superfamily [[noctuoidea]], containing a wide variety of macromoth groups
+- family of [[moth]]s in the superfamily [[Noctuoidea]], containing a wide variety of macromoth groups

@@ -1,0 +1,10 @@
+- a species of [[sea snail]], a marine [[gastropod]] [[mollusk]], in the family [[costellariidae]], the ribbed miters, named in [[2015]]
+- length of shell: 20-21 mm
+- range
+	- New Caledonia
+	- Papua New Guinea
+	- Society Islands
+	- South China Sea
+	- Taiwan
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Alisimitra_tehuaorum_001.jpg/250px-Alisimitra_tehuaorum_001.jpg" />

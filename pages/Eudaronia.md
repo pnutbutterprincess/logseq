@@ -1,0 +1,8 @@
+- a genus of [[sea snail]]s, marine gastropod mollusks in the family [[Eudaroniidae]] within the superfamily [[Seguenzioidea]]
+- species
+	- E. aperta
+	- E. biconcava
+	- E. jaffaensis
+	- E. mikra
+	- E. pusilla
+	- E. spirata

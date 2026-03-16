@@ -1,0 +1,3 @@
+- *"thief from the beloved land"*
+- an extinct genus of large [[carcharodontosaurid]] [[dinosaur]] that lived during the [[Late Cretaceous]] in what is now [[Egypt]]
+- known from a partial skeleton collected from the [[Bahariya Formation]], which was described by [[Ernst Stromer]] in [[1931]] and then destroyed in [[1944]] during WWII in the bombing of Munich.

@@ -1,0 +1,14 @@
+- *black-faced rufous warbler*
+- a species of [[bird]] in the family [[cisticolidae]], found in several countries in [[Africa]], having natural habitats in subtropical or tropical lowland and montane forests, named in [[1895]]
+- range:
+	- Cameroon
+	- Central African Republic
+	- Republic of the Congo
+	- Equatorial Guinea
+	- Gabon
+	- Kenya
+	- Rwanda
+	- South Sudan
+	- Tanzania
+	- Uganda
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Black-faced_Rufous_Warbler%2C_Kakamega_Forest%2C_Kenya.jpg/250px-Black-faced_Rufous_Warbler%2C_Kakamega_Forest%2C_Kenya.jpg" />

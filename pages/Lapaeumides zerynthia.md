@@ -1,0 +1,1 @@
+- a [[moth]] in the [[Castniidae]] family, found in [[Brazil]], likely found in lowland tropical forests #unconfirmed and first described in [[1838]]

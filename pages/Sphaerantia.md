@@ -1,0 +1,4 @@
+- a group of flowering [[plant]]s in the family [[Myrtaceae]], described as a genus in [[1988]], endemic to the northern part of Queensland in [[Australia]]
+- species
+	- S. chartacea
+	- S. discolor

@@ -1,0 +1,1 @@
+- a species of [[moth]] in the family [[Geometridae]] endemic to [[New Guinea]] and described in [[1926]]

@@ -1,0 +1,8 @@
+- mythological creatures or evil spirits from [[Algonquin]] #folklore, generally seen as cannibalistic ice giants
+- described as larger than the average man, getting bigger the hungrier they are, having sharp fangs standing out due to their lips having been chewed off
+- chenoo used to be human, being corrupted by dark magic and cursed to eat people's flesh; their bodies becomes excruciatingly warm, forcing them to live in the snow
+- most stories take the point of view of the Chenoo
+- [Chenoo Legends](https://www.native-languages.org/chenoo.htm#:~:text=Chenoos+are+the+evil+man,heart+to+turn+to+ice)
+	- [[Micmac]]
+	- [[Maliseet]]
+	- [[Passamaquoddy]]

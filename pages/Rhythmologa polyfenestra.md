@@ -1,0 +1,2 @@
+- a species of [[moth]] in the family [[Tortricidae]], found in [[Ecuador]], first described in [[2009]]
+- wingspan: 18 mm

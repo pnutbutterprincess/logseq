@@ -1,0 +1,22 @@
+- *Achilles tang, redtail surgeonfish,* or *redspot surgeonfish*
+- a [[ray-finned fish]] in the family [[Acanthuridae]], the surgeonfishes, unicornfishes, and tangs, found in the Pacific Ocean and described in [[1803]]
+- known to hybridize with [[Acanthurus nigricans]]
+- description
+	- elongated oval-shaped body with a steep dorsal profile to the head
+	- small protrusible mouth positioned low on the head with between 8 and 28 teeth on each jaw, each having a flattened serrated tip
+	- the dorsal fin is supported by 9 spines and between 29 and 33 soft rays
+	- the anal fin contains 3 spines and 26 to 29 soft rays
+	- single mobile spine on each side of the caudal peduncle, which folds down into a slit
+	- the caudal fin is concave
+	- overall color is bluish-black with an irregular oval orange blotch on the rear of the body, a white bar on the gill cover, a wide orange bar on the caudal fin, which also has a white posterior margin
+	- pale blue ring just inside the snout tip
+	- maximum length of 24cm (9.4 in)
+- habitat
+	- reefs of Oceania, up to [[Hawaii]] and Pitcairn
+	- less commonly found in the Mariana Islands and some reefs in southern Mexico and Guatemala
+	- benthopelagic species inhabiting the clear waters on the seaward side of reefs
+- biology
+	- herbivorous, primarily grazing on benthic algae
+	- territorial
+	- monogamous
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/The-acanthurids-at-Johnston-Atoll-a-Acanthurus-achilles-b-A-nigricans-and-c-the_%28cropped%29.jpg/250px-The-acanthurids-at-Johnston-Atoll-a-Acanthurus-achilles-b-A-nigricans-and-c-the_%28cropped%29.jpg" />

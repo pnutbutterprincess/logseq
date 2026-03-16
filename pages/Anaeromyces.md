@@ -1,0 +1,8 @@
+- a genus of anaerobic [[fungi]] in the family [[Neocallimastigaceae]]
+- type species Anaeromyces mucronatus, described in [[1990]]
+- Species
+	- A. contortus
+	- A. elegans
+	- A. mucronatus
+	- A. polycephalus
+	- A. robustus

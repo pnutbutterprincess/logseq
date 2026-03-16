@@ -1,0 +1,2 @@
+- a genus of planktonic [[dinoflagellate]] known for its complex morphology, discovered in [[1883]], and widespread in tropical and sub-tropical oceans
+- marked by exosymbiotic bacteria gardens
