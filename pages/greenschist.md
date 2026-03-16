@@ -1,5 +1,5 @@
 - A division of [[metamorphic]] rock classification characterized by low temperature and low pressure
-- Terms to be greenish in color and platy/schistose (having a tendency to split)
+- Tends to be greenish in color and platy/schistose (having a tendency to split)
 - Common minerals
 	- [[quartz]]
 	- [[orthoclase]]
