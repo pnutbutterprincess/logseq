@@ -1,0 +1,7 @@
+- a [[moth]] in the family [[Immidae]], first described in [[1906]] and found in [[Colombia]] and French Guiana
+- wingspan 25-26 mm
+- description
+	- forewings are purplish fuscous, irregularly sprinkled with blue grey whitish, with dark fuscous streaks on the veins broken up into short dashes arranged in irregular transverse series. the whitish sprinkling tends to form series of undefined marks between these
+	- there is a black dash beneath the costa from the base, edged beneath with ochreous white
+	- a pale waved terminal line, is preceded by indistinct dark dots
+	- the hindwings are dark fuscous

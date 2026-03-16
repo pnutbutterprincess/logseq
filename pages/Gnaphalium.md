@@ -1,0 +1,3 @@
+- *cudweed*
+- a genus of flowering [[plant]]s in the family [[Asteraceae]], widespread and common in temperate regions
+- known to contain flavonoids and diterpenes, as well as two caffeoyl-D-glucaric acid derivatives, leontopodic acid and leontopodic acid B detected in various species of Gnaphalium
