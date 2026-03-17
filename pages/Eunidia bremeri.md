@@ -1,0 +1,2 @@
+- a species of longhorn [[beetle]] in the family [[Cerambycidae]], described in [[1981]]
+-

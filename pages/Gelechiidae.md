@@ -1,0 +1,5 @@
+- *twirler moths* or *gelechiid moths*
+- a large family in the superfamily Gelechioidea
+- generally very small moths with narrow fringed wings
+- the larvae of most species feed internally on various parts of host plants, sometimes causing galls
+- many species are considered agricultural pests, but the voracious larvae also make them suitable for biological control of invasive plants

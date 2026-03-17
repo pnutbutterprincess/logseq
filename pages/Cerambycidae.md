@@ -1,0 +1,3 @@
+- *longhorn beetles,* also known as *long-horned* or *longicorns*
+- larvae are often referred to as *roundheaded borers*
+- a large family of [[beetle]]s, mostly characterized by antennae as long as or longer than the beetle's body, found on all continents except Antarctica

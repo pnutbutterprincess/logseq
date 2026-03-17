@@ -1,0 +1,4 @@
+- a species of sawfly in the found in the large Palearctic region and described in [[1817]]
+- family: [[Tenthredinidae]]
+	- genus: [[Tenthredo]]
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Tenthredo_obsoleta_male.jpg/250px-Tenthredo_obsoleta_male.jpg" />

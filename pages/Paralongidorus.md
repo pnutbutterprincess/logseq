@@ -1,0 +1,3 @@
+- a genus polyphagous root [[ectoparasite]]s of the family Longidoridae in the phylum [[Nematodes]]
+- currently contains 36 species
+-

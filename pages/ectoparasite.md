@@ -1,0 +1,1 @@
+- an ectoparasite lives outside of the host's body, on the surface

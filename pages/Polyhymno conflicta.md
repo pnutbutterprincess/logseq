@@ -1,0 +1,8 @@
+- a [[moth]] in the family [[Gelechiidae]], described in [[1917]] and found in [[Peru]]
+- wingspan: 10-13mm
+- description
+	- forewings are dark fuscous with cloudy white or whitish markings, consisting of a subcostal line on the basal half, a supramedian line to five-sixths, where it meets an attenuated stream from beneath the middle of the disc, and a confused and irregular more or less confluent suffusion occupying most of the dorsal area up to the fold
+	- oblique white line from the middle of the costa to near the termen above the middle, and a white oblique strigula from the costa at three-fourths, where a finely acutely angulated leaden-metallic line runs to the tornus
+	- two white wedge-shaped marks from the costa beyond this
+	- apical area is tinged with ochreous
+	- hindwings are light slaty grey

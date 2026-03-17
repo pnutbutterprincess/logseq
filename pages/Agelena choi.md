@@ -1,0 +1,1 @@
+- a species of [[spider]] in the family [[Agelenidae]] first described in [[1965]] and endemic to [[Korea]]

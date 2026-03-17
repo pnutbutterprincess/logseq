@@ -1,0 +1,3 @@
+- a species of [[sea snail]], a true [[limpet]], a marine gastropod [[mollusk]] in the family [[Lottiidae]], named in [[1834]] and occurring in [[New Zealand]]
+- shell length: up to 6.35 mm
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Notoacmea_elongata_%28MNHN-IM-2000-20782%29.jpeg/250px-Notoacmea_elongata_%28MNHN-IM-2000-20782%29.jpeg" />

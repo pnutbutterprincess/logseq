@@ -1,0 +1,6 @@
+- a genus of flowering [[plant]]s belonging to the family [[Atherospermataceae]], native from New Guinea to Northern Queensland
+- species
+	- D. crassa
+	- D. novoguineensis
+	- D. trachyphloia
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Dryadodaphne_crassa_Schodde_ex_Philipson_nmnhbotany_2083035_NMNH-00345349.jpg/250px-Dryadodaphne_crassa_Schodde_ex_Philipson_nmnhbotany_2083035_NMNH-00345349.jpg" />

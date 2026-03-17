@@ -1,3 +1,3 @@
-- a species of [[beetle]] in the family [[cerambycidae]], described in [[1948]]
+- a species of longhorn [[beetle]] in the family [[Cerambycidae]], described in [[1948]]
 -
 - <img src="https://web.archive.org/web/20160317132721im_/http://plant.cdfa.ca.gov/byciddb/images/D/Derancistrus_caymanensis_(a)_Fisher_BMNH_JAC_=_Elateropsis_caymanensis.jpg" />

@@ -1,0 +1,5 @@
+- a genus of [[skink]]s ([[lizard]]s in the family [[Scincidae]]), most endemic to island ecosystems in the [[Philippines]]
+- three species share the same common name: *graceful short-legged skink*
+	- B. gracilis
+	- B. hilong
+	- B. suluensis
