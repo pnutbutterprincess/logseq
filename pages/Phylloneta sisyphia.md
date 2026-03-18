@@ -1,0 +1,12 @@
+- the *mothercare spider*
+- a species of comb-footed spider from the genus [[Phylloneta]], described in [[1757]], widespread in western and central Europe
+- very similar to P. impressa
+- found on shrubs and bushes in sunny areas
+- biology
+	- builds a retreat in the shape of an inverted cup, which is covered with plant debris
+	- underneath the retreat, spins a tangle web
+	- single spherical bluish-green egg sac is produced in summer, between June and August, and is retained in the retreat
+	- the juveniles are fed orally by the female, initially through regurgitation, but eventually by sharing larger food items
+	- the female will die before the juveniles leave the nest and they will eat her body
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/00004.1_Theridion_sisyphium.JPG/250px-00004.1_Theridion_sisyphium.JPG" />

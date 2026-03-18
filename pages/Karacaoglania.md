@@ -1,0 +1,1 @@
+- a genus of [[moth]]s belonging to the subfamily [[Olethreutinae]] of the family [[Tortricidae]], defined in [[1981]]

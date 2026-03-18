@@ -1,0 +1,5 @@
+- *yellow restharrow* or *shrubby rest-harrow*
+- a species of [[plant]] in the family [[Fabaceae]]
+- a perennial plant living primarily along the coast, lower and middle mountains, in Syria, Lebanon, Palestine, Jordan, Egypt, Libya, Tunisia, Algeria, Morocco, Mediterranean
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ononis_natrix_Sardinia_LM.jpg/250px-Ononis_natrix_Sardinia_LM.jpg" />

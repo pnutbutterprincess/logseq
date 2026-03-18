@@ -1,0 +1,3 @@
+- a [[moth]] in the family [[Noctuidae]], genus [[Heliocheilus]], found in the Australian Capital Territory, New South Wales, the Northern Territory, Queensland, and Western [[Australia]], described in [[1852]]
+- wingspan: 30 mm
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Heliocheilus_moribunda1.jpg/250px-Heliocheilus_moribunda1.jpg" />

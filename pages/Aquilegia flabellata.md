@@ -1,0 +1,1 @@
+- a species of perennial flowering [[plant]] in the genus [[Aquilegia]] in the family [[Ranunculaceae]], native to North and East Asia, commonly known as the *fan columbine*

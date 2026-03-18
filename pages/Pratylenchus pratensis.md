@@ -1,0 +1,2 @@
+- a plant pathogenic [nematode](Nematodes) first described in [[1880]]
+- hosts include English holly, oat, corn, alfalfa, strawberry, and clover

@@ -1,0 +1,2 @@
+- a [[sauropodomorph]] from the [[Early Jurassic]]
+- [Anatomy and systematics of the sauropodomorph Sarahsaurus aurifontanalis from the Early Jurassic Kayenta Formation](https://doi.org/10.1371%2Fjournal.pone.0204007)

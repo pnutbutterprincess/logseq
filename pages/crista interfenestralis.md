@@ -1,0 +1,3 @@
+- a bone ridge that divides the inner ear into two parts, anterior and posterior, found in the inner ear of many [[reptile]]s
+- the anterior part contains the fenestra ovalis and seems to be analogous to the vestibular duct, whereas the posterior part is analogous to the recess for the tympanic duct
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Journal.pone.0204007.g008.png/250px-Journal.pone.0204007.g008.png" />

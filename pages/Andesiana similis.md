@@ -1,0 +1,1 @@
+- a [[moth]] of the [[Andesianidae]] family, known from [[Argentina]], first described in [[1989]]
