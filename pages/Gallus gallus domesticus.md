@@ -1,0 +1,7 @@
+- *chicken*
+- species of [[bird]]
+- breeds
+	- Vorwerk: a breed having distinctive black and gold plumage, originating in Germany, rare or non-existent outside continental Europe
+		- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Vorwerkhuhn_at_the_BUGA_2009.JPG/200px-Vorwerkhuhn_at_the_BUGA_2009.JPG" />
+-
+-

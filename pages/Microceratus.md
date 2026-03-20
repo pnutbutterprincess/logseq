@@ -1,0 +1,5 @@
+- "small-horned"
+- a genus of small [[ceratopsia]]n [[dinosaur]] that lived in the [[Cretaceous]] period of [[Mongolia]]
+- walked on two legs, had short front arms, a characteristic ceratopsian frill and beak-like mouth, and was around 60cm (2ft) long
+- one of the most primitive ceratopsians
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Microceratops.jpg/250px-Microceratops.jpg" />

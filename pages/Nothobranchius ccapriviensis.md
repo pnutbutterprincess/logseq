@@ -1,0 +1,3 @@
+- a species of seasonal killifish in the family [[Nothobranchiidae]], described in [[2015]]
+- small [[fish]], with the males reaching only 3.5-4cm
+- #endangered

@@ -1,0 +1,7 @@
+- *western oriole* or *western black-headed oriole*
+- a species of [[bird]] in the family [[Oriolidae]] which is native to [[Africa]], described in [[1837]]
+- sub-species/sister species (genetic data)
+	- West African black-headed oriole (O. b. brachyrynchus, 1837): found from Guinea-Bissau to Togo and Benin
+	- Cameroon black-headed oriole (O. b. laetior, 1897): found from Nigeria to western Kenya, south-central Democratic Republic of Congo, and northern Angola
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Western_Black-headed_Oriole_-_Kakum_NP_-_Ghana_14_S4E3089_%2816016463070%29.jpg/250px-Western_Black-headed_Oriole_-_Kakum_NP_-_Ghana_14_S4E3089_%2816016463070%29.jpg" /> <img src="https://cdn.download.ams.birds.cornell.edu/api/v2/asset/169705891/480" />

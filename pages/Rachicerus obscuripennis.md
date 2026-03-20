@@ -1,0 +1,3 @@
+- a North American [[fly]] of the order [[Diptera]] in the [[Rachicerinae]] family, described in [[1863]], and is the only North American species with pectinate (comblike) flagellomeres (antenna segments)
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Rachicerus_obscuripennis.jpg/250px-Rachicerus_obscuripennis.jpg" />

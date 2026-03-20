@@ -1,0 +1,6 @@
+- a genus of [[Middle Permian]] [[ammonite]] belonging to the [[goniatitid]] family [[Pseudohaloritidae]]
+- fossils from this genus were found in [[China]]
+- species
+	- E. nodosum
+	- E. spinonodosum
+- range: 268 - 265.8 Ma

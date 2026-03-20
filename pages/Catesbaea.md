@@ -1,0 +1,3 @@
+- a genus of flowering [[plant]]s in the family [[Rubiaceae]], occurring in the West Indies, Bahamas, and Florida Keys, named in honor of English naturalist Mark Catesby,
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/The_Botanical_Magazine%2C_Plate_131_%28Volume_4%2C_1791%29.png/250px-The_Botanical_Magazine%2C_Plate_131_%28Volume_4%2C_1791%29.png" />

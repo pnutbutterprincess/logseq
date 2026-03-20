@@ -1,0 +1,3 @@
+- an island in [[Scotland]] notable for its [[basalt]] columns
+- primarily of volcanic origin, having a basement of [[tuff]] overlain by [[Paleogene]] basalt beneath basaltic entablature
+- During the [[Pleistocene]], Staffa was covered by ice sheets

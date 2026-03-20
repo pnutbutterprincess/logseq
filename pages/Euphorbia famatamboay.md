@@ -1,0 +1,2 @@
+- a species of [[plant]] in the family [[Euphorbiaceae]], endemic to [[Madagascar]]
+- threatened by habitat loss

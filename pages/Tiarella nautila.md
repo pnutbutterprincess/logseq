@@ -1,0 +1,9 @@
+- a species of flowering [[plant]] in the family [[Saxifragaceae]], sometimes called the *sail-leaf foamflower,* endemic to the Blue Ridge Mountains in the southeastern United States
+- a perennial herbaceous plant with a short, slender rhizome, a leafy flowering stem, relatively large basal leaves, and lacks the ability to produce stolons
+- identification
+	- absent stolon
+	- basal leaves usually longer than wide
+	- basal leaf lobes usually acute-acuminate with the terminal lobe prominently extended
+	- flowering stem usually with leaves or foliaceous bracts
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Tiarella_nautila_tomkennedy_2010-04-17.jpg/250px-Tiarella_nautila_tomkennedy_2010-04-17.jpg" />

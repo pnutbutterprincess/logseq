@@ -1,0 +1,4 @@
+- *northern pondsitter*
+- a species of damselfly in the family [[Isostictidae]], found in Northern Territory [[Australia]], described in [[1908]]
+- a medium-sized damselfly, dull grey-brown colored with some pale markings
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Austrosticta_fieldi.jpg/250px-Austrosticta_fieldi.jpg" />

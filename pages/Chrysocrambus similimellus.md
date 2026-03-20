@@ -1,0 +1,1 @@
+- a [[moth]] in the family [[Crambidae]], described in [[1931]] and found in North Africa
