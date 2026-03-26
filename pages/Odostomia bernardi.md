@@ -1,0 +1,2 @@
+- a species of [[sea snail]] in the family [[Pyramidellidae]], described in [[1998]] and found in the Azores and in European waters
+- gradually tapering shell varies between 1.4 and 1.6 mm in length, and is white and slightly transparent

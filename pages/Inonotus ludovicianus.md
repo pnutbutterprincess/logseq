@@ -1,0 +1,1 @@
+- a species of [[fungus]] in the family [[Hymenochaetaceae]], which is a plant pathogen found in the southwestern United States and Louisiana, described in [[1941]]

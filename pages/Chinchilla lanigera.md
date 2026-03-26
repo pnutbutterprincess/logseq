@@ -1,0 +1,4 @@
+- *long-tailed chinchilla,* also known as the *Chilean, coastal, common, or lesser chinchilla*
+- one of two species of [[rodent]] in the genus [[Chinchilla]], #endangered in the wild and from which domestic chinchilla are believed to be descended
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Chinchilla_lanigera_%28Wroclaw_zoo%29-2.JPG/250px-Chinchilla_lanigera_%28Wroclaw_zoo%29-2.JPG" />

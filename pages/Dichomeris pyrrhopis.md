@@ -1,0 +1,2 @@
+- a [[moth]] in the family [[Gelechiidae]], described in [[1922]], and found in [[Brazil]]
+- wingspan: 12-16mm

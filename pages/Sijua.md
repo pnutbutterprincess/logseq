@@ -1,0 +1,1 @@
+- a genus of [[moth]] in the family [[Thyrididae]] from [[Africa]], first named in [[1971]]

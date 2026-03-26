@@ -1,0 +1,1 @@
+- a species of [[beetle]] in the family [[Cerambycidae]], described in [[1966]] and found in [[Mexico]]

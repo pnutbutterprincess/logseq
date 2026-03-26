@@ -1,0 +1,1 @@
+- a genus of [[fungi]] in the Trichothyriaceae family

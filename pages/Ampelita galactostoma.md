@@ -1,0 +1,4 @@
+- a species of tropical air-breathing land [[snail]] in the family [[Acavidae]], endemic to [[Madagascar]] and described in [[1849]]
+- description
+	- convex-orbicular shell, tawny-colored, with oblique striations and a granular texture, having an obtuse apex and four and a half slightly convex whorls
+	- the aperture is very oblique, oval, and white within

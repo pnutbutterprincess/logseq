@@ -1,0 +1,5 @@
+- a genus of rays, commonly known as *electric rays, torpedo rays,* or *torpedoes,* defined in [[1775]]
+- slow-moving bottom-dwellers capable of generating electricity as a defense and feeding mechanism
+- the naval weapon was named after this genus
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Torpedo_torpedo_corsica2.jpg/250px-Torpedo_torpedo_corsica2.jpg" />

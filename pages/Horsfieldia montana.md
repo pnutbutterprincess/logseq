@@ -1,0 +1,1 @@
+- a species of [[plant]] in the family [[Myristicaceae]], endemic to [[Borneo]]

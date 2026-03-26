@@ -1,0 +1,2 @@
+- Mouros or Moiros are, according to [[Portuguese]], Galician, and Asturian #mythology and #folklore, are a race of supernatural beings which have inhabited these lands since the beginning of time.
+- They were forced to take refuge under the earth

@@ -1,0 +1,3 @@
+- a genus of [[fungus]] in the family [[Boletaceae]], containing a single species: Pseudoaustroboletus valens, found in China, Japan, Malaysia, and Singapore, formally classified in [[2014]]
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Pseudoaustroboletus_valens_263537.jpg/250px-Pseudoaustroboletus_valens_263537.jpg" />

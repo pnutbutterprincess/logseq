@@ -1,0 +1,3 @@
+- *white-lined bird grasshopper*
+- a species of bird [[grasshopper]] in the family [[Acrididae]], found in North America, often near the US-Mexico border
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/White-lined_Bird_Grasshopper%2C_Schistocerca_albolineata.jpg/250px-White-lined_Bird_Grasshopper%2C_Schistocerca_albolineata.jpg" />

@@ -1,0 +1,1 @@
+- a geologic formation in Georgia preserving fossils dating back to the [[Paleogene]]

@@ -1,0 +1,4 @@
+- a genus of [[sea snail]]s in the family [[Prosiphonidae]]
+- species
+	- D. peonza
+	- D. tatyanae

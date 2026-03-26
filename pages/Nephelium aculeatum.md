@@ -1,0 +1,4 @@
+- *Rambutan utan*
+- a species of [[tree]] that is native to [[Borneo]], bearing edible fruit, which is #critically-endangered as of 2018 due to land use change in forest habitats and temperature extremes resulting from climate change
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Nephelium_aculeatum.jpg/250px-Nephelium_aculeatum.jpg" />

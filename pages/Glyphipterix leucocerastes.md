@@ -1,0 +1,1 @@
+- a species of sedge [[moth]] in the genus Glyphipterix, described in [[1880]] and found in [[Australia]] and New South Wales

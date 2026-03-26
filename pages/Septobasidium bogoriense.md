@@ -1,1 +1,1 @@
-- a plant pathogen, one of a number of [[fungi]] in the genus [[Septobasidium]] responsible for the disease of tea plants known commonly as velvet blight, named in [[1899]]
+- a plant pathogen, one of a number of [[fungus]] in the genus [[Septobasidium]] responsible for the disease of tea plants known commonly as velvet blight, named in [[1899]]

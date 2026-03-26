@@ -1,0 +1,6 @@
+- a species of [[sea snail]] in the family [[Horaiclavidae]], described in [[1877]]
+- description
+	- length of the shell 13mm by 5 mm
+	- elongate turreted shell containing 7 whorls, with the two apical whorls being remarkably large
+	- faint nodules at the top of the whorls and more distinct ones around the middle have faint dots of brown between them
+	- the aperture is large and almost square, equalling about 5/13 of the total length of the shell

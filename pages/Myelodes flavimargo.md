@@ -1,0 +1,1 @@
+- a species of snout [[moth]] in the genus [[Myelodes]], described in [[1930]], found in Lesotho and South Africa

@@ -1,0 +1,3 @@
+- commonly referred to as *loricariids, suckermouth catfishes, armored catfish,* or *suckermouth armored catfish*
+- the largest family of [catfish](Siluriformes), containing over 680 species, originating from freshwater tropical habitats of Costa Rica, Panama, and South America
+- noted for bony plates covering their bodies and suckermouths

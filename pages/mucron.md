@@ -1,0 +1,2 @@
+- an attachment organelle found in archigregarines, an order of epicellular parasitic [[Conoidasida]]
+- located at the anterior end of the cell, and is used to attach and feed from the host's cell

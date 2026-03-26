@@ -1,0 +1,4 @@
+- *tentacled dragonet*
+- a species of [[fish]] (dragonet) native to tropical reefs in the western Pacific Ocean, described in [[1835]]
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Anaora_tentaculata.jpg/250px-Anaora_tentaculata.jpg" />

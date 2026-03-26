@@ -1,0 +1,1 @@
+- a species of [[beetle]] in the family [[Chrysomelidae]], described in [[1929]] and found in [[Brazil]]

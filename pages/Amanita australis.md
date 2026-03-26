@@ -1,0 +1,5 @@
+- a species of [[fungus]] in the family [[Amanitaceae]], described in [[1962]] by a New Zealand mycologist, and is only found in [[New Zealand]]
+- produces small- to medium-sized fruit bodies, with brown caps up to 9cm in diameter covered with pyramidal warts
+- the gills on the underside are white, closely crowded together, and free from attachment to the stem
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Amanita_australis48443.jpg/250px-Amanita_australis48443.jpg" />

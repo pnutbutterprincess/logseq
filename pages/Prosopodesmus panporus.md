@@ -1,0 +1,4 @@
+- *hothouse millipede*
+- a species of flat-backed [[millipede]] in the family [[Haplodesmidae]], first discovered in hothouses for tropical plants in England, but was likely native to Australia, described in [[1980]]
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Prosopodesmus_panporus.jpg/250px-Prosopodesmus_panporus.jpg" />

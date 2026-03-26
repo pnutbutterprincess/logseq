@@ -1,0 +1,6 @@
+- a genus of parasitic [[alveolate]]s in the phylum Apicomplexa which infect marine invertebrates
+- species: M. keilini ([[1933]])
+- description
+	- live within the gut and measure 200-300 μm x 40-70 μm
+	- have 30-40 grooves along the body
+	- four refringent rods are present in the [[mucron]], and may also have a vacuole in the mucron

@@ -1,0 +1,1 @@
+- a species of [[plant]] in the [[Loganiaceae]] family, endemic to [[Sri Lanka]], listed as #vulnerable

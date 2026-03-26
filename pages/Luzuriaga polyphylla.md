@@ -1,0 +1,3 @@
+- a flowering [[plant]] vine species endemic to [[Chile]]
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Luzuriaga_polyphylla_imported_from_iNaturalist_photo_148540982_on_10_October_2023.jpg/250px-Luzuriaga_polyphylla_imported_from_iNaturalist_photo_148540982_on_10_October_2023.jpg" />
