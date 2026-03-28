@@ -1,0 +1,1 @@
+- earliest known pterosaurs are from the [[Late Triassic]], when they were already well-evolved for flight
