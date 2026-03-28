@@ -1,2 +1,2 @@
 - earliest known pterosaurs are from the [[Late Triassic]], when they were already well-evolved for flight
-- presumed to have evolved in the early [[Triassic]], pterosaurs had light bones with abundant air spaces, forelimbs supporting the wing, and most of the wing membrane supported by a single
+- presumed to have evolved in the early [[Triassic]], pterosaurs had light bones with abundant air spaces, forelimbs supporting the wing, and most of the wing membrane supported by a single long finger
