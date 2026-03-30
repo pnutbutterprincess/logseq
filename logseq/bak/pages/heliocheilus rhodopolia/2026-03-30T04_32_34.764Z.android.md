@@ -1,0 +1,4 @@
+- a [[moth]] in the family [[noctuoidea]], endemic to New South Wales, the Northern Territory, Queensland, and Western [[Australia]], described by [[Alfred Turner]] in [[1911]]
+- this species has reddish forewings with variable pale streaks and hindwings which are pale brown and have dark shading around the margins. The wing margins are slightly scalloped
+- size is about 3 cm
+- <img src="https://www.lepidoptera.butterflyhouse.com.au/heli/rhodopolia4.jpg" />

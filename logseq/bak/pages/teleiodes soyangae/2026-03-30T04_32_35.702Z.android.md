@@ -1,0 +1,1 @@
+- a [[moth]] in the family [[gelechiidae]], found in [[Korea]] and described in [[1992]]
