@@ -6,4 +6,6 @@
 - color: colorless to white, grey, red, burgundy, pink, dark brown, mahogany, honey yellow, yellow, green, pastel green, blue, light blue, azure
 - habit: [[fibrous]], [[botryoidal]] to massive
 - cleavage: imperfect
-- fracture: irregular to conch
+- fracture: irregular to conchoidal
+- hardness: 5.5
+-
