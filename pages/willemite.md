@@ -8,4 +8,5 @@
 - cleavage: imperfect
 - fracture: irregular to conchoidal
 - hardness: 5.5
+- luster: vitreous to resinous
 -
