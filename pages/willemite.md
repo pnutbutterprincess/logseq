@@ -11,4 +11,3 @@
 - luster: vitreous to resinous
 - varieties
 	- troostite: zinc partly replaced by [[manganese]]
--
