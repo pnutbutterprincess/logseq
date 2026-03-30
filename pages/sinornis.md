@@ -1,0 +1,2 @@
+- an [[Early Cretaceous]] [[bird]] from [[China]], having a shorter tail, a breastbone supporting greater wing movement, and fingers which supported feathers rather than claws
+- still had a more primitive pelvis and teeth
