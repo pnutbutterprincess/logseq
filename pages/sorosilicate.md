@@ -2,4 +2,5 @@
 - Si:O ratio - 2:7
 - minerals:
 	- Epidote group
-	-
+	- lawsonite
+	- pumpellyite
