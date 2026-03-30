@@ -1,0 +1,3 @@
+- a muscle in [[bird]]s which is used in flight
+- It attaches to the breastbone and passes through the shoulder joint to attach on the upper side of the humerus
+- lacking in [[Archaeopteryx]]
