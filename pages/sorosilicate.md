@@ -1,0 +1,1 @@
+- [[silicate]] minerals in which two silicate tetrahedra are paired by a shared oxygen anion
