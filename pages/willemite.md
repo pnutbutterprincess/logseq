@@ -1,1 +1,2 @@
-- a [[nesosilicate]] [[zinc]] [[silicate]] [[mineral]]
+- a [[nesosilicate]] [[zinc]] [[silicate]] [[mineral]], and a minor ore for zinc
+-
