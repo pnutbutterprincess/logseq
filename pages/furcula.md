@@ -1,0 +1,2 @@
+- the "wishbone" in birds, which is flexible and acts as a spring, repositioning the shoulder joints after each wing stroke
+- this bone in [[Archaeopteryx]] and other [[theropod]] dinosaurs is U-shaped and too solid to have been used for flapping flight
