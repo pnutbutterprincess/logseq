@@ -1,1 +1,1 @@
-- a [[nesosilicate]] [[zinc]]
+- a [[nesosilicate]] [[zinc]] [[silicate]] [[mineral]]
