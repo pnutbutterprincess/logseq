@@ -2,4 +2,4 @@
 - Highly UV fluorescent, green under UV light
 - chemical formula: [Zn](zinc)2[Si](silicon)[O](oxygen)4
 - crystal system: [[trigonal]]
--
+- crystal class:
