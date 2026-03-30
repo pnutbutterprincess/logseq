@@ -1,2 +1,3 @@
 - a [[nesosilicate]] [[zinc]] [[silicate]] [[mineral]], and a minor ore for zinc
--
+- Highly UV fluorescent, green under UV light
+- chemical formula: [Zn](
