@@ -10,5 +10,5 @@
 - hardness: 5.5
 - luster: vitreous to resinous
 - varieties
-	-
+	- troostite: zinc
 -
