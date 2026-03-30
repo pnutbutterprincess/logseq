@@ -5,4 +5,5 @@
 - crystal class: rhombohedral
 - color: colorless to white, grey, red, burgundy, pink, dark brown, mahogany, honey yellow, yellow, green, pastel green, blue, light blue, azure
 - habit: [[fibrous]], [[botryoidal]] to massive
--
+- cleavage: imperfect
+- fracture:
