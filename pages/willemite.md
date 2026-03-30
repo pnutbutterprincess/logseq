@@ -3,4 +3,4 @@
 - chemical formula: [Zn](zinc)2[Si](silicon)[O](oxygen)4
 - crystal system: [[trigonal]]
 - crystal class: rhombohedral
-- color: colorless to white, grey, red, burgundy, pink, dark brown, mahogany, honey yellow, yellow, green, pastel green,
+- color: colorless to white, grey, red, burgundy, pink, dark brown, mahogany, honey yellow, yellow, green, pastel green, blue, light blue,
