@@ -1,0 +1,2 @@
+- silicate minerals which form from single SiO4 tetrahedra bonding with adjacent cations
+-

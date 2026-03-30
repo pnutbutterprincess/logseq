@@ -3,7 +3,7 @@
 - chemical formula: [SiO4]4−
 - minerals:
 	- [[phenakite]] group
-		- [[phenakite]] - Be2SiO4
+		- [[phenakite]]
 		- [[willemite]] - Zn2SiO4
 	- [[olivine]] group
 		- [[forsterite]] - Mg2SiO4
@@ -37,3 +37,5 @@
 	- [[titanite]] - CaTiSiO5
 	- [[chloritoid]] - (Fe,Mg,Mn)2Al4Si2O10(OH)4
 	- [[mullite]] - Al6Si2O13
+- silicate minerals which form from single SiO4 tetrahedra bonding with adjacent cations
+-
