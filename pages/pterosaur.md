@@ -1,5 +1,5 @@
 -
 - two main groups of pterosaurs
-	- [[rhamphorhynchoid]]s(([[Late Triassic]] - [[Late Jurassic]])
-	- [[pterodactyloid]]s (
+	- [[rhamphorhynchoid]]s ([[Late Triassic]] - [[Late Jurassic]])
+	- [[pterodactyloid]]s ([[Late Jurassic]]-[[End-Cretaceous mass extinction]])
 -
