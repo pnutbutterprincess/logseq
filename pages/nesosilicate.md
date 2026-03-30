@@ -37,5 +37,4 @@
 	- [[titanite]] - CaTiSiO5
 	- [[chloritoid]] - (Fe,Mg,Mn)2Al4Si2O10(OH)4
 	- [[mullite]] - Al6Si2O13
-- silicate minerals which form from single SiO4 tetrahedra bonding with adjacent cations
--
+- [[silicate]] minerals which form from single SiO4 tetrahedra bonding with adjacent cations
