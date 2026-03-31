@@ -1,0 +1,1 @@
+- a species of warty leaf [[beetle]] in the family [[Chrysomelidae]] found in Central America and North America, and described in [[1926]]

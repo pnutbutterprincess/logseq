@@ -1,0 +1,1 @@
+- a species of prominent [[moth]] in the family [[Notodontidae]], first described in [[1899]] and found in [[North America]]

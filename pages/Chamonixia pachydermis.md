@@ -1,0 +1,3 @@
+- a species of [[fungi]] in the family [[Boletaceae]], found in New Zealand
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chamonixia_pachydermis_11.JPG/250px-Chamonixia_pachydermis_11.JPG" />

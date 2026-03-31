@@ -1,0 +1,5 @@
+- *wheel spider* or *golden wheel spider*
+- a huntsman [[spider]] native to the Namib Desert of Southern Africa, up to 20mm in size
+- escapes parasitic wasps by flipping onto its side and cartwheeling down sand dunes
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Carparachne_aureoflava_110456212.jpg/250px-Carparachne_aureoflava_110456212.jpg" />

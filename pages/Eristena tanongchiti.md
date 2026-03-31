@@ -1,0 +1,1 @@
+- a species of [[moth]] in the family [[Crambidae]], described in [[1984]], and found in Thailand and China

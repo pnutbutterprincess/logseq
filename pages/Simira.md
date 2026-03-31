@@ -1,0 +1,3 @@
+- a genus of [[plant]]s in the family [[Rubiaceae]], native to [[Mexico]] and in southern tropical America
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Simira_salvadorensis.jpg/250px-Simira_salvadorensis.jpg" />

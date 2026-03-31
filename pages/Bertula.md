@@ -1,0 +1,3 @@
+- a genus of [[moth]]s in the family [[Erebidae]]
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bertula_sp._%2822713763070%29.jpg/250px-Bertula_sp._%2822713763070%29.jpg" />

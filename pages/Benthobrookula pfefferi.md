@@ -1,0 +1,1 @@
+- a species of [[sea snail]], in the superfamily Seguenzioidea
