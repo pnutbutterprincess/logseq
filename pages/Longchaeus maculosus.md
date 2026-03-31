@@ -1,0 +1,4 @@
+- the *sulcate pyram*
+- a species of [[sea snail]] in the family [[Pyramidellidae]], described in [[1822]]
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Pyramidella_maculosa_001.jpg" />

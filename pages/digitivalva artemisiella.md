@@ -1,1 +1,1 @@
-- a [[moth]] in the family [[acrolepiidae]], found in [[Japan]] and described in [[1972]]
+- a [[moth]] in the family [[Acrolepiidae]], found in [[Japan]] and described in [[1972]]

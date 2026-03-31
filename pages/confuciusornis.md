@@ -1,0 +1,2 @@
+- a primitive [[bird]] from the [[Cretaceous]] of [[China]]
+- having a reptilian skull and long fingers with claws on its wings, but having lost its teeth and long tail

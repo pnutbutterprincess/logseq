@@ -1,0 +1,4 @@
+- the *beautiful pearl*
+- a species of [[moth]] in the family [[Crambidae]], first described in [[1763]]
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Crambidae_-_Agrotera_nemoralis.JPG/250px-Crambidae_-_Agrotera_nemoralis.JPG" />

@@ -1,0 +1,1 @@
+- a genus of longhorn [[beetle]] in the subfamily [[Lamiinae]]

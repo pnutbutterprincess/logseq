@@ -1,0 +1,4 @@
+- *green penny fern*
+- a semi-succulent species of [[fern]] in the family [[Polypodiaceae]] native to parts of China, Japan, and the eastern Asian seaboard
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lemmaphyllum_microphyllum_%28sporangium_s3%29.jpg/250px-Lemmaphyllum_microphyllum_%28sporangium_s3%29.jpg" />

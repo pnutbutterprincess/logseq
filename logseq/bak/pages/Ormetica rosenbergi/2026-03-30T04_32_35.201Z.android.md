@@ -1,0 +1,1 @@
+- a moth in the family [[erebidae]], described by [[Walter Rothschild]] in [[1909]] and found in [[Ecuador]]

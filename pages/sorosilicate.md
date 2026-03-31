@@ -1,0 +1,6 @@
+- [[silicate]] minerals in which two silicate tetrahedra are paired by a shared oxygen anion
+- Si:O ratio - 2:7
+- minerals:
+	- Epidote group
+	- lawsonite
+	- pumpellyite

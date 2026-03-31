@@ -1,0 +1,3 @@
+- a species of small [[tree]] (or mallee) endemic to the south coast of Western Australia.
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Eucalyptus_semiglobosa.jpg/250px-Eucalyptus_semiglobosa.jpg" />

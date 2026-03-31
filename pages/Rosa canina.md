@@ -1,0 +1,4 @@
+- *dog rose*
+- a wild [[rose]] species native to Europe, northwest Africa, and western Asia
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Divlja_ruza_cvijet_270508.jpg/250px-Divlja_ruza_cvijet_270508.jpg" />
