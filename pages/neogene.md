@@ -8,5 +8,5 @@
 		- [[Tortonian]] age
 		- [[Serravallian]] age
 		- [[Langhian]] age
-		- [[Burdigalian]] age
-		- [[Aquitanian]] age
+		- [[Burdigalian]] age (20.45 Ma)
+		- [[Aquitanian]] age (23.03 Ma)
