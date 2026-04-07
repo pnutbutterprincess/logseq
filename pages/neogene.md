@@ -4,4 +4,9 @@
 		- [[Piacenzian]] age
 		- [[Zanclean]] age
 	- [[miocene]] epoch
-		-
+		- [[Messinian]] age
+		- [[Tortonian]] age
+		- [[Serravallian]] age
+		- [[Langhian]] age
+		- [[Burdigalian]] age
+		- [[Aquitanian]] age
