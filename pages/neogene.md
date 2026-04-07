@@ -11,4 +11,4 @@
 		- [[Burdigalian]] age (20.45 Ma)
 		- [[Aquitanian]] age (23.03 Ma)
 - Earth 15 Ma, miocene epoch:
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mollweide_Paleographic_Map_of_Earth%2C_15_Ma_%28Langhian_Age%29.png/500px-Mollweide_Paleographic_Map_of_Earth%2C_15_Ma_%28Langhian_Age%29.png"
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mollweide_Paleographic_Map_of_Earth%2C_15_Ma_%28Langhian_Age%29.png/500px-Mollweide_Paleographic_Map_of_Earth%2C_15_Ma_%28Langhian_Age%29.png" />
