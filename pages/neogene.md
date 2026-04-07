@@ -1,6 +1,6 @@
 - the second period of the [[Cenozoic]] era, spans 20.45 Ma from the end of the [[Paleogene]] period (20.04 Ma) to the beginning of the [[Quaternary]] period (2.58 Ma)
 - subdivisions
-	- [[pliocene]] epoch ()
+	- [[pliocene]] epoch (7.246 ± 0.005 to 3.6 ± 0.005 Ma)
 		- [[Piacenzian]] age (3.6 ± 0.005 Ma)
 		- [[Zanclean]] age (5.332 ± 0.005 Ma)
 	- [[miocene]] epoch (23.03 Ma to 7.246 ± 0.005 Ma)
@@ -10,3 +10,5 @@
 		- [[Langhian]] age (15.98 Ma)
 		- [[Burdigalian]] age (20.45 Ma)
 		- [[Aquitanian]] age (23.03 Ma)
+- Earth 15 Ma, miocene epoch:
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mollweide_Paleographic_Map_of_Earth%2C_15_Ma_%28Langhian_Age%29.png/500px-Mollweide_Paleographic_Map_of_Earth%2C_15_Ma_%28Langhian_Age%29.png"
