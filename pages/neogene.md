@@ -1,1 +1,4 @@
-- the second period of the [[Cenozoic]] era, spans 20.45 Ma from the end of the [[Paleogene]] period (20.04 Ma)
+- the second period of the [[Cenozoic]] era, spans 20.45 Ma from the end of the [[Paleogene]] period (20.04 Ma) to the beginning of the [[Quaternary]] period (2.58 Ma)
+- subdivisions
+	- [[pliocene]] epoch
+		-
