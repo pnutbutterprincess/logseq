@@ -4,8 +4,8 @@
 		- [[Piacenzian]] age
 		- [[Zanclean]] age
 	- [[miocene]] epoch
-		- [[Messinian]] age
-		- [[Tortonian]] age (11.61 Ma)
+		- [[Messinian]] age (7.246 ± 0.005 Ma)
+		- [[Tortonian]] age (11.608 ± 0.005 Ma)
 		- [[Serravallian]] age (13.82 Ma)
 		- [[Langhian]] age (15.98 Ma)
 		- [[Burdigalian]] age (20.45 Ma)
