@@ -1,1 +1,1 @@
-- the second period of the [[Cenozoic]] era
+- the second period of the [[Cenozoic]] era, spans 20.45 Ma from the end of the [[Paleogene]] period (20.04 Ma)
