@@ -1,9 +1,9 @@
 - the second period of the [[Cenozoic]] era, spans 20.45 Ma from the end of the [[Paleogene]] period (20.04 Ma) to the beginning of the [[Quaternary]] period (2.58 Ma)
 - subdivisions
-	- [[pliocene]] epoch
-		- [[Piacenzian]] age
-		- [[Zanclean]] age
-	- [[miocene]] epoch
+	- [[pliocene]] epoch ()
+		- [[Piacenzian]] age (3.6 ± 0.005 Ma)
+		- [[Zanclean]] age (5.332 ± 0.005 Ma)
+	- [[miocene]] epoch (23.03 Ma to 7.246 ± 0.005 Ma)
 		- [[Messinian]] age (7.246 ± 0.005 Ma)
 		- [[Tortonian]] age (11.608 ± 0.005 Ma)
 		- [[Serravallian]] age (13.82 Ma)
