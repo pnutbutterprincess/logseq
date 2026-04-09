@@ -1,0 +1,11 @@
+- intermediate [[igneous]] rocks are between 55-65% [Si](silicon)[O](oxygen)2
+- intermediate rocks include
+	- [[diorite]]
+	- [[quartz diorite]]
+- abundant [[plagioclase]]
+- minor or absent [[K-feldspar]] and [[quartz]]
+- major [[mafic]] minerals include
+	- [[hornblende]]
+- may also include
+	- [[biotite]]
+	- [[pyroxene]]s

@@ -1,0 +1,3 @@
+- a genus of [[moth]], containing from 259 to over 400 species occurring in North and South America, with the majority found in South America
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Antaeotricha.jpg/250px-Antaeotricha.jpg" />

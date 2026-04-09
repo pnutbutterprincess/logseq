@@ -1,0 +1,1 @@
+- an alkaline [[igneous]] rock with an abundance of [[sodium]] and [[potassium]]

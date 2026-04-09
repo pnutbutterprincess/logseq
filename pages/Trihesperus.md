@@ -1,0 +1,4 @@
+- a genus of flowering [[plant]]s in the family [[Asparagaceae]], generally found in the Andes of Colombia, Ecuador, Peru, Bolivia, and northwest Argentina
+- species
+	- T. glaucus
+	- T. latifolius

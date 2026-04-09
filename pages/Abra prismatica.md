@@ -1,0 +1,11 @@
+- a species of [[bivalve]] mollusk in the family [[Semelidae]], occurring in the northeastern Atlantic Ocean, the North Sea, and the Mediterranean Sea
+- grows to about 13cm (5in)
+- description
+	- shell valves are brittle and about twice as long as they are wide, and are oval or fusiform
+	- shells are sculptured with fine concentric lines
+	- the chondrophore (pit to which the internal ligament is attached) points to the posterior
+	- the right valve has two small cardinal teeth in front of the chondrophore, and a single anterior and single posterior lateral teeth behind
+	- on the left valve there is a single small cardinal tooth, and two small anterior and posterior laterals
+	- the valves are shiny white both inside and out
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Montagu1808_pl26_fig3_Abra_prismatica.png/250px-Montagu1808_pl26_fig3_Abra_prismatica.png" />

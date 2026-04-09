@@ -1,0 +1,1 @@
+- a type of [[igneous]] rock whose crystals are large enough to be distinguished without the help of magnification, forming deep underground in plutonic environments where magma cools slowly

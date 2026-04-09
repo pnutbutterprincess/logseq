@@ -1,0 +1,2 @@
+- an extinct genus of [[frog]], which lived during the upper [[Cretaceous]] period ([[Santonian]] age) in what is now [[Hungary]], described in [[2010]] from isolated ilia and tibio-fibulae
+- now thought to be a member of the superfamily [[Hyloidea]]

@@ -1,0 +1,3 @@
+- a [[phaneritic]] intrusive [[igneous]] rock composed mostly of [[plagioclase]] (90-100%), with a mafic component of 10% or less (most commonly pyroxene, ilmenite, magnetite, or olivine)
+- how anorthosite forms is still unknown, but most are [[Archean]] or [[Proterozoic]] batholith deposits
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Anorthosit_of_Salem_Tamil_Nadu.jpg/250px-Anorthosit_of_Salem_Tamil_Nadu.jpg" />

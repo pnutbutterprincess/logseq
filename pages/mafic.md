@@ -1,0 +1,7 @@
+- mafic [[igneous]] rocks are between 45-55% [Si](silicon)[O](oxygen)2
+- represented by [[basalt]] among extrusive volcanic rocks and [[gabbro]] in intrusive igneous rocks
+- major minerals
+	- [[plagioclase]]
+	- [[clinopyroxene]]
+	- [[orthopyroxene]]
+	- with or without olivine
