@@ -1,0 +1,1 @@
+- a species of very small [[sea snail]], a [[mollusk]] or micromollusk in the family [[Granulinidae]], first described in [[2001]]

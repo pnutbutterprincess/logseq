@@ -1,0 +1,2 @@
+- a genus of ectoparasites belonging to the phylum [[Platyhelminthes]] and class Monogenea, which attach themselves as larvae to the gills of fish
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Monogenea_120_Page_039_Allopseudaxine_yaito_Yamaguti%2C_1968_Gastrocotylidae.png/250px-Monogenea_120_Page_039_Allopseudaxine_yaito_Yamaguti%2C_1968_Gastrocotylidae.png" />

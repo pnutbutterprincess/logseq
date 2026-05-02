@@ -1,0 +1,1 @@
+- a species of [sedge](Cyperaceae) native to eastern Africa and the Arabian Peninsula, formally described in [[1882]]

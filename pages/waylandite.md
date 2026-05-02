@@ -1,0 +1,14 @@
+- the phosphate analogue of the [[mineral]] arsenowaylandite and the aluminum analogue of zaïrite, a member of the [[alunite]] supergroup and a member of the plumbogummite (crandallite) group
+- formula: [Bi](bismuth)[Al](aluminum)3([P](phosphorus)[O](oxygen)4)2([O](oxygen)[H](hydrogen))6
+- crystal system: [[trigonal]]
+- crystal class: hexagonal scalenohedral
+- color: colorless, white, pale blue, pale brown
+- twinning: cyclic
+- fracture: irregular, uneven (when massive)
+- mohs scale hardness: 4-5
+- luster: vitreous, dull
+- streak: white
+- waylandite forms tiny crystals, but can also occur as compact fine-grained powder
+- composition: oxygen (38.49%), bismuth (35.91%), aluminum (13.91%), phosphorus (10.65%), hydrogen (1.04%)
+- no radioactive properties
+- bismuth may be replaced by calcium, and phosphorus may be replaced by silicon

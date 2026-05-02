@@ -1,0 +1,2 @@
+- a species of metallic wood-boring [[beetle]] in the family [[Buprestidae]] found in Central America and North America
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Buprestoidea_-_Acmaeodera_rubronotata.jpg/250px-Buprestoidea_-_Acmaeodera_rubronotata.jpg" />

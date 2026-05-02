@@ -1,0 +1,3 @@
+- a native [[bee]] to Western Australia, a #critically-endangered species
+- body is creamy yellow and brown, about 7mm long with wings up to 5mm long
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Neopasiphae_simplicior.jpg/250px-Neopasiphae_simplicior.jpg" />

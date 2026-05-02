@@ -1,0 +1,2 @@
+- *Georgia false indigo*
+- a species of flowering [[plant]] in the family [[Fabaceae]], a rare subshrub, native to southeastern North Carolina, South Carolina, and Georgia in the United States

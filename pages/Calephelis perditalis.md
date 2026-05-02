@@ -1,0 +1,3 @@
+- *rounded metalmark* or *lost metalmark*
+- a species of [[butterfly]] in the family Riodinidae, found in Texas in the United States and in Mexico, south to Venezuela, first described in [[1918]]
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Rounded_metalmark_%28Calephelis_perditalis%29.jpg/250px-Rounded_metalmark_%28Calephelis_perditalis%29.jpg" />

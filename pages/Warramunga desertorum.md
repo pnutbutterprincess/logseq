@@ -1,0 +1,1 @@
+- a species of [[grasshopper]] in the family [[Morabidae]], having the single species in the family *Warramunga*

@@ -1,0 +1,5 @@
+- an extinct genus of squat [[lobster]] in the family [[Munididae]], which lived during the [[Jurassic]]
+- species
+	- J. costaspinosa
+	- J. perculta
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Juracrista_perculta_Reconstruction.png/250px-Juracrista_perculta_Reconstruction.png" />

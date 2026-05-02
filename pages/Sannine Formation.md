@@ -1,0 +1,3 @@
+- a [[Cretaceous]] geologic formation in [[Lebanon]] containing a high diversity of [[fish]], [[reptile]]s, and [[invertebrate]]s, primarily [[Cenomanian]] in age
+- one of three major Cretaceous [[lagerstätte]] in Lebanon
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sannine_Formation_outcrops.png/1280px-Sannine_Formation_outcrops.png" />

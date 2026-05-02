@@ -1,0 +1,3 @@
+- *twospot livebearer, spottail kilifish,* or *guatopote manchado*
+- a species of freshwater livebearing [[fish]] in the [[Poeciliidae]] family, found in freshwater ecosystems throughout Central America and Mexico
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Pseudoxiphophorus_bimaculatus.jpg/250px-Pseudoxiphophorus_bimaculatus.jpg" />

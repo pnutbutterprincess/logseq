@@ -1,0 +1,8 @@
+- a species of [[sea slug]], a dorid [[nudibranch]] in the family [[Goniodorididae]], first described from the straits of Gibraltar ([[1989]]), and also reported from Italy
+- description
+	- body is translucent white in color with elongate orange spots
+	- the rhinophores and gills are yellow-brown
+	- has a patch of orange grading to yellow on the tail
+	- oral tentacles and lateral papillae are yellow with white bases and a hint of orange at the base of the yellow
+- biology
+	- probably feeds on [[Entoprocta]], which often grow on sponges

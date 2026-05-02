@@ -1,0 +1,3 @@
+- commonly known as *ivory palms, ivory-nut palms,* or *tagua palms*
+- a genus containing six known species of dioecious [[palm]]s in the family [[Arecaceae]], occuring from southern Panama along the Andes to Ecuador, Bolivia, Colombia, NW Brazil, and Peru
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TaguaPalm.JPG/250px-TaguaPalm.JPG" />

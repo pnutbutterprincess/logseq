@@ -1,0 +1,1 @@
+- a gram-positive [[bacterium]] from the genus Jeotgalibaca which has been isolated from the liquid of a joint from pigs

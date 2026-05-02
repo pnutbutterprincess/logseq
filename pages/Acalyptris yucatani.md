@@ -1,0 +1,2 @@
+- a species of [[moth]] of the family [[Nepticulidae]] found on the Yucatán Peninsula
+- the larvae feed on *Schinus* species and mine the leaves of their host plant

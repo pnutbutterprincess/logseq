@@ -1,0 +1,2 @@
+- a species of predatory [[sea snail]] in the family [[Cymatiidae]]
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Monoplex_durbanesis.jpg/250px-Monoplex_durbanesis.jpg" />

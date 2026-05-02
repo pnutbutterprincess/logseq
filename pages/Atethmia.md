@@ -1,0 +1,8 @@
+- a genus of [[moth]] in the family [[Noctuidae]] defined in [[1821]]
+- species
+	- A. algirica
+	- A. ambusta
+	- A. centrago
+	- A. obscura
+	- A. pinkeri
+	- A. sinuata
