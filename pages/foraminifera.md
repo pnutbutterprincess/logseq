@@ -4,3 +4,4 @@
 - microgranular calcareous tests appeared in the [[Silurian]]
 - pseudofibrous types appeared in the [[Devonian]]
 - at the Devonian-[[Carboniferous]] boundary, foraminifera began to develop with multilocular tests with periodic growth
+- porcelaneous tests appeared soon after in the [[Carboniferous]], along with morphological dimorphism and trochospiral coiling
