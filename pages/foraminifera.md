@@ -1,2 +1,5 @@
 - single-celled organisms, members of [[Rhizaria]]n [[protist]]s
 - typically have shells (called "tests") made of [[calcium carbonate]] or aggraded sediment
+- foraminifera with unilocular agglutinated tests first appeared in the [[Ordivician]] or [[Cambrian]]
+- microgranular calcareous tests appeared in the [[Silurian]]
+- pseudofibrous types appeared in the [[Devonian]]
