@@ -3,3 +3,4 @@
 - foraminifera with unilocular agglutinated tests first appeared in the [[Ordivician]] or [[Cambrian]]
 - microgranular calcareous tests appeared in the [[Silurian]]
 - pseudofibrous types appeared in the [[Devonian]]
+- at the Devonian-[[Carboniferous]] boundary, foraminifera began to develop with multilocular tests with periodic growth
