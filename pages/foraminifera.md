@@ -7,4 +7,6 @@
 - porcelaneous tests appeared soon after in the [[Carboniferous]], along with morphological dimorphism and trochospiral coiling
 - [[Endothyridae]] and [[Fusulinidae]] proliferated in the late [[Paleozoic]] and disappeared at the start of the Mesozoic
 - during the [[Jurassic]] was the development of true [[Miliolidae]], the first hyaline tests to be fibroradial, perforate, and lamellar, as well as [plankton](Globuligerina)ic forms
+- some species began to populate lagoons in the early [[Cretaceous]], with diversification continuing throughout
+- Many genera disappeared at the beginning of the [[Cenozoic]], followed by diversification of older groups as well as the creation of new ones such as [[Nummulitidae]]
 -
