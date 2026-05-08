@@ -6,3 +6,4 @@
 - at the Devonian-[[Carboniferous]] boundary, foraminifera began to develop with multilocular tests with periodic growth
 - porcelaneous tests appeared soon after in the [[Carboniferous]], along with morphological dimorphism and trochospiral coiling
 - [[Endothyridae]] and [[Fusulinidae]] proliferated in the late [[Paleozoic]] and disappeared at the start of the Mesozoic
+- during the [[Jurassic]] was the development of true [[Miliolidae]], the first hyaline tests to be fibroradial, perforate, and lamellar, as well as [plankton](Globuligerina)ic forms
