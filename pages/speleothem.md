@@ -1,2 +1,9 @@
 - a geological formation made by mineral deposits accumulating over time in natural [[cave]]s
--
+- six most common types are
+	- stalagtite
+	- stalagmite
+	- flowstone
+	- column
+	- drapery
+	- straws
+- speleothems are useful in paleo
