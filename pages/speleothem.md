@@ -1,0 +1,2 @@
+- a geological formation made by mineral deposits accumulating over time in natural [[cave]]s
+-
