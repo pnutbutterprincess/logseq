@@ -6,4 +6,4 @@
 	- column
 	- drapery
 	- straws
-- speleothems are useful in paleo
+- speleothems are useful in paleoclimatic study due to slow gradual growth, preservation, and chemical composition
