@@ -1,0 +1,14 @@
+- felsic [[igneous]] rocks are >65% [Si](silicon)[O](oxygen)2
+- felsic rocks include
+	- [[granite]]
+	- [[granodiorite]]
+	- [[rhyolite]]
+	- [[rhyodacite]]
+- substantial minerals
+	- [[quartz]]
+	- [[K-feldspar]]
+	- [[plagioclase]]
+- common minerals
+	- [[biotite]]
+	- [[muscovite]]
+	- [[hornblende]]

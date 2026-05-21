@@ -1,0 +1,1 @@
+- a [[moth]] in the family [[Galacticidae]], found in [[Russia]]

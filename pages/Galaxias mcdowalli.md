@@ -1,0 +1,4 @@
+- *McDowall's galaxias*
+- a galaxiid [[fish]] of the genus Galaxias, a member of the mountain galaxias species complex group of freshwater fish found in [[Australia]] and described in [[2014]], #critically-endangered
+- description
+	- long, tubular body, flattened on the back in front of the pelvic fins

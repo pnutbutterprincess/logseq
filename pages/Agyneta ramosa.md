@@ -1,0 +1,1 @@
+- a species of [sheet weaver](spider) found in the [[Palearctic]], described in [[1912]]

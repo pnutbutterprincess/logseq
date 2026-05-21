@@ -1,0 +1,11 @@
+- a genus of longhorn [[beetle]] in the subfamily [[Lamiinae]]
+- species
+	- E. anomala
+	- E. argyrosticta
+	- E. callosicollis
+	- E. gleneoides
+	- E. impustulata
+	- E. minamii
+	- E. trivittata
+	- E. unicolor
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Eumecocera_gleneoides.jpg/250px-Eumecocera_gleneoides.jpg" />

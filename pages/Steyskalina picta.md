@@ -1,0 +1,1 @@
+- a species of [[fly]] in the family [[Sciomyzidae]] which lives in Asia and east of Europe

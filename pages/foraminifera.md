@@ -1,2 +1,12 @@
 - single-celled organisms, members of [[Rhizaria]]n [[protist]]s
 - typically have shells (called "tests") made of [[calcium carbonate]] or aggraded sediment
+- foraminifera with unilocular agglutinated tests first appeared in the [[Ordivician]] or [[Cambrian]]
+- microgranular calcareous tests appeared in the [[Silurian]]
+- pseudofibrous types appeared in the [[Devonian]]
+- at the Devonian-[[Carboniferous]] boundary, foraminifera began to develop with multilocular tests with periodic growth
+- porcelaneous tests appeared soon after in the [[Carboniferous]], along with morphological dimorphism and trochospiral coiling
+- [[Endothyridae]] and [[Fusulinidae]] proliferated in the late [[Paleozoic]] and disappeared at the start of the Mesozoic
+- during the [[Jurassic]] was the development of true [[Miliolidae]], the first hyaline tests to be fibroradial, perforate, and lamellar, as well as [plankton](Globuligerina)ic forms
+- some species began to populate lagoons in the early [[Cretaceous]], with diversification continuing throughout
+- Many genera disappeared at the beginning of the [[Cenozoic]], followed by diversification of older groups as well as the creation of new ones such as [[Nummulitidae]]
+-

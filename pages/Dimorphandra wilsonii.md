@@ -1,0 +1,5 @@
+- *Faveiro de Wilson*
+- a [[tree]] species of [[legume]] in the family [[Fabaceae]] found only in the Minas Gerais state of SE [[Brazil]]
+- habitat is moist savanna
+- due to habitat loss, the population is reduced to less than two dozen known individuals, and is #critically-endangered
+- <img src="https://biologiadapaisagem.com.br/wp-content/uploads/2024/05/IMG_20240516_112409.jpg" />

@@ -1,0 +1,1 @@
+- a species of [[moth]] in the family [[Depressariidae]] described in [[1981]] and found in the far east of [[Russia]]

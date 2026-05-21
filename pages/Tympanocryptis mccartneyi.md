@@ -1,0 +1,3 @@
+- *Bathurst grassland earless dragon*
+- a species of [agama](lizard) endemic to New South Wales, [[Australia]], described in [[2019]] and inhabits grasslands, plains, and paddocks in alluvial plains, but is #critically-endangered
+- <img src="https://www.westernadvocate.com.au/images/transform/v1/crop/frm/gfyFBZ2A3aREPWrpf4KzA3/a1cd12d7-88fa-42c5-89ee-196d6d4a381a.jpg/r0_0_2700_1770_w1200_h678_fmax.jpg" />

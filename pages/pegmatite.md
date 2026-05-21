@@ -1,0 +1,9 @@
+- very coarse-grained [[igneous]] rocks most commonly associated with (granitic)[granite] intrusions, interpreted to be produced from the last residual magma in a crystallizing granitic pluton where water and uncommon elements have been concentrated.
+- major minerals
+	- [[quartz]]
+	- [[K-feldspar]]
+	- [Na](sodium)-rich [[plagioclase]]
+	- [[muscovite]]
+	- [[biotite]]
+- pegmatites are the primary source of [[beryllium]], [[lithium]], [[rare earth element]]s, among others
+- most are compositionally zoned, and individual crystals can range from a few millimeters up to a meter/meters across

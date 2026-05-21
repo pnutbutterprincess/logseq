@@ -1,0 +1,1 @@
+- a species of [[moth]] of the family [[Tortricidae]] found in Costa Rica and Colombia

@@ -1,0 +1,9 @@
+- ultramafic [[igneous]] rocks are <45% [Si](silicon)[O](oxygen)2 and are not abundant
+- ultramafic rocks
+	- [[peridotite]] - containing [[pyroxene]] and [[olivine]]
+	- [[kimberlite]] - a [[mantle]]-derived rock consisting of [[olivine]], (Mg)[magnesium]-rich [[biotite]], and [[pyroxene]], which may contain [[diamond]]s
+- major minerals
+	- [[orthopyroxene]]
+	- (Ca)[calcium]-[[clinopyroxene]]
+	- [[olivine]]
+	- sometimes [[hornblende]]

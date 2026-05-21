@@ -1,0 +1,3 @@
+- *pin-tailed sandgrouse*
+- a species of medium-large [[bird]] in the sandgrouse family, having a small pigeon-like head and neck and a sturdy compact body.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Pin-tailed_sandgrouse_%28Pterocles_alchata%29.jpg/250px-Pin-tailed_sandgrouse_%28Pterocles_alchata%29.jpg" />

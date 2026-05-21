@@ -1,0 +1,7 @@
+- a species of cave-dwelling [[insect]] in the family [[Grylloblattidae]], endemic to the Korean Peninsula in South Korea, where it inhabits stable, low-light, and cool cave environments, considered #vulnerable due to its restricted range and specialized habitat
+- description
+	- large wingless grylloblattid adapted to cold, dark caves
+	- elongated body
+	- long antennae
+	- sensory adaptations for subterranean habitats
+	- one of the largest ice bugs described

@@ -1,0 +1,3 @@
+- chemical element 83, a post-transition metal and one of the pnictogens
+- appearance: lustrous brownish silver
+-

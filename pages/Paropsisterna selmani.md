@@ -1,0 +1,3 @@
+- *Tasmanian eucalyptus beetle*
+- a species of leaf [[beetle]] native to [[Tasmania]], inadvertently introduced to Ireland and the United Kingdom, and a pest to eucalyptus plants in both Tasmania and Ireland
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Paropsisterna_selmani.jpg/250px-Paropsisterna_selmani.jpg" />

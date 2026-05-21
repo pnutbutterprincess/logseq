@@ -1,0 +1,2 @@
+- a middle [[Jurassic]] ([[Bathonian]]-[[Callovian]]) geologic formation located in [[Mexico]], derived from rocks of late Carboniferous or early Permian age due to the presence of zircon crystals in the formation's sandstone
+- dinosaur remains pertaining to a member of the [[Flagellicaudata]] represent the first evidence of Flagellicaudata in this part of North America

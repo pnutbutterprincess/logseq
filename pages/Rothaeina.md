@@ -1,0 +1,7 @@
+- a genus of [[spider]]s in the family [[Cybaeidae]] known from the Western United States (California & Oregon)
+- species
+	- R. beaudini
+	- R. jamesi
+	- R. mackinleyi
+	- R. petersoni
+	- R. sequoia (type species)

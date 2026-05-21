@@ -1,0 +1,1 @@
+- a species of ray-finned [[fish]] in the genus Sinogastromyzon, endemic to Yunnan [[China]] where it is known from the Nanpan River. It grows to 5.5 cm (2.2 in), and was described in [[1987]]

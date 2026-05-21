@@ -1,0 +1,2 @@
+- a genus of [[moth]]s in the family [[Noctuidae]]
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Eremohadena_halimi_-_inat_213107951.jpg/250px-Eremohadena_halimi_-_inat_213107951.jpg" />

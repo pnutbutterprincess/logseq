@@ -1,0 +1,2 @@
+- a species of flowering [[plant]] in the family [[Asteraceae]], found only in [[Ecuador]]
+- classified as #vulnerable and threatened by habitat loss

@@ -1,0 +1,10 @@
+- *gopher snake*
+- a species of nonvenomous colubrid [[snake]] endemic to North America, with nine subspecies, and described in [[1835]]
+- description
+	- typically between 36-84 in (91-213 cm) in length when mature
+	- yellowish or light sandy brown with a series of large dark brown or black markings dorsally, with smaller, darker spots along the sides
+	- ventrally they are a lighter yellow, either uniform or with brown markings
+	- several morphs are possible depending on the subspecies
+- as a defense mechanism, the gopher snake puffs up its body and curls itself into the strike pose of a rattlesnake, but strikes with its blunt nose, and additionally vibrate their tails similar to rattlesnakes
+- typically live for 12-15 years, with the oldest recorded gopher snake having lived 33 years
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Gophersnake_%28Pituophis_catenifer%29.jpg/250px-Gophersnake_%28Pituophis_catenifer%29.jpg" />

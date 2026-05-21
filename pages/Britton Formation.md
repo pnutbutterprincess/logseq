@@ -1,0 +1,1 @@
+- a geologic formation deposited during the middle [[Cenomanian]] to early [[Turonian]] in modern-day east [[Texas]], primarily made up of [[shale]], and secondarily of marl, limestone, sandstone, and volcanic ash beds

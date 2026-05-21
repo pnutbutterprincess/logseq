@@ -1,0 +1,1 @@
+- a species of ray-finned [[fish]] in the genus [[Sinocyclocheilus]]

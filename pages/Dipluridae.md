@@ -1,0 +1,2 @@
+- a family of [[spider]]s known as *curtain-web spiders) which often build rather messy funnel-webs or silk-lined burrows
+- mostly found in South America and the Caribbean, with some species found in Australia and Oceania

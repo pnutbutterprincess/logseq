@@ -1,0 +1,2 @@
+- *Isobel's butterfly*
+- a Satyrinae butterfly found in [[Ecuador]] and named in [[2000]]

@@ -1,0 +1,2 @@
+- a species of [[orchid]] native to [[Panama]], Venezuela, and Brazil
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Mormodes_atropurpurea_-_Edwards_vol_22_pl_1861_%281836%29.jpg/250px-Mormodes_atropurpurea_-_Edwards_vol_22_pl_1861_%281836%29.jpg" />

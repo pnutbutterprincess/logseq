@@ -1,0 +1,3 @@
+- *Small Fringed [[Jellyfish]] *
+- a colonial species of marine [[hydrozoa]]n in the family [[Eirenidae]] which live in the northern parts of the [[Atlantic Ocean]], in the upper [[epipelagic]] zone.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Tima_formosa1.jpg/250px-Tima_formosa1.jpg" />

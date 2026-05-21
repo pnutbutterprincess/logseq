@@ -1,0 +1,26 @@
+- a genus of litter [[moth]]s in the family [[Erebidae]]
+- species
+	- P. aeacalias
+	- P. agroteralis
+	- P. angulalis
+	- P. angustipennis
+	- P. argenteicincta
+	- P. asopialis
+	- P. auca
+	- P. bizialis
+	- P. calcabilis
+	- P. calcalis
+	- P. eubaealis
+	- P. hieronymus
+	- P. incuriosa
+	- P. lineata
+	- P. misantlalis
+	- P. mophisalis
+	- P. obliqualis
+	- P. oconequensis
+	- P. orasiusalis
+	- P. phocionalis
+	- P. serapealis
+	- P. spectalis
+	- P. submarginata
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Palthis_angulalis2.jpg/250px-Palthis_angulalis2.jpg" />

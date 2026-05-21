@@ -1,0 +1,9 @@
+- a species of slender [[mallet]] that is endemic to the southwest of Western Australia, first described in [[1993]]
+- description
+	- typically grows to a height of 10m (33ft) and does not form a lignotuber
+	- smooth pale grey to brownish bark which sheds in long ribbons
+	- lance-shaped leaves which in mature trees are glossy green on both sides (60-1000mm (2.4-43.3in) long and 7-15mm (.28-.59in) wide), tapering to a petiole 10-20mm (.39-.79in) long
+	- flower buds are arranged in leaf axils in groups of three on an unbranched peduncle 4-20mm (.16-.79in) long, with individual buds on pedicels 5-8mm (.2-.31 in) long
+		- mature buds are pear shaped to oval with a rounded operculum
+	- flowering is recorded in March and the flowers are creamy white
+	- the fruit is a woody conical, cup-shaped or bell-shaped capsule 8-12mm (.31-.47 in) long and 8-10mm (.31-.39 in) wide with valves near rim level

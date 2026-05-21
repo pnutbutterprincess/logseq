@@ -1,0 +1,2 @@
+- a province of China known for [[panda]]s, hot pot, and tea houses
+- a geological basin

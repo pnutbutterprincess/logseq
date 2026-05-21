@@ -1,0 +1,16 @@
+- *goat's rue*
+- a genus of flowering [[plant]]s in the [[legume]] family, [[Fabaceae]], native to central and southern Europe, western Asia, and tropical east Africa
+- description
+	- tall, bushy, herbaceous perennials with erect racemes of pea-like flowers in shades of white, pink, blue, or mauve
+- habitat
+	- sunny damp meadows or slopes
+- species
+	- G. africana
+	- G. assyriaca
+	- G. battiscombei
+	- G. cirujanoi
+	- G. lindblomii
+	- G. officinalis
+	- G. orientalis
+	- G. somalensis
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Galega_orientalis_Rehuvuohenherne_C_IMG_4803.JPG/250px-Galega_orientalis_Rehuvuohenherne_C_IMG_4803.JPG" />

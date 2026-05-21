@@ -1,0 +1,1 @@
+- a species of small [[spider]]s in the family [[Anapidae]] endemic to [[New Zealand]], described in [[2010]]

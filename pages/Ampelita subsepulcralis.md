@@ -1,0 +1,3 @@
+- a species of tropical air-breathing land [[snail]] in the family [[Acavidae]]
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ampelita_subsepulcralis_002.jpg/250px-Ampelita_subsepulcralis_002.jpg" />
