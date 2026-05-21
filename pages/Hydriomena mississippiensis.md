@@ -1,0 +1,1 @@
+- a species of [[moth]] in the family [[Geometridae]], found in North America

@@ -1,0 +1,3 @@
+- a genus of [[fly]] in the family [[Tachinidae]]
+- species
+	- S. pupilla ([[1936]])

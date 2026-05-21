@@ -1,0 +1,1 @@
+- a species of freshwater [[snail]] with an operculum in the family [[Pachychilidae]], a river species which is known from the Kalaena River in Indonesia

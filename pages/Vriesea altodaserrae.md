@@ -1,0 +1,2 @@
+- a species of [[plant]] in the family [[Bromeliaceae]] endemic to [[Brazil]]
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Vriesea_altodaserrae.jpg/500px-Vriesea_altodaserrae.jpg" />

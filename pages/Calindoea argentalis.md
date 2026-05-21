@@ -1,0 +1,2 @@
+- a [[moth]] of the family [[Thyrididae]] first described in [[1865]] and found in India, Sri Lanka, Java, and Borneo
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Calindoea_argentalis_%28Thyrididae-_Siculodinae-_Siculodini%29_%284184386775%29.jpg/250px-Calindoea_argentalis_%28Thyrididae-_Siculodinae-_Siculodini%29_%284184386775%29.jpg" />

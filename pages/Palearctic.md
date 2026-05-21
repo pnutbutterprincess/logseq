@@ -1,0 +1,2 @@
+- the world's largest biogeographic region confined almost entirely to the Eastern Hemisphere, stretches across Europe and Asia north of the foothills of the Himalayas, and North Africa
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ecozone_Palearctic.svg/330px-Ecozone_Palearctic.svg.png" />

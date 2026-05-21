@@ -1,0 +1,1 @@
+- a [[moth]] species in the family [[Erebidae]], found in Papua New Guinea and described in [[1925]]

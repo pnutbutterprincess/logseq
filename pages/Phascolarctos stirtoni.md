@@ -1,0 +1,5 @@
+- *giant koala*
+- an extinct arboreal marsupial which lived in [[Australia]] during the [[Pleistocene]]
+- although considered a megafauna, it was only about one-third larger than the contemporary koala, excluding it from formal definitions of megafauna
+- the reason for their extinction is definitively #unknown although several hypotheses exist
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Phascolarctos_stirtoni.png/250px-Phascolarctos_stirtoni.png" />

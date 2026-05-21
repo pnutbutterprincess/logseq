@@ -1,0 +1,2 @@
+- a bacteriophage is a [[virus]] that infects and replicates within bacteria
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/T4_Bacteriophage.gif/250px-T4_Bacteriophage.gif" />

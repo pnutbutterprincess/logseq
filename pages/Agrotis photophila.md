@@ -1,0 +1,1 @@
+- a light-loving noctuid [[moth]] in the family [[Noctuidae]] endemic to the island of O'ahu in [[Hawaii]], and is #critically-endangered, possibly #extinct, as the last reported sighting was around 1900

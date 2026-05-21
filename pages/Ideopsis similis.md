@@ -1,0 +1,3 @@
+- *Ceylon blue glassy tiger*
+- a species of [[butterfly]] found in Asia, including [[Sri Lanka]], [[India]], and [[Taiwan]], that belongs to the subfamily Danainae in the family Nymphalidae (brush-footed butterflies)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ceylon_Blue_Glassy_Tiger_Ideopsis_similis_%E7%90%89%E7%90%83%E6%B5%85%E8%91%B1%E6%96%91%28%E3%83%AA%E3%83%A5%E3%82%A6%E3%82%AD%E3%83%A5%E3%82%A6%E3%82%A2%E3%82%B5%E3%82%AE%E3%83%9E%E3%83%80%E3%83%A9%29.jpg/250px-Ceylon_Blue_Glassy_Tiger_Ideopsis_similis_%E7%90%89%E7%90%83%E6%B5%85%E8%91%B1%E6%96%91%28%E3%83%AA%E3%83%A5%E3%82%A6%E3%82%AD%E3%83%A5%E3%82%A6%E3%82%A2%E3%82%B5%E3%82%AE%E3%83%9E%E3%83%80%E3%83%A9%29.jpg" />

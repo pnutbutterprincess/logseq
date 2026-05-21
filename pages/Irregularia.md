@@ -1,0 +1,2 @@
+- an infraclass of [[sea urchin]]s that first appeared in the lower [[Jurassic]]
+- distinguished from other sea urchins by their irregular shape

@@ -1,0 +1,3 @@
+- a genus of [[plant]]s in the family [[Gentianaceae]] including trees, shrubs, lianas, and [[epiphyte]]s, found in forests, swamps, and other habitats in Asia, Australia, the Pacific Islands
+- the flowers open in the evening and are often fragrant and pollinated by [[bat]]s, and have roles in Polynesian mythology
+- many species have valuable wood which has been used to carve tikis

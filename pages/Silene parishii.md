@@ -1,0 +1,10 @@
+- *Parish's catchfly*
+- a species of flowering [[plant]] in the family [[Caryophyllacae]] endemic to southern California
+- grows in rocky, forested habitat, sometimes in alpine climates
+- perennial herb growing from a woody, branching caudex and taproot
+- description
+	- oppositely arranged leaves line the stems, the largest ones at the middle of each stem
+	- leaves are lance-shaped to nearly oval and up to 6 cm long, thick and leathery, and sometimes glandular and sticky
+	- flowers are encapsulated in a tubular calyx of fused sepals which may be nearly 3 cm long, greenish with ten veins and a coating of glandular hairs
+	- five petals are yellowish in color and each has about six long, fringelike lobes at the top
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sileneparishii.jpg/250px-Sileneparishii.jpg" />
