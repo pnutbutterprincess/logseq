@@ -1,1 +1,1 @@
-- an extinct
+- an extinctgenus of
