@@ -1,1 +1,1 @@
-- an extinctgenus of
+- an extinct genus of large flightless bird,
