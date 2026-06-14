@@ -1,1 +1,4 @@
-- an extinct genus of large flightless bird,
+- an extinct genus of large flightless bird, present from the Paleocene to the Eocene
+- Potentially under the genus [[Gastornis]] instead, but some scientists believe they are distinct
+- species
+	- Gastornis gigan
