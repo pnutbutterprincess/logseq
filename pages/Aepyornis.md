@@ -1,3 +1,3 @@
 - an extinct genus of elephant [[bird]] endemic to [[Madagascar]], and one of the largest known birds to have lived
 - Contains two species, A. hildebrandti and A. maximus
-- It's eggshells can still be found on the ground
+- It's eggshells can still be found on the ground and had a
