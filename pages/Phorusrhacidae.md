@@ -1,2 +1,4 @@
 - "terror birds"
-- an extinct genus of  [[bird]] which lived
+- an extinct genus of carnivorous [[bird]] which lived on plains in South America from the Paleocene to Pleistocene
+- Had very rigid skulls and beaks, particularly for a strong downward strike
+- A late species,
