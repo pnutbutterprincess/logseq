@@ -1,1 +1,2 @@
-- an extinct genus representing largest known flying [[bird]]s
+- an extinct genus representing largest known flying [[bird]]s of prey from [[North America]], which lived during the [[Pleistocene]]
+- Found in the [[La Brea tar pits]] in [[California]]
