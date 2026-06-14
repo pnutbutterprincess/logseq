@@ -1,2 +1,2 @@
 - "terror birds"
-- an extinct genus of [[bird]]
+- an extinct genus of  [[bird]] which lived
