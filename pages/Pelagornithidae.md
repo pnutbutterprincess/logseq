@@ -1,2 +1,2 @@
-- *pelagornithids, pseudodontorns, bony-toothed birds, false-toothed birds,* or *pseudo
+- *pelagornithids, pseudodontorns, bony-toothed birds, false-toothed birds,* or *pseudotoo
 - A prehistoric family of large sea [[bird]]s
