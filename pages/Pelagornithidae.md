@@ -1,2 +1,2 @@
-- *pelagornithids, pseud
+- *pelagornithids, pseudodontorns
 - A prehistoric family of large sea [[bird]]s
