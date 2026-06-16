@@ -1,1 +1,1 @@
-- An extinct genus of
+- An extinct genus of order
