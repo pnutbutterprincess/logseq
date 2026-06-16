@@ -1,1 +1,1 @@
-- An extinct genus of order [[Notoungulata]], a rabbit-size [[ungulate]] from [[South America]] between the
+- An extinct genus of order [[Notoungulata]], a rabbit-size [[ungulate]] from [[South America]] between the early [[Paleocene]]
