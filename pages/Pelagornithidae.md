@@ -1,2 +1,2 @@
 - *pelagornithids, pseudodontorns, bony-toothed birds, false-toothed birds,* or *pseudotooth birds*
-- A prehistoric family of large sea [[bird]]s, with fossils found worldwide dating from the early [[Paleocene]] to the Pliocene-Pleist
+- A prehistoric family of large sea [[bird]]s, with fossils found worldwide dating from the early [[Paleocene]] to the Pliocene-Pleistocene boundary
