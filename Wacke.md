@@ -1,7 +1,6 @@
-[[clastic sedimentary rock]]
-
-Clast size
-
+- clastic sedimentary rock
+  
+  Clast size
 - medium to coarse
   Clast composition
 - sand and rock fragments

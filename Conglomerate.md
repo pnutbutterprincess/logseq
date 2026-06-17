@@ -1,11 +1,4 @@
-[[clastic sedimentary rock]]
-
-Clast size
-
-- coarse to very coarse
-  Clast composition
-  Angularity / Sphericity
-- rounded pebbles and cobbles
-  Sorting
-  Sedimentary maturity
-  Character of cement
+- clastic sedimentary rock
+- clast size
+	- granule to cobble (> 2mm to 256+ mm)
+- clasts are generally rounded

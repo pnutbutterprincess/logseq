@@ -1,7 +1,4 @@
-- type of [[clastic sedimentary rock]]
-- clast size: very fine
-- clast composition: clay and/or very fine silt
-- angularity / sphericity
-- sorting
-- sedimentary maturity
-- character of cement
+- type of clastic sedimentary rock
+- clast size: very fine (< .062mm)
+- composition: clay and/or very fine silt
+- does not break approximately parallel to bedding planes
