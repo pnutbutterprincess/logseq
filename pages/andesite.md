@@ -1,0 +1,2 @@
+- Igneous rock
+- volcanic rocks above subduction zones are characteristically andesitic (the earliest eruptions are the most [[basalt]]ic, and become more [[silica]] enriched over time as the magma and source rock mix
