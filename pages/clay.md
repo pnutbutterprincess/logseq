@@ -1,0 +1,2 @@
+- three geologic definitions of the term *clay*
+	- a sediment or rock that
