@@ -1,3 +1,3 @@
 - a type of [[sandstone]] having less than 15% matrix and made up of quartz, feldspar, and lithic fragments
 - [[quartz arenite]] - only 5% of the rock is composed of material other than quartz
-- [[subarkose]] -
+- [[subarkose]] - 5-25% of the rock is composed of feldspar and lithics, and over 50% of the other material is f
