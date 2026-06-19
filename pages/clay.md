@@ -1,4 +1,4 @@
 - three geologic definitions of the term *clay*
 	- a sediment or rock that is plastic when mixed with water
 	- a size of clast or grain - clay-sized particles are less than .002mm across
-	- a group of
+	- a group of mostly hydrous
