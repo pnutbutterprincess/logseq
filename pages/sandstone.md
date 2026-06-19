@@ -14,4 +14,4 @@
 	- [[feldspathic litharenite]] - less than 75% of the rock is composed of quartz, and 50-90% of the other material is lithics
 	- ![quartz-arenite-diagram.png](../assets/quartz-arenite-diagram_1781837009198_0.png)
 - [[Wacke]] - sandstones with more than 15% matrix
-	-
+	- [[quartz wacke]] - 90%
