@@ -1,0 +1,2 @@
+- series of eruptions from a magma chamber which change in composition due to crystallization taking place within the chamber and the resulting change in magma composition
+- Usually produce more [[silica]] rich magma over time

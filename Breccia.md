@@ -1,12 +1,5 @@
-[[clastic sedimentary rock]]
-
-Clast size
-
-- coarse to very coarse
-  Clast composition
-  Angularity / Sphericity
+- clastic sedimentary rock
+- clast size
+	- granule to cobble (>2mm - 256+ mm)
 - angular clasts
-  Sorting
-  Sedimentary maturity
-- not very mature
-  Character of cement
+- not very mature (close to where the clasts were derived)

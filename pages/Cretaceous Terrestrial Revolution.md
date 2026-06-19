@@ -1,0 +1,1 @@
+- [flowering plants](Angiospermae) greatly diversified in the early  [[Cretaceous]], providing food and habitat for increased life on land

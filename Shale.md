@@ -1,12 +1,4 @@
-[[clastic sedimentary rock]]
-Shale breaks into platy sheets
-
-Clast size
-
-- very fine
-  Clast composition
-- clay and/or very fine silt
-  Angularity / Sphericity
-  Sorting
-  Sedimentary maturity
-  Character of cement
+- clastic sedimentary rock
+- breaks into platy sheets
+- clasts are very fine (< .062mm)
+- composed of clay and/or very fine silt

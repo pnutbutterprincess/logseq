@@ -1,11 +1,2 @@
-[[clastic sedimentary rock]]
-
-Clast size
-
-- fine
-  Clast composition
-- silt-sized clasts
-  Angularity / Sphericity
-  Sorting
-  Sedimentary maturity
-  Character of cement
+- clastic [[sedimentary rock]]
+- clast size predominantly silt (> .004mm - < .062mm)
