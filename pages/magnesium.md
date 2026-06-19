@@ -1,2 +1,2 @@
 - an [[alkaline earth metal]]
--
+- atomic number 12

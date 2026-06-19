@@ -1,4 +1,4 @@
 - [[carbonate]] mineral
-- also called [[Dolostone]]
+- also called [[dolostone]]
 - CaMg(CO3)2
 - [[trigonal]] crystal system
