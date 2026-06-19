@@ -1,0 +1,2 @@
+- an [[alkaline earth metal]]
+-
