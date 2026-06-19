@@ -1,3 +1,4 @@
 - two separate QFL (quartz - feldspar - lithics) diagrams are used to classify sandstones
 - the first is for [[arenite]] and [[arkose]] sandstones, which have less than 15% matrix surrounding the grains
+- the second is for [[Wacke]], which contains 15-75% matrix
 -
