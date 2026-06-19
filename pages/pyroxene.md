@@ -21,4 +21,4 @@
 		- [[kosmochlor]] (ureyite) - [Na](sodium) [Cr](chromium)^3+[Si](silicon)2[O](oxygen)6
 	- Lithium Pyroxenes
 		- [[spodumene]] - [Li](lithium)[Al](aluminum)[Si](silicon)2[O](oxygen)6
-- pyroxenes can break down into [[montmorillonite]] [[clay]] on interaction with meteoric water
+- pyroxenes can break down into [[montmorillonite]] [[clay]] on interaction with meteoric water, also forming [[Goethite]] as a byproduct of the reaction
