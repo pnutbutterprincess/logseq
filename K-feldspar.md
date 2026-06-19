@@ -1,3 +1,4 @@
 - *alkali feldspar*
-- interaction with meteoric water can lead to the development of [[clay]]s such as
+- interaction with meteoric water can lead to the development of [[clay]]s such as kaolinite and montmorillonite
+	- 2[K](potassium)[Al](aluminum)[Si](silic)
 - A K-feldspar with microscopic or larger [[lamellae]] of [[albite]] are referred to as perthitic, or called perthite. Antiperthiric or antiperthite refers to [[albite]] with exsolved lamellae of K-feldspar.
