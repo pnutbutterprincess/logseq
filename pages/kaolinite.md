@@ -1,0 +1,3 @@
+-
+- chemical formula
+	- [Al](al)2Si2O5(OH)4
