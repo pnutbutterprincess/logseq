@@ -4,5 +4,5 @@
 - [[Manganite]]
 - [[Romanechite]]
 - [[diaspore]]
-- [[Goethite]]
+- [[goethite]]
 - [[Bauxite]]
