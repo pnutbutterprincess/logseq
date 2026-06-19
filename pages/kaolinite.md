@@ -1,3 +1,3 @@
--
+- a type of [[clay]]
 - chemical formula
-	- [Al](al)2Si2O5(OH)4
+	- [Al](aluminum)2[Si](silicon)2[O](oxygen)5([O](oxygen)[H](hydrogen))4
