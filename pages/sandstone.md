@@ -1,6 +1,6 @@
 - two separate QFL (quartz - feldspar - lithics) diagrams are used to classify sandstones
 - the first is for [[arenite]] and [[arkose]] sandstones, which have less than 15% matrix surrounding the grains
-- the second is for [[Wacke]], which contains 15-75% matrix
+- the second is for [[wacke]], which contains 15-75% matrix
 - ![sandstone-classification-Dott-1.webp](../assets/sandstone-classification-Dott-1_1781836266765_0.webp)
 - for sandstones with less than 15% matrix
 	- [[quartz arenite]] - only 5% or less of the rock is composed of material other than quartz
@@ -13,7 +13,8 @@
 	- [[litharenite]] - less than 75% quartz grains, at least 90% of the remainder is lithics
 	- [[feldspathic litharenite]] - less than 75% of the rock is composed of quartz, and 50-90% of the other material is lithics
 	- ![quartz-arenite-diagram.png](../assets/quartz-arenite-diagram_1781837009198_0.png)
-- [[Wacke]] - sandstones with more than 15% matrix
+- [[wacke]] - sandstones with more than 15% matrix
 	- [[quartz wacke]] - grains are 90% or more quartz
 	- [[graywacke]] - less than 90% of the grains are quartz
 		- [[feldspathic wacke]] - less than 90% quartz, the remainder is over 50% feldspar
+		- [[lithic wacke]] - less than 90% quartz, the remainder is over 50% lithics

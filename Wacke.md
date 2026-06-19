@@ -1,9 +1,5 @@
-[[clastic sedimentary rock]]
-
-Clast size
-
-- medium to coarse
-  Clast composition
+- clastic sedimentary rock
+- Clast size
 - sand and rock fragments
   Angularity / Sphericity
   Sorting
