@@ -1,1 +1,2 @@
-- a type of sandstone
+- a type of [[sandstone]] having less than 15% matrix and made up of quartz, feldspar, and lithic fragments
+- [[quartz arenite]]
