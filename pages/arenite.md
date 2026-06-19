@@ -2,5 +2,5 @@
 - [[quartz arenite]] - only 5% of the rock is composed of material other than quartz
 - [[subarkose]] - 5-25% of the rock is composed of feldspar and lithics, and over 50% of the other material is feldspar
 - [[sublitharenite]] - 5-25% of the rock is composed of feldspar and lithics, and over 50% of the other material is lithics
-- [[arkosic arenite]] - less than 25% of the rock is composed of quartz, and over 50% of the other material is feldspar
-- [[lithic arenite]] - less than 25% of the rock is composed of , and over 50% of the other material is lithics
+- [[arkosic arenite]] - less than 75% of the rock is composed of quartz, and over 50% of the other material is feldspar
+- [[lithic arenite]] - less than 75% of the rock is composed of quartz, and over 50% of the other material is lithics
