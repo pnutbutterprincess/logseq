@@ -2,5 +2,9 @@
 	- [[recrystallization]]
 	- new mineral growth
 	- textural changes
+		- increase in grain size
+		- foliation
 	- compositional changes
+		- metasomatism
+		- fluids from external sources may dissolve some components and contribute others
 -
