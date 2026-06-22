@@ -1,0 +1,6 @@
+- Pseudomorphism is a [[postcrystallization]] process where the form of a mineral is preserved but the mineral itself is replaced by a different mineral.
+- The secondary material can be one or several minerals
+- A paramorph is a phase transition where the replacing mineral is a [[polymorph]] of the original.
+- [[Goethite]] can replace [[Pyrite]] while keeping the same shape of the original pyrite
+-
+-

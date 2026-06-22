@@ -1,0 +1,6 @@
+- processes
+	- [[recrystallization]]
+	- new mineral growth
+	- textural changes
+	- compositional changes
+-
