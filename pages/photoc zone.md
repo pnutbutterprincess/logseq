@@ -1,2 +1,2 @@
-- shallow water where
+- shallow water where photosynthesis can take place
 -
