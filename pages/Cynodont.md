@@ -1,4 +1,5 @@
 - [[therapsid]]s which appeared at the end of the [[Permian]]
 - most were carnivorous and ranged in size up to about the size of a medium-sized dog
 - Medium sized forms appeared in the early [[Triassic]], such as [[Thrinaxodon]]
-- Two lineages appeared in the middle Triass
+- Two lineages appeared in the middle Triassic, the larger [[Cynognathus]]
+-
