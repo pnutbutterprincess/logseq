@@ -1,0 +1,2 @@
+- [[therapsid]]s which appeared at the end of the [[Permian]]
+- most were carnivorous and ranged in size to about the size of a medium-sized dog
