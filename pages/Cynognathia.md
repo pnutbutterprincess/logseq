@@ -1,0 +1,3 @@
+- A lineage of [[Cynodont]] appearing in the [[Middle Triassic]], containing larger species of carnivores and herbivores, such as [[Cynognathus]]
+- This lineage was extinct by the end of the [[Triassic]]
+-
