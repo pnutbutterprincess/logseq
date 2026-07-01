@@ -1,1 +1,1 @@
-- a
+- a biological community consists of the species within an area and the interactions among these species

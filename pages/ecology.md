@@ -3,6 +3,7 @@
 - 4 levels of study within the discipline of ecology
 	- organism - adaptations allowing individual organisms to live in specific habitats
 	- [[population]] - study of population ecology is concerned with the number of individuals in an area and why the population size changes over time
-	- [[community]] -
+	- [[community]] - study of the processes driving species interactions and their consequences
+		-
 	- ecosystem
 -
