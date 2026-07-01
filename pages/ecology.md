@@ -6,5 +6,5 @@
 	- [[community]] - study of the processes driving species interactions and their consequences
 		- conspecific interactions - competition between members of the same species
 		- [[heterospecific]] interaction - predation, parasitism, herbivory, competition, pollination and the effects on population sizes and diversity
-	- ecosystem -
+	- ecosystem - all of the biotic and abiotic components in an area and how nutrients and energy are stored and transferred among organisms and through the air, water, and soil
 -
