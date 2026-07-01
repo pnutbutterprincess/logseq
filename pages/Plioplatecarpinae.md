@@ -1,2 +1,2 @@
 - a subfamily of [[mosasaur]]s from the [[Late Cretaceous]], 94-66Ma (the [[Turonian]] to the end of the [[Maastrichtian]]), containing the oldest known mosasaurs.
-- Generally smaller and faster
+- Generally small to medium sized, fast and agile
