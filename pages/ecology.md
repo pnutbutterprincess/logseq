@@ -1,0 +1,2 @@
+- the study of the interactions between living organisms and their environments
+- to understand the distribution and abundance of living things in the environment
