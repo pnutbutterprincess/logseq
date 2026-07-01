@@ -1,7 +1,8 @@
 - the study of the interactions between living organisms and their environments
 - to understand the distribution and abundance of living things in the physical environment
 - 4 levels of study within the discipline of ecology
-	- organism - adaptations allowing individual organisms to life in specific
-	- population
-	- community
+	- organism - adaptations allowing individual organisms to live in specific habitats
+	- [[population]] - study of population ecology is concerned with the number of individuals in an area and why the population size changes over time
+	- [[community]] -
 	- ecosystem
+-
