@@ -1,2 +1,3 @@
 - the study of the interactions between living organisms and their environments
-- to understand the distribution and abundance of living things in the environment
+- to understand the distribution and abundance of living things in the physical environment
+- 4 levels of study within the discipline of ecology
