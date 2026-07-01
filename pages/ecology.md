@@ -4,6 +4,7 @@
 	- organism - adaptations allowing individual organisms to live in specific habitats
 	- [[population]] - study of population ecology is concerned with the number of individuals in an area and why the population size changes over time
 	- [[community]] - study of the processes driving species interactions and their consequences
-		-
-	- ecosystem
+		- conspecific interactions - competition between members of the same species
+		- [[heterospecific]] interaction - predation, parasitism, herbivory, competition, pollination and the effects on population sizes and diversity
+	- ecosystem -
 -

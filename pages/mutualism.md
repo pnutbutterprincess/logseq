@@ -1,0 +1,1 @@
+- a form of long-term relationship which has evolved between two species where each species benefits

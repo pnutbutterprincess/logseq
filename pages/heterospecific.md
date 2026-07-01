@@ -1,0 +1,1 @@
+- members of different species, usually interacting in a community of interconnected species
