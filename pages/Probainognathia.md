@@ -1,0 +1,4 @@
+- A lineage of [[Cynodont]]s appearing in the [[Middle Triassic]], consisting of smaller species of mostly generalized carnivores and insectivores, such as [[Bonacynodon]]
+- Known primarily from South America and include animals cost to the ancestry of mammals
+- Derived forms from the [[Late Triassic]] such as [[Brazilitherium]] were small and very similar to the earliest mammals
+- Survived into the [[Jurassic]], with some even persisting into the [[Early Cretaceous]]

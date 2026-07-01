@@ -1,0 +1,1 @@
+- a subfamily of [[mosasaur]]s, existing in the [[Late Cretaceous]] from 92-66Ma (the [[Turonian]] to the end of the [[Maastrichtian]])

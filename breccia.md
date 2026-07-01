@@ -1,0 +1,5 @@
+- clastic sedimentary rock
+- clast size
+	- granule to cobble (>2mm - 256+ mm)
+- angular clasts
+- not very mature (close to where the clasts were derived)

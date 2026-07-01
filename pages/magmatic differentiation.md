@@ -1,0 +1,3 @@
+- the process by which crystals in a magma chamber sink as they crystallize due to being more dense than the magma, resulting in changes to magma composition.
+- If eruptions are ongoing, the resulting magmas will be compositionally different and are called a [[fractionation series]]
+- The accumulation of crystals on the floor of a magma chamber are called a [[cumulate]]

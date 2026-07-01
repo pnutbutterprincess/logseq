@@ -1,0 +1,1 @@
+- a [[sedimentary rock]] composed predominantly of clay-sized clasts (< .004mm)

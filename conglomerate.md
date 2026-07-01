@@ -1,0 +1,4 @@
+- clastic sedimentary rock
+- clast size
+	- granule to cobble (> 2mm to 256+ mm)
+- clasts are generally rounded

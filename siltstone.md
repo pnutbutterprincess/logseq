@@ -1,0 +1,2 @@
+- clastic [[sedimentary rock]]
+- clast size predominantly silt (> .004mm - < .062mm)

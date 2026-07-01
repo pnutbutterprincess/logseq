@@ -1,0 +1,5 @@
+- a clastic sedimentary rock
+- grain size range from very fine to very coarse sand ( >.062mm - < 2mm)
+- can be classified based on composition
+- [[arenite]]s have less than 15% of matrix material
+- [[wacke]]s have 15% or more of matrix material

@@ -1,0 +1,4 @@
+- clastic sedimentary rock
+- breaks into platy sheets
+- clasts are very fine (< .062mm)
+- composed of clay and/or very fine silt

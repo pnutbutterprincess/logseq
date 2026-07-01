@@ -1,0 +1,4 @@
+- type of clastic sedimentary rock
+- clast size: very fine (< .062mm)
+- composition: clay and/or very fine silt
+- does not break approximately parallel to bedding planes

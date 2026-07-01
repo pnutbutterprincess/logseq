@@ -1,0 +1,2 @@
+- an extinct species of bird from the [[Eocene]] of [[North America]]
+- A large-beaked bird at first thought to be carnivorous, but they have been proven to be herbivorous (Angst et al. 2014)

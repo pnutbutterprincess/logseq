@@ -1,12 +1,4 @@
-[[clastic sedimentary rock]]
-
-Clast size
-
-- medium to coarse
-  Clast composition
-- sand and rock fragments
-  Angularity / Sphericity
-  Sorting
-  Sedimentary maturity
-  Character of cement
-- clay-rich matrix
+- a type of [[sandstone]]
+- grain size is very fine sand to very coarse sand (0.125mm - 2mm)
+- 15-75% of the sandstone is matrix, composed of fine quartz, clay, etc., generally rich in clay
+- [[graywacke]] is the most generic term for wackes with substantial amounts of quartz, feldspar, and lithic fragments
