@@ -1,1 +1,1 @@
-- a subfamily of [[mosasaur]]s, existing in the [[Late Cretaceous]] from
+- a subfamily of [[mosasaur]]s, existing in the [[Late Cretaceous]] from 92-
