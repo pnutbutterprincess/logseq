@@ -1,0 +1,1 @@
+- a [[moth]] of the family [[Coleophoridae]] found in the [[Democratic Republic of Congo]]

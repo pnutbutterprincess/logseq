@@ -1,0 +1,1 @@
+- a species of [palm tree](Arecales) endemic to [[Colombia]] where it grows in forests near rivers, and is #endangered, threatened by the destruction of habitat for agriculture

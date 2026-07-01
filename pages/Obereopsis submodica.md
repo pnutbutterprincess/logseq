@@ -1,0 +1,1 @@
+- a species of [beetle](Coleoptera) in the family [[Cerambycidae]], described in [[1974]]

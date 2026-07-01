@@ -1,0 +1,5 @@
+- *fanged pitcher-plant*
+- a tropical pitcher [[plant]] endemic to [[Borneo]], described in 1873, and threatened with a #vulnerable status
+- a [[myrmecophyte]] noted for its mutualistic association with a species of ant (Camponotus schmitzi)
+- lacks many of the features that characterize the carnivorous syndrome in [[Nepenthes]], including viscoelastic and highly acidic pitcher fluid, the waxy zone of the pitcher interior, and possibly even functional digestive enzymes
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Nepenthesbicalcarata1.jpg/500px-Nepenthesbicalcarata1.jpg" />

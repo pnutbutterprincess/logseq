@@ -1,0 +1,5 @@
+- 共工
+- a Chinese water god who is depicted in Chinese #mythology and folktales as having a copper human head with an iron forehead, red hair, and the body of a serpent, or sometimes the head and torso of a human with the tail of a serpent.
+- He is destructive and blamed for various cosmic catastrophes
+- in all accounts, Gonggong ends up being killed or sent into exile
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/%E5%BA%B7%E5%9B%98%E4%BD%9C%E4%BA%82%E8%88%88%E5%85%B5%E5%AE%B3%E6%B0%91.jpg/500px-%E5%BA%B7%E5%9B%98%E4%BD%9C%E4%BA%82%E8%88%88%E5%85%B5%E5%AE%B3%E6%B0%91.jpg" />

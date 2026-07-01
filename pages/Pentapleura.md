@@ -1,0 +1,3 @@
+- a genus of [flowering plant](Lamiaceae) first described in [[1913]], containing a single known species which is native to southeastern Turkiye and northern Iraq
+- species
+	- P. subulifera

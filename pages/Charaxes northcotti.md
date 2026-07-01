@@ -1,0 +1,4 @@
+- *Northcott's charaxes*
+- a [[butterfly]] in the family [[Nymphalidae]] found in Guinea, Burkina Faso, northern Ivory Coast, Ghana, and Nigeria
+- habitat: dense woodland savanna and gallery forests
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Novitates_Zoologicae1899PlateVIII%2C_Charaxes_northcotti%2C_%E2%99%82.jpg/500px-Novitates_Zoologicae1899PlateVIII%2C_Charaxes_northcotti%2C_%E2%99%82.jpg" />

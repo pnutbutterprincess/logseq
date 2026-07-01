@@ -1,0 +1,2 @@
+- a species of flowering plant in the family [[Asteraceae]] endemic to the Cape Province region of [[South Africa]]
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Amatole_Mapdaisy_imported_from_iNaturalist_photo_15801796_on_10_September_2024.jpg/500px-Amatole_Mapdaisy_imported_from_iNaturalist_photo_15801796_on_10_September_2024.jpg" />

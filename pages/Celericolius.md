@@ -1,0 +1,2 @@
+- an extinct genus of [mousebird](Coliiformes) that lived during the Ypresian stage off the [[Eocene]] epoch, known from the Fossil Butte member off the [[Green River Formation]]
+-

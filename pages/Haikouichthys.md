@@ -1,0 +1,1 @@
+- an extinct genus of primitive jawless fish from the [[Cambrian]], considered to be the earliest known vertebrate animal in the fossil record

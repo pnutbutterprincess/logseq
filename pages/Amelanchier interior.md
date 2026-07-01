@@ -1,0 +1,2 @@
+- *Wiegand's shadbush*
+- a type of [serviceberry](Amelanchier) shrub producing a sweet-tasting edible fruit called a pome

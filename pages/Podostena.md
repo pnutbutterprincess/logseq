@@ -1,0 +1,6 @@
+- a genus of May [[beetle]]s and junebugs in the family [[Scarabaeidae]], having at least 4 described species
+- species
+	- P. bottimeri
+	- P. litoralis
+	- P. rileyi
+	- P. sleeperi

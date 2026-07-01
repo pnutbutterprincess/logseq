@@ -1,0 +1,4 @@
+- *matted parrot-pea*
+- a species of flowering plant in the family [[Fabaceae]] endemic to south-eastern continental [[Australia]]
+- prostrate shrub with hairy stems, linear to narrow oblong or spatula-shaped leaves, and yellow and dark red flowers
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Dillwynia_prostrata.jpg/500px-Dillwynia_prostrata.jpg" />

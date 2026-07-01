@@ -1,0 +1,1 @@
+- plants that lives in a mutualistic association with a colony of [[Formicidae]]s

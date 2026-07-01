@@ -1,0 +1,4 @@
+- *river rose, dog rose,* or *wiry bauera*
+- a species of flowering plant in the family [[Cunoniaceae]] endemic to south-eastern Australia
+- a scrambling tangled shrub with wiry branches, trifoliate, usually toothed leaves, and pink or white flowers
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Dog_Rose_%286243439028%29.jpg/500px-Dog_Rose_%286243439028%29.jpg" />

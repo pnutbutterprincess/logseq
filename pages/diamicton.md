@@ -1,0 +1,4 @@
+- *also diamict*
+- any terrigenous sediment (resulting from dry-land erosion) that is unsorted to poorly sorted and contains particles ranging in size from clay to boulders, suspended in an unconsolidated matrix of mud or sand
+- often references unsorted [glacial](glacier) deposits (till), but can also result from [[solifluction]], [[landslide]]s, and [[debris flow]]s
+- poorly sorted & wide clast range

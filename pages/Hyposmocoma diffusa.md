@@ -1,0 +1,1 @@
+- a species of [[moth]] in the family [[Cosmopterigidae]], first described in [[1907]], endemic to the [[Hawaii]]an islands of Kauai and Maui

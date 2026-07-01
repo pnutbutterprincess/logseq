@@ -1,0 +1,3 @@
+- *cosmet moths*
+- a family of [[moth]]s in the order [[Lepidoptera]] having about 1500 species
+- small moths with narrow wings whose tiny larvae feed internally on the leaves, seeds, and stems of their host plants

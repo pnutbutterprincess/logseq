@@ -1,0 +1,6 @@
+- *Catfish* are an order of [ray-finned fish](Actinopterygii) named for their prominent barbels, though not all catfish have them.
+- All Siluriformes lack scales, instead having either smooth skin or armor-plated bodies
+- defined by features of the skull
+	- maxillae modified into the barbels' bases
+	- swimbladder
+- most catfish are bottom feeders and are negatively buoyant due to a reduced gas ladder and a heavy, body head

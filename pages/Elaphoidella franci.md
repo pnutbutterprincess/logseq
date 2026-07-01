@@ -1,0 +1,3 @@
+- a species of harpacticoid [[copepod]] in the family [[Canthocamptidae]], found in Europe
+- most species are confined to fresh water
+- the species is #vulnerable

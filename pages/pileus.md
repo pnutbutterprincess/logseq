@@ -1,0 +1,1 @@
+- the cap part of a fungal fruiting body in mycology that supports a spore-bearing surface, the hymenium

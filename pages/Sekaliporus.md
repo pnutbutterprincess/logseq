@@ -1,0 +1,3 @@
+- a genus of [beetle](Coleoptera) in the family [[Dytiscidae]], having only one species, described in [[1997]]
+- species
+	- S. kriegi

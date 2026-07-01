@@ -1,0 +1,3 @@
+- *Bulimulus* sp. nov. 'krameri'
+- an #undescribed species of tropical air-breathing land [[snail]] in the subfamily Bulimulinae endemic to [[Ecuador]], where its natural habitat is subtropical or tropical dry forests.
+- #critically-endangered and threatened by habitat loss

@@ -1,0 +1,1 @@
+- two types of volcanic eruptions are [effusive](effusive eruption) and [explosive](explosive eruption)

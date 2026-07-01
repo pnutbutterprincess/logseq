@@ -1,0 +1,2 @@
+- a species of [orchid](flower) in the genus [[Bulbophyllum]]
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bulbophyllum_pauciflorum01-raab_bustamante.png/500px-Bulbophyllum_pauciflorum01-raab_bustamante.png" />

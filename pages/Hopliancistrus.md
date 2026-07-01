@@ -1,0 +1,8 @@
+- a genus of [suckermouth armored catfish](Loricariidae)es native to [[Brazil]]
+- species
+	- H. munduruku
+	- H. tricornis
+	- H. wolverine
+	- H. xavante
+	- H. xikrin
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hopliancistrus_%2810.1371-journal.pone.0244894%29_Figure_5.tiff/lossy-page1-500px-Hopliancistrus_%2810.1371-journal.pone.0244894%29_Figure_5.tiff.jpg" />

@@ -1,0 +1,2 @@
+- *ant superfamily*
+- a superfamily in the [[Hymenoptera]] order of class [[Insecta]]

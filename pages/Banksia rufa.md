@@ -1,0 +1,4 @@
+- a species of prostrate [shrub](plant) that is endemic to the southwest of Western Australia
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Banksia_rufa.jpg/500px-Banksia_rufa.jpg" />
+- subspecies
+	- *rufa* - type species

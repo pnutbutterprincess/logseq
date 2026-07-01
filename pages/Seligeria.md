@@ -1,0 +1,2 @@
+- a genus of [moss](Bryophyta) found in Europe, North America, New Zealand, and Tasmania, with most species native to the Northern Hemisphere
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Seligeria_trifaria_%28a%2C_144346-474700%29_7580.JPG/500px-Seligeria_trifaria_%28a%2C_144346-474700%29_7580.JPG" />

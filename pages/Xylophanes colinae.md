@@ -1,0 +1,2 @@
+- a [[moth]] of the family [[Sphingidae]] known from Ecuador, French Guiana, and Venezuela, described in [[1994]]
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Xylophanes_colinae_male%2C_upperside._Guyane_Francaise.jpg/500px-Xylophanes_colinae_male%2C_upperside._Guyane_Francaise.jpg" />

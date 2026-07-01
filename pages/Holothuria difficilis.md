@@ -1,0 +1,10 @@
+- a species of [[sea cucumber]] in the family Holothuriidae in the phylum Echinodermata sharing a general body plan with other members of the phylum
+- body plan
+	- pentamerous radial symmetry
+	- endoskeleton
+	- oral side opposite of an aboral side
+		- oral side: mouth for feeding
+		- aboral side: anus used to rid of waste and for respiration
+	- water vascular system
+	- tube feet used for locomotion
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Holothuria_difficilis.jpg/500px-Holothuria_difficilis.jpg" />

@@ -1,0 +1,3 @@
+- *South American toads, beaked toads,* or *Rio Viejo toads*
+- a genus of true [[toad]]s native to Neotropical parts of Mexico, Central, and South America.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Bufo_marinus_from_Australia.JPG/500px-Bufo_marinus_from_Australia.JPG" />

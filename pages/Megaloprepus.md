@@ -1,0 +1,7 @@
+- a genus of large neotropical [damselflies](insect) in the family [[Coenagrionidae]], commonly known as *helicopter damsels,* having four species from Mexico to Ecuador and Peru
+- species
+	- M. brevistigma
+	- M. caerulatus
+	- M. diaboli
+		- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Megaloprepus_diaboli.jpg/500px-Megaloprepus_diaboli.jpg" />
+	- M. latipennis

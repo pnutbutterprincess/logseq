@@ -1,0 +1,2 @@
+- a genus of [[plant]] in the family [[Opiliaceae]] containing only one known species, *Champereia manillana,* native to China, Taiwan, Southeast Asia, New Guinea, and Christmas Island
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/False_Olive_%28Champereia_manillana%29_1.jpg/500px-False_Olive_%28Champereia_manillana%29_1.jpg" />

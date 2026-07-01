@@ -1,0 +1,36 @@
+- a tribe of longhorn [beetle](Cerambycidae)s in the subfamily [[Cerambycinae]], comprising approximately 25 genera distributed primarily across tropical and subtropical habitats, most notably in Southeast Asia
+- Cleomenini members exhibit the characteristic elongated body and long antennae of cerambycids
+- Distinction
+	- can be distinguished by specific combinations of morphology
+	- antenna structure
+	- pronotal shape
+	- elytral sculpting
+- genera
+	- Apiogaster
+	- Artimpaza
+	- Brachysarthron
+	- Camelocerambyx
+	- Cleomenes
+	- Dere
+	- Diplothorax
+	- Dymorphocosmisoma
+	- Eodalis
+	- Epianthe
+	- Eucilmus
+	- Fehmii
+	- Hexarrhopala
+	- Kurarua
+	- Leptoderiana
+	- Mydasta
+	- Nida
+	- Nidella
+	- Ochimus
+	- Paramimistena
+	- Plutonesthes
+	- Procleomenes
+	- Pseudocleomenes
+	- Timabiara
+	- Sophron
+	- Zosterius
+- links
+	- <a href="https://doi.org/10.1590/S0101-81752001000500004">New South American genus and species of Cleomenini (Coleoptera, Cerambycidae)</a> (2001)

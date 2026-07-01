@@ -1,0 +1,5 @@
+- *damselfly*
+- a suborder of flying [[insect]]s in the order [[Odonata]], similar to [dragonflies](Epiprocta), but are usually smaller with slimmer bodies and most wings fold their wings along the body when at rest
+- known since the [[Late Jurassic]], damselflies are found on every continent except Antarctica
+- damselflies are predatory, both nymphs and adults hunt and eat other insects
+- nymphs are aquatic from a variety of freshwater habitats, molting repeatedly until they undergo metamorphosis

@@ -1,0 +1,2 @@
+- *aster, daisy, composite,* or *sunflower* family
+- a large family of flowering [[plant]]s consisting of over 1,900 genera

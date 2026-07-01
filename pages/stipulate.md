@@ -1,0 +1,2 @@
+- a stipule in botany is an outgrowth typically on one side of a [leafstalk](petiole), primarily found among [[dicot]]s
+- considered part of the anatomy of the leaf on a typical flowering plant

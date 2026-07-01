@@ -1,0 +1,1 @@
+- a species of [[firefly]] in the family [[Lampyridae]] found in [[North America]], described in [[1851]]

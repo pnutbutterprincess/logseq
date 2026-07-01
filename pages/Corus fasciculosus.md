@@ -1,0 +1,1 @@
+- a species of [[beetle]] in the family [[Cerambycidae]] described in [[1903]], known from Cameroon and the Democratic Republic of the Congo

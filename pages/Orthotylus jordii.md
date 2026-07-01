@@ -1,0 +1,2 @@
+- a species of [[insect]] in the [[Miridae]] family endemic to [[Spain]], in the subgenus Parapachylops
+- the genus Orthotylus has such a diverse number of species that it includes a large number of subgenus types as well

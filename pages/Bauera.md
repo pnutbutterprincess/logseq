@@ -1,0 +1,8 @@
+- a genus of four species of flowering plants in the family [[Cunoniaceae]], all endemic to eastern [[Australia]]
+- shrubs with trifoliate leaves arranged in opposite pairs
+- having flowers with four to ten sepals and four to ten white or pink petals
+- species
+	- [B. rubioides](Bauera rubioides)
+	- B. capitata
+	- B. microphylla
+	- B. sessiliflora

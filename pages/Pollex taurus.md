@@ -1,0 +1,2 @@
+- a [[moth]] of the family [[Erebidae]] first described in [[2007]], known from the [[Philippines]]
+- having a wingspan about 13mm

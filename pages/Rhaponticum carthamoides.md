@@ -1,0 +1,4 @@
+- also *Leuzea carthamoides*
+- known as *maral root* or *rhaponticum*
+- an herbaceous perennial plant in the family [[Asteraceae]], inhabiting the sub-alpine zone and alpine meadows, found in Southern Sibera, Kazakhstan, the Altay region, and Western Sayan Mountains
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Rhaponticum_carthamoides.jpg/500px-Rhaponticum_carthamoides.jpg" />

@@ -1,0 +1,3 @@
+- a bony structure deriving from intramembranous ossification to form components of the vertebrate skeleton, including much of the jaw, skull, gill covers, shoulder girdle, fin rays, and the shells of turtles and armadillos
+- forms within the dermis and grows by accretion only - the outer portion of the bone is deposited by osteoblasts
+- Dermal bone does not have a cartilage precursor, and it is often ornamented

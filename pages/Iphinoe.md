@@ -1,0 +1,2 @@
+- a genus of [[crustacean]]s which belong to the family Bodotriidae, established in [[1856]]
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Iphinoe_trispinosa.jpg/500px-Iphinoe_trispinosa.jpg" />

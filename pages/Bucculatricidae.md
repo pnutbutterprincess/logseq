@@ -1,0 +1,5 @@
+- a small family of [[moth]]s represented in all parts of the world
+- very small with narrow wings wrapped around the body at rest
+- the larvae of this family feed internally on leaves, and as adults they feed externally, with many species having specific host plants
+- one name for family Bucculatricidae is *ribbed cocoon makers* due to their pupal cases having distinctive longitudinal ridges.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Bucculatricidae.jpg/500px-Bucculatricidae.jpg" />

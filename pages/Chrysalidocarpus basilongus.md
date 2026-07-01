@@ -1,0 +1,2 @@
+- a species of [palm tree](Angiospermae) in the family [[Arecaceae]] endemic to southern [[Madagascar]] and #critically-endangered due to overharvesting
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dypsis_basilonga_-_Romer_Rabarijaona_-_5427455.jpeg/500px-Dypsis_basilonga_-_Romer_Rabarijaona_-_5427455.jpeg" />

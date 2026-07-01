@@ -1,0 +1,1 @@
+- a species of underwater weevil in the [beetle](Coleoptera) family [[Curculionidae]], found in [[North America]]

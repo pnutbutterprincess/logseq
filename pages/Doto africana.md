@@ -1,0 +1,1 @@
+- a species of [[sea slug]], a [nudibranch](Nudibranchia) in the family [[Dotidae]], described from Chuaka, Mkoani, Pemba, Tanzania, Africa in [[1905]]

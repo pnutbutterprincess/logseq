@@ -1,0 +1,2 @@
+- a species of [[beetle]] in the family [[Cerambycidae]], described in [[1865]], known from [[Myanmar]], [[Laos]], Thailand, and Malaysia
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Glenea_vaga_-_Flickr_-_Bennyboymothman_%281%29.jpg/500px-Glenea_vaga_-_Flickr_-_Bennyboymothman_%281%29.jpg" />

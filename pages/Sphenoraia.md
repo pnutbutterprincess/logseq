@@ -1,0 +1,14 @@
+- a genus of skeletonizing [leaf beetle](Chrysomelidae) found in Indomalaya and the Palaearctic
+- species
+	- S. apicalis
+	- S. chujoi
+	- S. duodecimmaculata
+	- S. hopei
+	- S. imitans
+	- S. intermedia
+	- S. javana
+	- S. micans
+	- S. nebulosa
+	- S. nigra
+	- S. rutilans
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sphenoraia_hopei_-_inat_83206743.jpg/500px-Sphenoraia_hopei_-_inat_83206743.jpg" />

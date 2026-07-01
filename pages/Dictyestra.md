@@ -1,0 +1,4 @@
+- a genus of [[moth]] in the family [[Noctuidae]] containing one species described in [[1865]] and found from India, Indochina, Sri Lanka, China, Japan, Sundaland, and the Philippines, Sulawesi to the Moluccas and New Guinea
+- species
+	- Dictyestra dissectus, the *angle network armyworm*
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Dictyestra_dissectus.jpg/500px-Dictyestra_dissectus.jpg" />

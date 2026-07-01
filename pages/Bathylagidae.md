@@ -1,0 +1,3 @@
+- *deep-sea smelt*
+- a family of [marine smelt](Argentiniformes) found in deep waters throughout the oceans which feed on plankton, especially krill
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bathylagus_euryops.jpg/960px-Bathylagus_euryops.jpg" />

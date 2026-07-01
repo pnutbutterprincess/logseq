@@ -1,0 +1,1 @@
+- a [[moth]] of the family [[Tischeriidae]] found on the [[Canary Islands]], described in [[1896]]

@@ -1,0 +1,1 @@
+- a family of [[dicotyledonous]] flowering [[plant]]s found mostly in the tropics, annual or perennial herbs, shrubs, or small trees

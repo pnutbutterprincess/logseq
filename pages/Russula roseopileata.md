@@ -1,0 +1,3 @@
+- a [[fungus]] species in the genus [[Russula]] endemic to [[Aotearoa]], described in [[1973]]
+- the [[pileus]] measures 1.5-4.5cm in diameter, hemispherical when immature but becoming centrally depressed at maturity
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Russula_roseopileata%2C_Kepler_Track%2C_Fiordland_National_Park_9691%2C_New_Zealand_imported_from_iNaturalist_photo_35545278.jpg/500px-Russula_roseopileata%2C_Kepler_Track%2C_Fiordland_National_Park_9691%2C_New_Zealand_imported_from_iNaturalist_photo_35545278.jpg" />

@@ -1,0 +1,1 @@
+- a type of volcanic [[eruption]] in which lava steadily flows out of a volcano onto the ground

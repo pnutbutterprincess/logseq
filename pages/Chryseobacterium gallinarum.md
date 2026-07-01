@@ -1,0 +1,1 @@
+- a Gram-negative and rod-shaped [[bacterium]] from the genus Chryseobacterium which has been isolated from the pharyngeal scrape of a chicken in Saxony-Anhalt in Germany, and has the ability to degrade keratin

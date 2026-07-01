@@ -1,0 +1,1 @@
+- a [[moth]] in the family [[Autostichidae]], described in [[2005]] and found in [[Costa Rica]]

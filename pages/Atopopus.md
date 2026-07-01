@@ -1,0 +1,7 @@
+- a genus of [mayfly](Ephemeroptera) under the family [[Heptageniidae]]
+- species in this genus usually have brown staining near the edges of their forewings and hindwings
+- species
+	- A. edmundsi
+	- A. meyi
+	- A. tarsalis
+	- A. tibialis

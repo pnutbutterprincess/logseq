@@ -1,0 +1,3 @@
+- *sanguine poison frog, Zaparo's poison frog,* or *rana venenosa*
+- a species of [frog](Anura) in the family [[Aromobatidae]] native to [[Ecuador]] and [[Peru]], described in [[1976]]
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Allobates_zaparo.jpg/500px-Allobates_zaparo.jpg" />

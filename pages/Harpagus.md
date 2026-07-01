@@ -1,0 +1,5 @@
+- a genus of [[bird]] in the family [[Accipitridae]]
+- species
+	- Double-toothed kite (H. bidentatus)
+	- Rufous-thighed kite (H. diodon)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Harpagus_bidentatus.jpg/500px-Harpagus_bidentatus.jpg" />

@@ -1,0 +1,1 @@
+- cells which developed during a vertebrate's embryonic state, migrating around the body and changing into other types of cells such as pigment skin cells along the back

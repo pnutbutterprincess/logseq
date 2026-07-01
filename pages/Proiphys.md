@@ -1,0 +1,8 @@
+- a genus of herbaceous, perennial, and bulbous [[plant]]s in the family [[Amaryllidoideae]] native to Southeast Asia, Papuasia, and Australia
+- species
+	- P. alba
+	- P. amboinensis
+	- P. cunninghamii
+	- P. infundibularis
+	- P. kimberleyensis
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Cardwell_Lily_flower.JPG/500px-Cardwell_Lily_flower.JPG" />

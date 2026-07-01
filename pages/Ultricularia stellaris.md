@@ -1,0 +1,3 @@
+- a medium to large sized suspended aquatic [[carnivorous plant]] that belongs to the genus [[Ultricularia]], native to Africa, tropical Asia, and northern Australia
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Utricularia_stellaris_162654924.jpg/500px-Utricularia_stellaris_162654924.jpg" />

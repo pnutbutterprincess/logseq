@@ -1,0 +1,1 @@
+- a species of [[moth]] in the family [[Bucculatricidae]] found in [[India]] and first described in [[1930]]

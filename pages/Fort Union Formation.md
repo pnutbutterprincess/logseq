@@ -1,0 +1,1 @@
+- a geologic unit of [[Paleocene]] age ([[Maastrichtian]] to [[Selandian]]) containing sandstones, shales, and coal beds in Wyoming, Montana, and parts of adjacent states

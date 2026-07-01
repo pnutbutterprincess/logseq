@@ -1,0 +1,1 @@
+- a [[moth]] in the family [[Gelechiidae]] described in [[1969]], found in Kazakhstan, Kyrgyzstan, northern Pakistan, Uzbekistan, China, and Mongolia

@@ -1,0 +1,4 @@
+- *fascicled beaksedge*
+- a perennial [[grass]] within the family [[Cyperaceae]], found in subtropical and tropical climates exhibiting mild winters and hot summers, where frost is rare, ranging from the southeastern United States, Central America, and northern South America, as well as in the Caribbean
+- a perennial graminoid which forms tussocks that reach around 1-1.5 meters in height
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Rhynchospora_fascicularis_1.jpg/500px-Rhynchospora_fascicularis_1.jpg" />

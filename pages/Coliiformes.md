@@ -1,0 +1,11 @@
+- *mousebirds*
+- [[bird]]s in the order Coliiformes
+- description
+	- slender greyish or brown birds with soft, hairlike body feathers
+	- typically about 10cm (3.9in) in body length
+	- long thin tail 20-24cm (7.9-9.4in)
+	- strong claws and reversible outer toes
+	- head crests
+	- stubby bills
+- arboreal birds that scurry through leaves in search of berries, fruit, and buds
+- acrobatic birds that can feed upside down

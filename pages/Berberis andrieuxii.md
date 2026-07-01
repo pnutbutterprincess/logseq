@@ -1,0 +1,1 @@
+- a [shrub](plant) in the family [[Berberidaceae]] endemic to southern Mexico

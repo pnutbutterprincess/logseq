@@ -1,0 +1,2 @@
+- a species of wild [[bean]] native to [[Mexico]] and [[Guatemala]] in the family [[Fabaceae]]
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Curtis%27s_botanical_magazine_%28Tab_7819%29_%288347233534%29.jpg/500px-Curtis%27s_botanical_magazine_%28Tab_7819%29_%288347233534%29.jpg" />

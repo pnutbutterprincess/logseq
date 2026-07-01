@@ -1,0 +1,3 @@
+- a species of plant in the family [[Melastomataceae]] endemic to [[Ecuador]]
+- Its habitats are subtropical or tropical moist montane forests and subtropical or tropical high-altitude shrubland
+- conservation status is #vulnerable

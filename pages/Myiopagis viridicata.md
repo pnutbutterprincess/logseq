@@ -1,0 +1,4 @@
+- *greenish elaenia*
+- a species of [[bird]] in the subfamily [[Elaeniinae]] of the [tyrant flycatcher](Tyrannidae) family, found in [[Mexico]], every Central American country, and every mainland South American country except Chile and French Guiana
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Myiopagis_viridicata.jpg/500px-Myiopagis_viridicata.jpg" />
+-

@@ -1,0 +1,6 @@
+- a subfamily of [ant](Formicoidea)s including the Argentine ant, the erratic ant, the odorous house ant, and the cone ant
+- distributed throughout the world in different biogeographic realms and with great diversity
+- identifying features
+	- a single [[petiole]] (no post-petiole)
+	- a slit-like orifice from which chemical compounds are released
+	- not possessing a sting

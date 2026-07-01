@@ -1,0 +1,3 @@
+- also *Labiatae*
+- *mint family* of [[plant]]s, flowering plants known as mints, deadnettles, or sages, containing many widely used culinary herbs and traditional medicines
+- most are herbaceous, a few are shrubs or trees or, rarely, vines

@@ -1,0 +1,4 @@
+- a genus of [dwarf spiders](Linyphiidae) described in [[1932]]
+- species
+	- A. arboreus
+	- A. expunctus

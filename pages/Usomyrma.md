@@ -1,0 +1,2 @@
+- an extinct genus of [[Formicidae]] in the formicid subfamily [[Dolichoderinae]], containing a single species U. mirabilis, known from two middle [[Eocene]] fossils found in amber in [[Denmark]]
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Usomyrma_mirabilis_holotype_male_profile_view.jpg/500px-Usomyrma_mirabilis_holotype_male_profile_view.jpg" />

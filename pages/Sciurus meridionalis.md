@@ -1,0 +1,4 @@
+- *Calabrian black squirrel*
+- a species of [tree squirrel](Sciuridae) in the genus [[Sciurus]], endemic to the forests of Calabria and Basilicata in the south of the Italian Peninsula
+- conservation status #near-threatened due to the small range in which it lives, though the population is currently stable, and due to another squirrel species (Finlayson's squirrel) being introduced near its range
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Sciurus_meridionalis.jpg/500px-Sciurus_meridionalis.jpg" />

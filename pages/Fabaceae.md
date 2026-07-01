@@ -1,0 +1,3 @@
+- also "Leguminosae" commonly known as the *legume, pea,* or *bean* family
+- a large family of flowering [[plant]]s, including trees, shrubs, perennial or annual herbaceous plants, easily recognized by their fruit (legume) and compound [[stipulate]] leaves
+-

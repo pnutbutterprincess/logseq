@@ -1,0 +1,7 @@
+- carnivory is believed to have evolved independently in five different orders of flowering plants at least 12 times
+- plants are considered carnivorous if they have these five traits
+	- capture prey in traps
+	- kill the captured prey
+	- digest the captured prey
+	- absorb nutrients from the killed and digested prey
+	- use those nutrients to grow and develop.

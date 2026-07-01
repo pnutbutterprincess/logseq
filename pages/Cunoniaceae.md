@@ -1,0 +1,36 @@
+- a family of woody plants, including trees and shrubs
+- genera
+	- tribe Spiraeanthemeae
+		- Spiraeanthemum
+	- tribe Schizomerieae
+		- Anodopetalum
+		- Ceratopetalum
+		- Schizomeria
+		- Platylophus
+	- tribe Geissoieae
+		- Geissois
+		- Karrabina
+		- Lamanonia
+		- Pseudoweinmannia
+	- tribe Caldcluvieae
+		- Ackama
+		- Caldcluvia
+		- Opocunonia
+	- tribe Codieae
+		- Callicoma
+		- Codia
+		- Pullea
+	- tribe Cunonieae
+		- Cunonia
+		- Pancheria
+		- Pterophylla
+		- Vesselowskya
+		- Weinmannia
+	- no tribe
+		- Acrophyllum
+		- Aistopetalum
+		- [[Bauera]]
+		- Davidsonia
+		- Eucryphia
+		- Hooglandia
+		- Gillbeea

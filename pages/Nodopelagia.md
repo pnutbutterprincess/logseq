@@ -1,0 +1,1 @@
+- a genus of [[sea snail]]s in the family [[Fasciolariidae]]

@@ -1,0 +1,1 @@
+- a genus of air-breathing land [[snail]]s in the subfamily [[Orthogibbinae]] of the family [[Streptaxidae]]

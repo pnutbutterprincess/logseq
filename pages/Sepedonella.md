@@ -1,0 +1,7 @@
+- a genus of [fly](Diptera) in the family [[Sciomyzidae]]
+- species
+	- S. bredoi
+	- S. castanea
+	- S. nana
+	- S. straeleni
+	- S. wittei

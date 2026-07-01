@@ -1,0 +1,2 @@
+- a species of [crab spider](Thomisidae) first described in [[1802]] which lives in the [[Palearctic]] region
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ara%C3%B1a._Vilarromar%C3%ADs_09-04-12_A.jpg/500px-Ara%C3%B1a._Vilarromar%C3%ADs_09-04-12_A.jpg" />

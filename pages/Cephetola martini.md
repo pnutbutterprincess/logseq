@@ -1,0 +1,1 @@
+- a species of [[butterfly]] in the family [[Lycaenidae]], described in [[1998]] and found in [[Cameroon]], [[Uganda]], and north-western [[Tanzania]] where it inhabits forests
