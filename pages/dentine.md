@@ -1,3 +1,2 @@
-- harder than none
-- Produced by odontoblasts
--
+- harder than bone but softer than enamel, forms most of teeth
+- Produced by cells called odontoblasts
