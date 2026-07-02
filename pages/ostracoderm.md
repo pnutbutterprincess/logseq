@@ -1,6 +1,5 @@
--
+- diverse informal group of jawless armored vertebrates
 - three major groups
 	- [[Pteraspidomorpha]]
 	- [[Thelodonti]]
 	- [[Osteotraci]]
--
