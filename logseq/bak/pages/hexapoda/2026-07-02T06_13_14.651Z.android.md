@@ -1,0 +1,11 @@
+- a subphylum of [arthropod](arthropoda)s
+- includes the clades
+	- ellipura
+		- class collembola (springtails)
+		- order [[protura]] (coneheads)
+	- cercophora
+		- class [[insecta]]
+		- order diplura (two-pronged bristletails)
+- first appeared in the [[Devonian]]
+- phylogenetic tree:
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Hexapoda_phylogenetic_tree.png/250px-Hexapoda_phylogenetic_tree.png" />
