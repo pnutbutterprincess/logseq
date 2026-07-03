@@ -1,0 +1,2 @@
+- An early [[eutherian]] mammal from the [[Early Cretaceous]] of [[China]], dating from about 125Ma
+- Weighed likely less than 25g
