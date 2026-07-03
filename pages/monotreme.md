@@ -1,0 +1,3 @@
+- A clade of [[mammal]]s which lay eggs and suckle their young
+- Earliest known monotreme is [[Steropodon]]
+- Small monotremes had a limited diversity and most are only known from [[Australia]] and New Guinea

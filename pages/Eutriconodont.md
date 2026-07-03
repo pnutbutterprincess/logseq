@@ -1,0 +1,3 @@
+- An extinct clade of [[mammal]]s, living until the [[Early Cretaceous]]
+- [[Repenomamus giganticus]] is the largest known Mesozoic mammal, about the size of a raccoon
+- [[Jeholodens]] was smaller, and had a prehensile tail and grasping hands

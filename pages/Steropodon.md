@@ -1,0 +1,1 @@
+- Earliest known [[monotreme]], known only from teeth from the [[Early Cretaceous]] of [[Australia]]
