@@ -1,1 +1,1 @@
-- an extinct
+- an extinct genus of [[dicynodont]] [[therapsid]] which lived
