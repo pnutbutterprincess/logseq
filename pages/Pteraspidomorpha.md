@@ -1,1 +1,1 @@
-- Early [[ostracoderm s from the [[Ordiv]]
+- Early [[ostracoderm] s from the [[Ordiv]]
