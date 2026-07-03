@@ -1,1 +1,3 @@
-- [[fusiform]] fish
+- Early [[fusiform]] [[Pteraspidomorpha]]n fish from the [[Ordivician]] of [[North America]]
+- Dorsal and ventral shields made up of smaller pieces, with the dorsal shield having grooves that were likely housing a sensory system
+-
