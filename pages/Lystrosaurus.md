@@ -1,2 +1,2 @@
 - an extinct genus of herbivorous [[dicynodont]] [[therapsid]] which lived from the [[Late Permian]] to the [[early Triassic]]
-- sprawling limbs and a bony beak with
+- sprawling limbs and a bony beak with two tusk-like canine teeth
