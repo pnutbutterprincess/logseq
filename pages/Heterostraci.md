@@ -1,4 +1,4 @@
-- Large and diverse clade of early fish, living from the early [[Silurian]] to the late devonian
+- Large and diverse clade of early ostracoderm fish, living from the early [[Silurian]] to the late devonian
 - A single external branchial opening on each side of their bodies
 - Had a [[pineal gland]] on their dorsal armor
 -
