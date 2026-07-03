@@ -1,0 +1,4 @@
+- tubules located within the testicles and are the location of meiosis and the creation of male gemetes (spermatozoa)
+- the [[epithelium]] consists of a type of sustentacular cells known as Sertoli cells - tall, columnar type cells lining the tubule - with spermatogenic cells in between the Sertoli cells
+- the spermatogenic cells differentiate through meiosis to sperm cells and are nourished by the Sertoli cells, which secrete an androgen-binding protein that increases the concentration of testosterone
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Seminiferous_tubule_and_sperm_low_mag.jpg/960px-Seminiferous_tubule_and_sperm_low_mag.jpg" />

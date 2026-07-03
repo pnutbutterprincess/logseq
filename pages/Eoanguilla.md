@@ -1,0 +1,3 @@
+- an extinct genus of prehistoric marine [[eel]] that lived during the early [[Eocene]]
+- species
+	- E. leptoptera ([[Ypresian]]-aged Monte Bolca site in [[Italy]] )
