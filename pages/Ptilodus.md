@@ -1,0 +1,2 @@
+- A tree-dwelling [[Multituberculate]] mammal from the [[early Cenozoic]]
+- Had a prehensile tail and squirrel-like hind feet which could rotate to accommodate climbing downward

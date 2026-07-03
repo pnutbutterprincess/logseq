@@ -2,3 +2,4 @@
 - Therians have
 	- complex tribosphenic molar teeth, adding a crushing function to the original shearing
 	- a shoulder girdle with a mobile scapula
+- Was divided into the clades of [[metatherians]] and [[eutherians]] by the [[Early Cretaceous]]

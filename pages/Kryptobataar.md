@@ -1,0 +1,2 @@
+- A [[Multituberculate]] mammal from the [[Late Cretaceous]] of [[Mongolia]]
+- likely gave birth to live young, as it had a narrow rigid pelvis that was incapable of widening to accommodate a reasonable-sized egg

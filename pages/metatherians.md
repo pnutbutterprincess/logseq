@@ -1,0 +1,1 @@
+- A clade of [[Theria]]ns including the common ancestor of living [[marsupial]]s and all of its descendants

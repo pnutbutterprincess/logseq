@@ -1,0 +1,2 @@
+- a clade of living [[mammal]]s which give birth to live young
+- caring for their young consists of a long gestation period and a short lactation period

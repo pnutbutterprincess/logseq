@@ -2,4 +2,3 @@
 - Ranged from mouse to rabbit sized
 - had rodent-like teeth, but which were specialized for grasping and puncturing rather than gnawing
 - were replaced by modern mammals and true [[rodent]]s by the end of the [[Eocene]]
-- [[Ptilodus]] from the [[early Cenozoic]]
