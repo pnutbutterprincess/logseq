@@ -1,1 +1,1 @@
-- an extinct genus of [[dicynodont]] [[therapsid]] which lived from the [[Late Permian]] to the
+- an extinct genus of [[dicynodont]] [[therapsid]] which lived from the [[Late Permian]] to the [[early Triassic]]
