@@ -1,0 +1,1 @@
+- a family of [[bacterium]] in the order Rickettsiales, none of which has been cultured in a laboratory, thus the family has been given the status *candidatus*

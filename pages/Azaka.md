@@ -1,0 +1,3 @@
+- a family of [[Lwa]] in Haitian #mythology
+- Azaka Medeh: Ioa of harvest
+- Azaka-Tonnerre: Ioa of thunder

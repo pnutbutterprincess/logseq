@@ -1,0 +1,7 @@
+- also called **loa** | Haitian #mythology
+- spirits in the African diasporic religion of Haitian Vodou (incorporated into some revivalist forms of Louisiana Voodoo)
+- many derive identities venerated in the traditional religions of West Africa, especially those of the Fon and Yoruba
+- Lwa serve as intermediaries between humanity and Bondye, a transcendental creator divinity
+- Vodouists believe that over a thousand lwa exist, with each having its own personality and being associated with specific colors and objects
+- The lwa communicate with humans through dreams and divination and in turn are given offerings, including sacrificed animals
+- During ceremonies, the lwa are believed to possess specific practitioners, allowing them to communicate with humans, offering advice, admonishment, or healing
