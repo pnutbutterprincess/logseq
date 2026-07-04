@@ -1,0 +1,2 @@
+- [[metamorphic]] rock derived from [[basalt]]ic volcanics or [[gabbro]]ic intrusives
+-

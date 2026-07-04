@@ -1,0 +1,77 @@
+- A type of [[metamorphic]] rock derived from mud rocks, commonly containing aluminum-bearing minerals such as [[muscovite]], [[biotite]], [[garnet]], [[staurolite]], [[cordierite]], and aluminum silicates, as well as quartz and plagioclase, with K-felspar possibly appearing in high grade rocks
+- Foliated pelitic rocks
+	- [[slate]]
+	- [[phyllite]]
+	- [[schist]]
+- Non-foliated
+	- [[argillite]]
+	- [[hornfels]]
+- Grades of pelitic metamorphic rock
+  collapsed:: true
+	- very low
+		- Mineral zone: Chlorite
+			- Index mineral: [[chlorite]]
+			- common mineral assemblage:
+				- [[chlorite]]
+				- [[muscovite]]
+				- [[albite]]
+				- [[quartz]]
+	- low
+		- Mineral zone: Biotite
+			- Index mineral: [[biotite]]
+			- Common mineral assemblage:
+				- [[biotite]]
+				- [[muscovite]]
+				- [[plagioclase]]
+				- [[quartz]]
+				- [[chlorite]]
+				- +/- [[chloritoid]]
+		- Mineral zone: Garnet
+			- Index mineral: [[garnet]]
+			- Common mineral assemblage:
+				- [[biotite]]
+				- [[muscovite]]
+				- [[garnet]]
+				- [[plagioclase]]
+				- [[quartz]]
+				- +/- [[cordierite]]
+				- [[garnet]]
+	- medium
+		- Mineral zone: Staurolite
+			- index mineral: [[staurolite]]
+			- common mineral assemblage
+				- [[biotite]]
+				- [[muscovite]]
+				- [[staurolite]]
+				- [[plagioclase]]
+				- [[quartz]]
+				- +/- [[cordierite]]
+				- [[garnet]]
+		- Mineral zone: Andalusite or Kyanite
+			- index mineral: [[andalusite]]/ [[kyanite]]
+			- common mineral assemblage
+				- [[biotite]]
+				- [[muscovite]]
+				- [[andalusite]] or [[kyanite]]
+				- [[plagioclase]]
+				- [[quartz]]
+				- +/- [[cordierite]]
+				- [[garnet]]
+		- Mineral zone: Sillimanite
+			- index mineral: [[sillimanite]]
+			- common mineral assemblage
+				- [[biotite]]
+				- [[muscovite]]
+				- [[sillimanite]]
+				- [[plagioclase]]
+				- [[quartz]]
+				- +/- [[garnet]]
+	- high
+		- Mineral zone: K-feldspar
+			- index mineral: [[K-feldspar]]- [[sillimanite]]
+			- common mineral assemblage
+				- [[biotite]]
+				- [[K-feldspar]]
+				- [[sillimanite]]
+				- [[plagioclase]]
+				- [[quartz]]
