@@ -1,0 +1,6 @@
+- Early [[ostracoderm]]s from the [[Ordivician]]
+- Divided into three major groups
+	- [[Astraspida]]
+	- [[Arandaspida]]
+	- [[Heterostraci]]
+-

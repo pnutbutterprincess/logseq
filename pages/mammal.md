@@ -1,0 +1,10 @@
+- Three living clades of mammals
+	- [[monotreme]]s - lay eggs and suckle their young
+	- [[Theria]] - live birth
+		- [[marsupial]]s -
+		- [[placental]]s
+- Extinct lineages
+	- [[Eutriconodont]]s - lived until the [[Early Cretaceous]]
+	- [[Multituberculate]]s - thrived from the [[Late Jurassic]], through the [[Cretaceous]] , and into the early [[Cenozoic]]
+	-
+-

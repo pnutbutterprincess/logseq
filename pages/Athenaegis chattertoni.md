@@ -1,0 +1,1 @@
+- An early [[Heterostraci]] fish having armored plates

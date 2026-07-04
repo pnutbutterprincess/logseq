@@ -1,0 +1,2 @@
+- A location where fossils are found high above the tree line, located in the MacKenzie mountains in Canada, including many fossil fish
+- Rocks are composed of finely laminated clay-rich limestone or calcite-rich shale

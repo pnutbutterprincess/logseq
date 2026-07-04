@@ -1,0 +1,5 @@
+- A class of mammals which give birth to live young
+- Therians have
+	- complex tribosphenic molar teeth, adding a crushing function to the original shearing
+	- a shoulder girdle with a mobile scapula
+- Was divided into the clades of [[metatherians]] and [[eutherian]] by the [[Early Cretaceous]]

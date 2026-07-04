@@ -1,0 +1,4 @@
+- An extinct group of [[mammal]]s which made up more than half of the mammals known from the [[Late Cretaceous]]
+- Ranged from mouse to rabbit sized
+- had rodent-like teeth, but which were specialized for grasping and puncturing rather than gnawing
+- were replaced by modern mammals and true [[rodent]]s by the end of the [[Eocene]]

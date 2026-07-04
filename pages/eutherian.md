@@ -1,0 +1,3 @@
+- A clade of [[Theria]]ns including the common ancestor of living [[placental]]s and all of its descendants
+- Earliest eutherian was [[Eomaia]] or possibly [[Juramaia]]
+-

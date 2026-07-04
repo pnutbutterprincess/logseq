@@ -1,0 +1,3 @@
+- Early [[Pteraspidomorpha]] fish known from Australia
+- large simple dorsal and ventral head shields
+- [[fusiform]] - spindle shaped with a taper at both ends

@@ -1,0 +1,2 @@
+- a clade of mammals which give birth to live young and often carry their young in a pouch
+- caring for their young consists of a short gestation period and a long lactation period
