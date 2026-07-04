@@ -1,2 +1,2 @@
 - *oak*
-- A genus of [[tree]] in the [beech](Fagaceae)
+- A genus of [[tree]] in the [beech](Fagaceae) family
