@@ -17,3 +17,10 @@
 	- [[epidote amphibolite facies]]
 	- [[amphibolite facies]]
 	- [[granulite]] facies
+- types of metamorphism by geologic setting
+	- [[contact metamorphism]]
+	- [[regional metamorphism]]
+	- [[burial metamorphism]]
+	- [[hydrothermal metamorphism]]
+	- [[shock metamorphism]]
+	- [[high-strain metamorphism]]
