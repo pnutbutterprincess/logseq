@@ -1,1 +1,5 @@
 - typically a low-temperature, high-pressure [[metamorphic]] grade of rocks, often associated with subduction zones
+- parent rocks are often [[graywacke]]
+- least metamorphosed rocks will have zeolites
+- with increasing temp and pressure, [[prehnite]] and [[pumpellyite]] increase in abundance, followed by sodic [[amphibole]] (glaucophane) and [[lawsonite]]
+- the blue color of the sodic amphibole gives [[blueschist]] its name
