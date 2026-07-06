@@ -1,0 +1,2 @@
+- *Pecos clicker grasshopper*
+- a species of [slant-faced grasshopper](Gomphocerinae) in the family [[Acrididae]] found in Central and North America

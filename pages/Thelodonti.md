@@ -1,0 +1,1 @@
+- extinct early [[fish]] that had hollow tooth-like scales

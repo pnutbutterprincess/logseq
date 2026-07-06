@@ -2,4 +2,4 @@
 - three major groups
 	- [[Pteraspidomorpha]]
 	- [[Thelodonti]]
-	- [[Osteotraci]]
+	- [[Osteostraci]]

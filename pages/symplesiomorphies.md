@@ -1,0 +1,1 @@
+- shared primitive traits which do not identify sister groups

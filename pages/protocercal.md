@@ -1,0 +1,5 @@
+- a primitive and undifferentiated caudal fin of [[fish]]es, with the vertebrae extending to the tip of the tail symmetrically
+- seen in [[lamprey]]s, [[hagfish]]es
+- leptocercal is a modified version where the tail is expanded to have a median lobe at the tip while the vertebrae still extend symmetrically to the tip
+	- seen in [[coelacanth]], [[lungfish]], [[ratfish]]
+-

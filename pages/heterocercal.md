@@ -1,0 +1,3 @@
+- an asymmetrical caudal fin in fishes, with the vertebral column and/or notochord extending towards the tip of the fin
+- [[epicercal]] - longer dorsal lobe
+- [[hypocercal]] - longer ventral lobe

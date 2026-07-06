@@ -1,1 +1,1 @@
-- a type of bone that forms around cartilage
+- a type of bone that forms around cartilage, particularly in the embryo, and is replaced by bone during growth

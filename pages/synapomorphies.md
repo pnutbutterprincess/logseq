@@ -1,0 +1,1 @@
+- shared *derived* traits between sister groups of creatures which were not inherited from more primitive versions

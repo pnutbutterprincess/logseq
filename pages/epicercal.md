@@ -1,0 +1,1 @@
+- a [[heterocercal]] and upwardly tapering caudal (tail) fin of certain fishes, generally indicating that the [[notochord]] or spine forms the upper margin of the tail fin

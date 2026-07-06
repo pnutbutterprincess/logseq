@@ -1,0 +1,1 @@
+- a type of caudal fin in [[fish]]es with two lobes which are symmetrical externally

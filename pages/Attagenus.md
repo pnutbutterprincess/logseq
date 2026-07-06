@@ -1,0 +1,3 @@
+- a genus of [beetle](Coleoptera) found in tropical Africa, Europe, the Near East, the Nearctic, North Africa, and East Asia
+- fossils representing Attagenus are known from the [[Cenomanian]] in the Cretaceous
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Attagenus_pellio_%28Linn%C3%A9%2C_1758%29_%2827683819884%29.png/500px-Attagenus_pellio_%28Linn%C3%A9%2C_1758%29_%2827683819884%29.png" />

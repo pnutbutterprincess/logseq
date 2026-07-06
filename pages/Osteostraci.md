@@ -1,0 +1,4 @@
+- "bone-shelled"
+- an extinct class of bony-armored [jawless](Agnatha) [[fish]], which lived from the middle [[Silurian]] to late [[Devonian]]
+- [[epicercal]] tail similar to that of modern-day sharks
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Cephalaspis_species.jpg/500px-Cephalaspis_species.jpg" />
