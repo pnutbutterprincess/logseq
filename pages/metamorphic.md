@@ -9,7 +9,7 @@
 		- fluids from external sources may dissolve some components and contribute others
 - facies: a set of assemblages of minerals which are predictably found together at different metamorphic grades and separated by the appearance (or disappearance) of specific index minerals
 - [[mafic]] facies
-	- [[zeolite]] facies
+	- [[zeolite facies]]
 	- [[prehnite-pumpellyite facies]]
 	- [[blueschist facies]]
 	- [[eclogite]] facies
