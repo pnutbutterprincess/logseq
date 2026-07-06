@@ -1,2 +1,3 @@
 - metamorphism taking place in the immediate vicinity of an [[igneous]] body serving as the source of heat
 - [[metamorphic]] rocks typically form an aureole ranging in size, with the grade of metamorphism decreasing outward
+- not associated with deformation
