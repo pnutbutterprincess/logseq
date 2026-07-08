@@ -1,0 +1,1 @@
+- a genus of [[moth]] in the family [[Erebidae]] and the subfamily [[Hypeninae]]
