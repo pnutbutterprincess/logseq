@@ -18,4 +18,8 @@
 	- streak: white
 	- thin section: colorless
 	- pleochroism: none
-- features
+- distinguishing features
+	- coarsely crystalline samples are distinguished by hardness, conchoidal fracture, and luster
+	- [[beryl]] has a higher specific gravity and imperfect cleavage, and is usually blue or greenish
+	- microcrystalline quartz is harder and has a higher specific gravity than [[opal]]
+	- with a hand lens, quartz forms anhedral, eqyant, gray, glassy grains without cleavage
