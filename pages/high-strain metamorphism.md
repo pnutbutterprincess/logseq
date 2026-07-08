@@ -1,0 +1,3 @@
+- metamorphism from high [[ductile]] strain coming from tectonic sources
+- produces [[mylonitic]] rocks
+- changes include a reduction in grain size and possibly the production of fine-grained [[phyllosilicate]]s

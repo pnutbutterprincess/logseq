@@ -1,0 +1,3 @@
+- metamorphism involving a significant volume of rock, usually associated with a depositional setting, where both sedimentary and igneous rock may be present
+- heat is related to burial, not usually tectonic activity, magma intrusion, or deformation
+- essentially a continuation of sedimentary [[diagenesis]]

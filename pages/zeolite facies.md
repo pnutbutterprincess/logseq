@@ -1,0 +1,3 @@
+- characteristic minerals
+	- [[zeolite]]s
+		- usually [[laumontite]], [[wairakite]], or [[analcime]]

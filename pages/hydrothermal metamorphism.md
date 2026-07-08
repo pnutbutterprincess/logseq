@@ -1,0 +1,4 @@
+- metamorphism produced by hot aqueous solution moving into and through rocks
+- generally the heat source is an [[igneous]] intrusion
+- the flow of water is generally concentrated near the igneous body or along [[fault]] and [[fracture zone]]s
+- commonly associated with the formation of hydrothermal mineral deposits

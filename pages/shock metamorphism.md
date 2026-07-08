@@ -1,0 +1,2 @@
+- metamorphism produced by a [[meteorite]] impact
+- new minerals (such as [[coesite]] or [[stishovite]]) or melt may be formed, but most of the energy shatters and displaces the rock

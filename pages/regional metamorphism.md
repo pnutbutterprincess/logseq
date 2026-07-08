@@ -1,0 +1,4 @@
+- metamorphism involving large volumes of rock, often orogenic
+- heat may be provided by the mantle
+- igneous intrusives may exist, but metamorphism is not restricted to these locations
+- metamorphism and deformation are closely related
