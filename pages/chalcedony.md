@@ -1,0 +1,1 @@
+- a rock or deposit mostly composed of fibrous [[quartz]]
