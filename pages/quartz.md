@@ -25,6 +25,12 @@
 	- with a hand lens, quartz forms anhedral, eqyant, gray, glassy grains without cleavage
 - microcrystalline varieties
 	- micro-quartz
-		- roughly equa
+		- roughly equant grains too fine to be seen through a binocular microscope
 	- chalcedonite
+		- fibrous quartz elongated along the c-axis, commonly forming tightly packed radial or parallel aggregates
+		- in thin section, chalcedony appears feathery due to the fibers twisting along their length
 	- quartzine
+		- quartz fibers elongate along the c-axis, but do not twist into spirals
+- [[jasper]]: red or brown microcrystalline quartz (usually [[chert]])
+- [[flint]]: black or dark grey microcrystalline quartz (usually [[chert]])
+- [[agate]]: microcrystalline silica (often [[chalcedony]]), often translucent, with color bands or irregular color patches
