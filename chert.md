@@ -1,3 +1,3 @@
 - a type of [[biochemical rock]]
 - chert is formed from [[silica]] shells and clay
-- may include fine-grained [[quartz]],
+- may include fine-grained [[quartz]], as well as small amounts of fibrous quartz, [[moganite]], and [[opal]]ine material
