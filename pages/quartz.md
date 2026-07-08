@@ -4,3 +4,4 @@
 - Clear and colorless, but may be purple([[amethyst]]) when containing trace amounts of [[Fe]]3+ or pink ([[rose quartz]]) if containing trace amounts of [[Ti]]4+
 - a-quartz (low) and ß-quartz (high) are two silica polymorphs where the ß polymorph has a higher symmetry and is stable at higher temperatures than the a variety
 - ẞ-quartz will convert to a-quartz with cooling, generally forming under higher pressure and temperature conditions
+- structure: silicon tetrahedra form interlocking
