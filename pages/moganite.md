@@ -1,1 +1,1 @@
-- a fibrous [[quartz]]
+- a fibrous microcrystalline [[quartz]] very similar to quartzine and difficult to differentiate
