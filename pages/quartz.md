@@ -6,4 +6,5 @@
 - ẞ-quartz will convert to a-quartz with cooling, generally forming under higher pressure and temperature conditions
 - structure: silicon tetrahedra form interlocking spirals parallel to the c-axis; spirals may be either right or left-handed
 	- in ß-quartz, the spirals produce 6-fold rotational symmetry (a 6-fold screw axis)
-	- in cooling,
+	- in cooling, ß-quartz is displaced to 3-fold symmetry, becoming a-quartz
+- form: [[anhedral]]
