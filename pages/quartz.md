@@ -5,3 +5,5 @@
 - a-quartz (low) and ß-quartz (high) are two silica polymorphs where the ß polymorph has a higher symmetry and is stable at higher temperatures than the a variety
 - ẞ-quartz will convert to a-quartz with cooling, generally forming under higher pressure and temperature conditions
 - structure: silicon tetrahedra form interlocking spirals parallel to the c-axis; spirals may be either right or left-handed
+	- in ß-quartz, the spirals produce 6-fold rotational symmetry (a 6-fold screw axis)
+	- in cooling,
