@@ -23,3 +23,8 @@
 	- [[beryl]] has a higher specific gravity and imperfect cleavage, and is usually blue or greenish
 	- microcrystalline quartz is harder and has a higher specific gravity than [[opal]]
 	- with a hand lens, quartz forms anhedral, eqyant, gray, glassy grains without cleavage
+- microcrystalline varieties
+	- micro-quartz
+		- roughly equa
+	- chalcedonite
+	- quartzine
