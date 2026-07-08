@@ -1,0 +1,2 @@
+- a rock composed of non-crystalline and microcrystalline varieties of [[silica]]
+-
