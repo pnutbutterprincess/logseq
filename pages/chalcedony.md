@@ -1,1 +1,1 @@
-- a rock or deposit mostly composed of fibrous [[quartz]]
+- a rock or deposit mostly composed of fibrous [[quartz]] and [[moganite]]
