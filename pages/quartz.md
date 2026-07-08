@@ -7,4 +7,15 @@
 - structure: silicon tetrahedra form interlocking spirals parallel to the c-axis; spirals may be either right or left-handed
 	- in ß-quartz, the spirals produce 6-fold rotational symmetry (a 6-fold screw axis)
 	- in cooling, ß-quartz is displaced to 3-fold symmetry, becoming a-quartz
-- form: [[anhedral]]
+- form: [[anhedral]] grains in both igneous and metamorphic rocks
+- deformed quartz may display undulatory extinction under a petrographic microscope
+- no cleavage
+- conchoidal fracture
+- brittle
+- color properties
+	- luster: vitreous
+	- colorless or gray most common, but any color is possible
+	- streak: white
+	- thin section: colorless
+	- pleochroism: none
+- features
