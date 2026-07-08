@@ -1,4 +1,5 @@
 - [[Si]][[O]]2
--
+- [[hexagonal]], trigonal division
+- uniaxial (+)
 - Clear and colorless, but may be purple([[amethyst]]) when containing trace amounts of [[Fe]]3+ or pink ([[rose quartz]]) if containing trace amounts of [[Ti]]4+
--
+- a-quartz  and ß-quartz are two polymorphs where
