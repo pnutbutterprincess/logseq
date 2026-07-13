@@ -1,0 +1,3 @@
+- an extinct genus of [unenlagiine](Unenlagiinae) [[theropod]] dinosaurs from the Late Cretaceous [[Santonian]] [[Bajo de la Carpa Formation]] of [[Argentina]]
+- species
+	- Diuqin lechiguanae

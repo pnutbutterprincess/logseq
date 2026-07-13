@@ -1,0 +1,3 @@
+- a species of semi-aquatic [true bug](Hemiptera) in the family [[Veliidae]], living on the surface of water in freshwater habitats in [[New Zealand]]
+- a very small bug with a length of about 2mm
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Microvelia_macgregori_343594325.jpg/500px-Microvelia_macgregori_343594325.jpg" />

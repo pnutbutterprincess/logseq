@@ -1,0 +1,12 @@
+- a genus of tropical [barb](fish) found in Thailand, India, Bangladesh, Myanmar, northern Malay Peninsula, and the Mekong basin in Laos
+- species
+	- O. andrewi
+	- O. coorgensis
+	- O. cosuatis
+	- O. crenuchoides
+	- O. duospilus
+	- O. elianae
+	- O. incognito
+	- O. parvus
+	- O. warjaintia
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Oreichthys_cosuatis.jpg" />

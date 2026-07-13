@@ -1,0 +1,3 @@
+- a genus of [alderfly](Sialidae) in the order [[Megaloptera]]
+- these flies are small and mainly brown with a relatively heavy body and forewings reaching a length of 10-20mm, with the females usually larger than males
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Sialidae_-_Sialis_sp..JPG/500px-Sialidae_-_Sialis_sp..JPG" />

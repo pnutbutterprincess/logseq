@@ -1,0 +1,3 @@
+- *cryptic golden tegu*
+- a species of [[lizard]] in the family [[Teiidae]] found in Venezuela, French Guiana, Guyana, Suriname, Brazil, Colombia, and Trinidad and Tobago
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Tupinambis_cryptus_251372173.jpg/500px-Tupinambis_cryptus_251372173.jpg" />

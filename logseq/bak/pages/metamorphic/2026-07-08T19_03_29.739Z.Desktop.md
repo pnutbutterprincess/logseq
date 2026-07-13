@@ -1,0 +1,19 @@
+- processes
+	- [[recrystallization]]
+	- new mineral growth
+	- textural changes
+		- increase in grain size
+		- foliation
+	- compositional changes
+		- metasomatism
+		- fluids from external sources may dissolve some components and contribute others
+- facies: a set of assemblages of minerals which are predictably found together at different metamorphic grades and separated by the appearance (or disappearance) of specific index minerals
+- [[mafic]] facies
+	- [[zeolite]] facies
+	- [[prehnite-pumpellyite facies]]
+	- [[blueschist facies]]
+	- [[eclogite]] facies
+	- [[greenschist facies]]
+	- [[epidote amphibolite facies]]
+	- [[amphibolite facies]]
+	- [[granulite]] facies

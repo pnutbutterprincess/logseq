@@ -1,0 +1,3 @@
+- an extinct genus of [[Titanosaur]]ian [[sauropod]] [[dinosaur]] from the Late Cretaceous ([[Maastrichtian]]) Ouled Abdoun Basin of [[Morocco]]
+- species
+	- P. khouribgaensis

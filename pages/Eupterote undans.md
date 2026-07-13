@@ -1,0 +1,1 @@
+- a [[moth]] in the family [[Eupterotidae]], found in the Himalayas

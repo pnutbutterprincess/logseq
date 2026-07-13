@@ -1,0 +1,3 @@
+- an [[igneous]] intrusive rock variant of alkali feldspar [[granite]], characterized by large, rounded crystals of [[orthoclase]] each with a rim of [[oligoclase]], commonly including [[hornblende]] and [[biotite]]
+- rapakivi granite is generally a textural term implying [[plagioclase]] rims around [[orthoclase]] in plutonic rocks
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Rapakivi_brown.jpg/960px-Rapakivi_brown.jpg" />

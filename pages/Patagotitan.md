@@ -1,0 +1,4 @@
+- a genus of [[Titanosaur]]ian [[sauropod]] from the [[Early Cretaceous]] [[Cerro Barcino Formation]] in Patagonia, Argentina
+- species
+	- P. mayorum
+	- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/FMNH_Patagotitan.jpg/500px-FMNH_Patagotitan.jpg" />
