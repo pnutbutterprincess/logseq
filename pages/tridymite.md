@@ -1,0 +1,16 @@
+- [[silicate]] mineral
+- Composition: [Si](Silica)[O](Oxygen)2
+	- Open crystalline structure allows for replacement of cations with Na+, K+, and Ca+, with Al3+ substituting for Si4+ to retain charge balance
+- Structure: stacked sheets of silicon tetrahedra, with each sheet composed of six-member rings with tetrahedra pointing alternately up and down
+- Form: typically pseudohexagonal platelets, but may also form radiating or spherical aggregates, or may be anhedral granular
+- Cleavage: none, conchoidal fracture, brittle
+- Color: colorless, grey, white
+- Luster: vitreous
+- Streak: white
+- Thin section color: colorless, no pleochroism
+- Distinguishing features
+	- Hand sample: not possible to distinguish tridymite from [[quartz]]
+	- Thin section: crystal habit, low birefringence, low indices of refraction, twinning on [106] forming three wedge-shaped segments.
+		- [[quartz]] has higher birefringence and indices of refraction and is uniaxial
+		- [[cristobalite]] is uniaxial or essentially isotropic
+- Occurrence: found in felsic to intermediate extrusive and shallow intrusive [[igneous]] rocks. May form [[phenocryst]]s, be part of groundmass, or form small crystals lining vescicles or other voids. Also found in vesicles of basaltic lavas and in contact metamorphic zones beside basaltic intrusives. Has been reported in [[meteorite]]s
