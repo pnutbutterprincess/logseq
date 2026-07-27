@@ -15,4 +15,4 @@
 - color in thin section: colorless, no pleochroism
 - luster: vitreous
 - distinguishing features
-	- hand
+	- hand sample: difficult to identify due to fine grain
