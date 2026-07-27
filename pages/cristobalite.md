@@ -14,3 +14,5 @@
 - streak: white
 - color in thin section: colorless, no pleochroism
 - luster: vitreous
+- distinguishing features
+	- hand
