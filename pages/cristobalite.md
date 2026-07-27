@@ -1,0 +1,11 @@
+- Formula: SiO2
+- tetragonal
+- structure:
+	- sheets of silicon tetrahedra arranged in 6-fold rings whose tetrahedra alternate pointing up and down; the rings are bound together by shared oxygen anions.
+	- Differing from [[tridymite]], the adjacent rings are offset, so that the center of the rings in one sheet are not lined up with the center of the sheets above and below
+- composition: open structure allows for substitution of Na+, Ca2+, K+, with Al3+ substituting for Si4+ to maintain balance
+- form:
+	- typically octahedrons
+	- rarely cubes
+	- dendritic and and skeletal or intergrown with [[K-feldspar]] to form a radial pattern of spherulites produced by devitrifying volcanic glass
+	- may be fibrous, when combined with [[tridymite]] it is sometimes called [[lussatite]] ([[length-slow]] fibers) or [[lussatine]] ([[length-fast]] fibers) (these terms may also be applied to [[opal]] samples containing fibrous cristobalite
