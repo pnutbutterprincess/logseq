@@ -9,3 +9,8 @@
 	- rarely cubes
 	- dendritic and and skeletal or intergrown with [[K-feldspar]] to form a radial pattern of spherulites produced by devitrifying volcanic glass
 	- may be fibrous, when combined with [[tridymite]] it is sometimes called [[lussatite]] ([[length-slow]] fibers) or [[lussatine]] ([[length-fast]] fibers) (these terms may also be applied to [[opal]] samples containing fibrous cristobalite
+- cleavage: none, brittle
+- color: colorless to white or pale yellowish white
+- streak: white
+- color in thin section: colorless, no pleochroism
+- luster: vitreous
