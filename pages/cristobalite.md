@@ -1,0 +1,25 @@
+- Formula: SiO2
+- tetragonal
+- structure:
+	- sheets of silicon tetrahedra arranged in 6-fold rings whose tetrahedra alternate pointing up and down; the rings are bound together by shared oxygen anions.
+	- Differing from [[tridymite]], the adjacent rings are offset, so that the center of the rings in one sheet are not lined up with the center of the sheets above and below
+- composition: open structure allows for substitution of Na+, Ca2+, K+, with Al3+ substituting for Si4+ to maintain balance
+- form:
+	- typically octahedrons
+	- rarely cubes
+	- dendritic and and skeletal or intergrown with [[K-feldspar]] to form a radial pattern of spherulites produced by devitrifying volcanic glass
+	- may be fibrous, when combined with [[tridymite]] it is sometimes called [[lussatite]] ([[length-slow]] fibers) or [[lussatine]] ([[length-fast]] fibers) (these terms may also be applied to [[opal]] samples containing fibrous cristobalite
+- cleavage: none, brittle
+- color: colorless to white or pale yellowish white
+- streak: white
+- color in thin section: colorless, no pleochroism
+- luster: vitreous
+- distinguishing features
+	- hand sample: difficult to identify due to fine grain size and pseudomorphs; resembles [[quartz]] and [[tridymite]], but with a different crystal habit
+	- thin section: uniaxial negative, crystal habit, limited indices of refraction and very low birefringence, as well as presence in spherulites. [[tridymite]] is biaxial with a higher negative relief, and [[quartz]] is uniaxial positive with a higher birefringence
+- occurrence:
+	- may form phenocrysts or groundmass minerals in some [[felsic]] lavas
+	- more commonly, forms as grains lining cavities and vesicles in volcanic rocks and shallow intrusives, in association with [[topaz]], [[garnet]], [[tridymite]], and other minerals
+	- a common constituent of [[opal]]
+	- has been found in [[meteorite]]s
+	- has been found in [[sandstone]] that has been fused by contact with high-temperature magma or underground coal fires
