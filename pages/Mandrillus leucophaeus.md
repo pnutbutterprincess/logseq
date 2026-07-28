@@ -1,0 +1,5 @@
+- *drill*
+- a [[primate]] of the family [[Cercopithecidae]], currently an #endangered species living in Nigeria, Cameroon, and Equatorial Guinea
+- subspecies
+	- Bioko drill (M. leucophaeus poensis) - endemic to Bioko Island in [[Equatorial Guinea]] off the west coast of Africa, separated from the mainland species after the last ice age. Currently #endangered due to hunting. Differentiated in appearance from the mainland drill by a yellowish crown of fur with black tips lining the drill's face, rather than a crown that is mostly white. The males are much larger than the females.
+	- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Drills_%28Mandrillus_leucophaeus%29_captive_specimens_..._%2821571062871%29.jpg/500px-Drills_%28Mandrillus_leucophaeus%29_captive_specimens_..._%2821571062871%29.jpg" />

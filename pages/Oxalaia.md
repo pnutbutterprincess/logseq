@@ -1,0 +1,5 @@
+- (in reference to the African deity Oxalá)
+- a genus of [[Spinosaurid]] [[dinosaur]] from the [[Late Cretaceous]] found in northeastern Brazil, described from two partial skull bones containing distinct features not seen in other spinosaurids or theropods
+- species
+	- O. quilombensis
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Holotype_of_Oxalaia_quilombensis.PNG/500px-Holotype_of_Oxalaia_quilombensis.PNG" />

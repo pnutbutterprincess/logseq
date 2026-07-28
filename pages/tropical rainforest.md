@@ -1,0 +1,5 @@
+- also referred to as a 'tropical wet forest'
+- a biome found in equatorial regions, characterized by plants with broad leaves that fall and are replaced throughout the year
+- temperature ranging from 20-34C (68-93F) without much seasonal temperature variation, leading to year-round plant growth
+- little variation in sunlight throughout the year (11-12 hrs per day)
+- rainfall ranges from 125-660cm (50-200in) with some monthly variation, often having wet months (over 30cm of precipitation) and dry months (less than 10 cm of precipitation)

@@ -1,0 +1,3 @@
+- *changeable hawk-eagle* or *crested hawk-eagle*
+- a large [[bird]] of prey in the family [[Accipitridae]], found across much of the Indian subcontinent and Southeast Asia, living in savanna woodland, wetlands, and various forests.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Changeable_Hawk_Eagle_Bandipur.jpg/500px-Changeable_Hawk_Eagle_Bandipur.jpg" />

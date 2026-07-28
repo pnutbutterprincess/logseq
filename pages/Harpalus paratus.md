@@ -1,0 +1,1 @@
+- a species of [ground beetle](Carabidae) in the subfamily [[Harpalinae]]

@@ -1,0 +1,4 @@
+- *vestal cuckoo bumblebee*
+- a species of bumble[bee](Apidae) in the subgenus [[Psithyrus]] in the bumblebee genus [[Bombus]] which lives in most of Europe, North Africa, and western Asia
+- this bee is a [[brood parasite]] with the primary host being the [buff-tailed bumblebee](Bombus terrestris)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bumblebee_January_2008-4.jpg/500px-Bumblebee_January_2008-4.jpg" />

@@ -1,0 +1,1 @@
+- a genus of [[ankylosaur]]ian [[dinosaur]] in the group [[Parankylosauria]] that lived during the [[Maastrichtian]] of the [[Late Cretaceous]] of Antarctica

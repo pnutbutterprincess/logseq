@@ -1,0 +1,3 @@
+- *Spanish snapdragon*
+- a species of flowering [[plant]] in the genus [[Antirrhinum]] native to southeastern [[Spain]]
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Antirrhinum_hispanicum82.jpg/500px-Antirrhinum_hispanicum82.jpg" />

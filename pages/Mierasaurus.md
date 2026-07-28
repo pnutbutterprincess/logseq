@@ -1,0 +1,2 @@
+- an extinct genus of [[sauropod]] dinosaur from the early [[Cretaceous]] of Utah, United States, known from a mostly complete skeleton
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Mierasaurus_Skull.png/500px-Mierasaurus_Skull.png" />

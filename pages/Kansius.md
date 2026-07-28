@@ -1,0 +1,1 @@
+- an extinct genus of prehistoric [ray-finned fish](Actinopterygii) that lived during the [[Santonian]] in the Late Cretaceous

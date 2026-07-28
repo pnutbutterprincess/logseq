@@ -1,0 +1,7 @@
+- 'southern lizard'
+- a genus of [titanosaurian](Titanosaur) [[sauropod]] [[dinosaur]] from the [[Late Cretaceous]] of [[South America]]
+- species
+	- A. wichmannianus
+	- A. giganteus
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Antarctosaurus-wichmannianus-Skull-Diagram-SVG-001.svg/500px-Antarctosaurus-wichmannianus-Skull-Diagram-SVG-001.svg.png" />
+- It is unsure whether the mandible and braincase belong to the same individual or genus

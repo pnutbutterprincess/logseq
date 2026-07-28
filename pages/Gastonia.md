@@ -1,0 +1,4 @@
+- a genus of herbivorous [[ankylosaur]]ian dinosaur from the [[Early Cretaceous]] of [[North America]], considered a [nodosaurid](Nodosauridae), having a sacral shield and large shoulder spikes
+- species
+	- G. burgei
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Gastonia_mount_BYU_4.jpg/500px-Gastonia_mount_BYU_4.jpg" />

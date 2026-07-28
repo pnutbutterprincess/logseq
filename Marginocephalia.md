@@ -1,1 +1,1 @@
-Fringed Head [[ceratopsia]] dinosaurs, animals such as [[Styracosaurus]] and [[Triceratops]], [[pachycephalosaur]]s
+Fringed Head [[Ceratopsia]] dinosaurs, animals such as [[Styracosaurus albertensis]] and [[Triceratops]], [[pachycephalosaur]]s

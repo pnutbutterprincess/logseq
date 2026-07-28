@@ -1,0 +1,6 @@
+- *cabbage parachute*
+- a relatively uncommon [basidiomycete](Basidiomycota) [[fungus]] of the genus [[Gymnopus]]
+- the cabbage parachute has a strong smell of rotten cabbage
+- can be differentiated by its buff-colored gills, tapered and bicolored stipe which is orange-yellow at the top and dark red-brown or black at the base
+- convex or flat cap is 15-45mm with an undulating margin, and is a reddish or yellow brown color
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Cabbage_Parachute_%28Gymnopus_brassicolens%29%2C_Photo_598625967.jpg/500px-Cabbage_Parachute_%28Gymnopus_brassicolens%29%2C_Photo_598625967.jpg" />

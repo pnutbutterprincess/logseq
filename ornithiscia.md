@@ -3,5 +3,5 @@
 - Clades
 	- [[ornithopod]]s, large ornithischians such as [[hadrosaurid]]s and [[iguanodont]]s
 	- Armored dinosaurs form [[Thyreophora]], including [[stegosauria]] and [[ankylosauria]]
-	- [[Marginocephalia]], horned dinosaurs such as [[ceratopsia]]ns and [[pachycephalosaur]]s
+	- [[Marginocephalia]], horned dinosaurs such as [[Ceratopsia]]ns and [[pachycephalosaur]]s
 - Best known early ornithischians include [[Lesothosaurus]] and [[Heterodontosaurus]]

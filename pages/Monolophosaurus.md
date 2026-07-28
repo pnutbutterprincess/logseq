@@ -1,0 +1,5 @@
+- 'single-crested lizard'
+- an extinct genus of [tetanuran](Tetanurae) [[theropod]] [[dinosaur]] from the [[Middle Jurassic]] [[Shishugou Formation]] in [[China]], discovered in 1981 and described as *Monolophosaurus jiangi* in [[1993]]
+- a mid-sized theropod about 5-5.5m (16-18ft) long
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Monolophosaurus_jiangi.jpg/500px-Monolophosaurus_jiangi.jpg" />
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Monolophosaurus_Scale.svg/500px-Monolophosaurus_Scale.svg.png" />

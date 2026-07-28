@@ -1,0 +1,3 @@
+- A [Ceratopsid](Ceratopsia) herbivore from the [[Cretaceous]] of North America
+- clade [[Marginocephalia]]n
+-

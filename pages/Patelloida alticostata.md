@@ -1,0 +1,2 @@
+- a species of sea snail in [[Patellogastropoda]] (true limpets) in the family [[Lottiidae]], first described in [[1865]]
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Patelloida_alticostata_003.jpg/500px-Patelloida_alticostata_003.jpg" />

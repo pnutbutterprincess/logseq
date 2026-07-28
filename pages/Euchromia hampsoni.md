@@ -1,0 +1,1 @@
+- a species of [[moth]] in the subfamily [[Arctiinae]] found in [[Ghana]] and [[Sierra Leone]]

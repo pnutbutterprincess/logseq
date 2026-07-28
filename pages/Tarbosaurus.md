@@ -1,0 +1,4 @@
+- 'alarming lizard'
+- a genus of large [[tyrannosaurid]] [[dinosaur]] that lived in [[Asia]] during the [[Maastrichtian]] age of the [[Late Cretaceous]]
+- species
+	- Tarbosaurus bataar

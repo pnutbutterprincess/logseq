@@ -1,0 +1,3 @@
+- a species of [[sea snail]] in the family [[Cystiscidae]], described in [[2011]] and known from the northern coast of South America
+- <img src="https://www.scielo.org.mx/img/revistas/rmbiodiv/v82n1/a7f1.jpg" />
+- [Revista Mexicana de Biodiversidad](https://doi.org/10.22201/ib.20078706e.2011.1.379)

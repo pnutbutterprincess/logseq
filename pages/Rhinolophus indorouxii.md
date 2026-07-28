@@ -1,0 +1,2 @@
+- a species of horse-shoe [[bat]] in the family [[Rhinolophidae]] found in Southern India
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Rhinolophus_indorouxii.jpg/500px-Rhinolophus_indorouxii.jpg" />

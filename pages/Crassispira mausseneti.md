@@ -1,0 +1,2 @@
+- an extinct species of [[sea snail]] in the family [[Pseudomelatomidae]] from the [[Eocene]] strata of the Paris Basin in [[France]]
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Crassispira_mausseneti_001.jpg/500px-Crassispira_mausseneti_001.jpg" />

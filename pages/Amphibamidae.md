@@ -1,0 +1,1 @@
+- an ancient family of [dissorophoid](Dissorophoidea) [temnospondyl](Temnospondyli)s known from the Late [[Carboniferous]] to [[Early Permian]] strata in the [[United States]]

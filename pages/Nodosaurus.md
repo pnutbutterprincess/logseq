@@ -1,0 +1,3 @@
+- a genus of herbivorous nodosaurid [[ankylosaur]]ian dinosaur from the [[Late Cretaceous]], found in the [[Frontier Formation]] in Wyoming, [[North America]]
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Nodosaurus_textilis.jpg/500px-Nodosaurus_textilis.jpg" />

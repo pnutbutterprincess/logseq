@@ -1,0 +1,2 @@
+- a superfamily of [[mite]]s in the order [[Trombidiformes]]
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Anystis.jpg/500px-Anystis.jpg" />

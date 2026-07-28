@@ -1,0 +1,1 @@
+- an American #seismologist who discovered [[ultra-low velocity zone]]s in [[1995]]

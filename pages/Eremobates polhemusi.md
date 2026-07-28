@@ -1,0 +1,3 @@
+- a species of [solifuge](Solifugae) in the family [[Eremobatidae]] endemic to Utah, [[North America]]
+- <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9amXKuM2uP-8sOZBbElNoYeWYXadz4pD6W0kTOIPZ7IF4suTOacXsAKrd4Zg7u1c26P49qzo9Row5miRN0ZHqygJWQoTPvjMifGpWdoKytpLr7tok7peRdjO2K_UhPXK-F_1pdv0gJbE/s320/solifugeNM1a.jpg" />
+  https://bugeric.blogspot.com/2015/11/new-mexico-dragonfly-blitz-day-1.html

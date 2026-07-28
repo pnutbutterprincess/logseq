@@ -1,0 +1,3 @@
+- a [[moth]] of the family [[Depressariidae]] found in most of Europe except most of the Balkan peninsula, as well as in North America
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Depressaria_daucella.jpg/500px-Depressaria_daucella.jpg" />

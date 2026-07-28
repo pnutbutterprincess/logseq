@@ -1,0 +1,9 @@
+- or *iron carbide*
+- a compound of [[iron]] and [[carbon]] - an intermediate transition metal [[carbide]]
+	- makeup: 6.67% carbon, 93.3% iron
+- formula: [Fe](iron)3[C](carbon)
+- molar mass: 179.546 g/mol
+- color: dark gray or black crystals, odorless
+- crystal structure: [[orthorhombic]]
+- present in most steels and cast irons, produced as a raw material in the iron carbide process
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Iron_carbide.jpg/500px-Iron_carbide.jpg" />

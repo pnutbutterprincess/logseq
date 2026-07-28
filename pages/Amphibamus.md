@@ -1,0 +1,3 @@
+- an extinct genus of [amphibamid](Amphibamidae) [temnospondyl](Temnospondyli) [amphibians](Amphibia) from the [[Carboniferous]] (middle [[Pennsylvanian]]) of [[North America]]
+- Considered to have been close to the ancestry of modern amphibians
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Amphibamus_BW.jpg/500px-Amphibamus_BW.jpg" />

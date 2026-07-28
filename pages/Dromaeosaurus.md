@@ -1,0 +1,7 @@
+- *'running lizard'*
+- a genus of [[dromaeosaurid]] [[theropod]] [[dinosaur]] from the [[Late Cretaceous]] in Alberta and the western United States
+- more heavily built than similar dromaeosaurids such as Velociraptor
+- species
+	- D. albertensis, described in [[1922]] by [[William D. Matthew]] and [[Barnum Brown]]
+- found in the [[Hell Creek Formation]], [[Horseshoe Canyon Formation]], and [[Dinosaur Park Formation]]
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Dromaeosaurus_in_Canadian_Museum_of_Nature.jpg/500px-Dromaeosaurus_in_Canadian_Museum_of_Nature.jpg" />

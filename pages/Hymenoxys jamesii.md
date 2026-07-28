@@ -1,0 +1,3 @@
+- *James's rubberweed*
+- a North American species of flowering [[plant]] in the [daisy](Asteraceae) family, found on the Mongollon Plateau of Arizona in the southwestern United States
+- <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/487877355/medium.jpg" />

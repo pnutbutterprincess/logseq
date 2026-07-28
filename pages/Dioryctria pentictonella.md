@@ -1,0 +1,2 @@
+- a species of [snout moth](Pyralidae) in the genus [[Dioryctria]], found in North America from British Columbia to California
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Dioryctria_pentictonella.jpg/500px-Dioryctria_pentictonella.jpg" />

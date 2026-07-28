@@ -1,0 +1,4 @@
+- a genus of [[ectoparasite]] [insects](Insecta) in the family [[Cimicidae]] that typically feed on the blood of birds and mammals.
+- C. lectularius & C. hemipterus are known as *bed bugs* and frequently feed on humans
+- species primarily parasitizing bats are known as *bat bugs*
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bed_bug%2C_Cimex_lectularius.jpg/500px-Bed_bug%2C_Cimex_lectularius.jpg" />
