@@ -1,0 +1,5 @@
+- a species of [[moth]] in the family [[Elachistidae]], found in [[Cameroon]]
+- wingspan is 6-6.6mm
+- seen in late April and early May
+- <img src="https://www.afromoths.net/media/images/F/faro_Urodeta_HT_RMCA.jpg" />
+- [New species of Elachistinae from Cameroon and the Democratic Republic of the Congo](https://www.afromoths.net/publication/3412)

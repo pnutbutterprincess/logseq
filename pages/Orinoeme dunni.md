@@ -1,0 +1,2 @@
+- a species of [beetle](Coleoptera) in the family [[Cerambycidae]], described from a specimen cited from New Guinea
+- no observations listed on inaturalist

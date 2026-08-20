@@ -1,0 +1,2 @@
+- a species of [beetle](Coleoptera) in the family [[Chrysomelidae]], found in Brazil, Colombia, and Peru
+- <img src="https://api.gbif.org/v1/image/cache/x800/occurrence/1319984546/media/82c649bd77fa0286fd9fd30690cef24b" />

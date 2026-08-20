@@ -1,0 +1,6 @@
+- a family of [[fern]] containing a single species, found in lowland rainforests from Borneo to New Guinea and nearby islands, as well as the Solomon Islands
+- previously identified as a small tree fern, phylogenetic studies placed *Cystodium sorbifolium* into its own family, a sister family to [[Lindsaeaceae]]
+- fossil species *Cystodium sorbifolioides* is known from [[Cenomanian]] age amber found in Myanmar
+- species
+	- Cystodium sorbifolium
+	- Cystodium sorbifolioides (extinct)

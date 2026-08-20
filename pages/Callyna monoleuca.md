@@ -1,0 +1,3 @@
+- a [[moth]] in the family [[Noctuidae]] found in Sri Lanka, India, China, Japan, Taiwan, Myanmar, Indonesia, New Guinea, and Australia
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Callyna_monoleuca_%28Noctuidae%2C_Amphipyrinae%29_%287222143090%29.jpg/500px-Callyna_monoleuca_%28Noctuidae%2C_Amphipyrinae%29_%287222143090%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />

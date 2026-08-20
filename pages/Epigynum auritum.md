@@ -1,0 +1,1 @@
+- a plant species in the genus [[Epigynum]] native to Yunnan Province in China, as well as India, Laos, Thailand, Myanmar, and the peninsular region of Malaysia

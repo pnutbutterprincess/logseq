@@ -1,0 +1,5 @@
+- also known as *scrub forest*
+- annual rainfall is between 65-75cm, with most rain falling in the winter
+- summers are dry, and many plants are dormant during the summer
+- vegetation is dominated by shrubs adapted to periodic fires
+- <img src="https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/4cb89c4e7c7bcdbcd3c2cf243f8f1b7d3268d450" />

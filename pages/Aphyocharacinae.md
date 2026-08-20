@@ -1,0 +1,2 @@
+- a subfamily of [characins](Characidae) known as glass characins, found primarily in South America
+- species in this subfamily have an [[apomorphy]] of having two dorsal fin rays attached to the first dorsal [[pterygiophore]]

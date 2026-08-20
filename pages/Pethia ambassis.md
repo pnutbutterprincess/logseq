@@ -1,0 +1,2 @@
+- a species of [ray-finned fish](Actinopterygii) in the genus [[Pethia]] from [[India]]
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Barbus_ambassis_Day_145.jpg/500px-Barbus_ambassis_Day_145.jpg" />

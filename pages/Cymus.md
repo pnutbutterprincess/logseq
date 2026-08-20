@@ -1,0 +1,2 @@
+- a genus of [true bugs](Hemiptera) in the family [[Cymidae]]
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Cymus_novaezelandiae_AMNZ21726_dorsal.jpg/500px-Cymus_novaezelandiae_AMNZ21726_dorsal.jpg" />

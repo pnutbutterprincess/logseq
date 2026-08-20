@@ -1,0 +1,2 @@
+- a golden-haired goddess in Norse #mythology associated with earth. She is married to the thunder god [[Thor]]
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sif_Was_Queen_of_the_Fields.jpg/500px-Sif_Was_Queen_of_the_Fields.jpg" />

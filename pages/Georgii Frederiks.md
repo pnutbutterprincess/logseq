@@ -1,0 +1,2 @@
+- (1889-1938) a Russian and Soviet #geologist who specialized in paleontology, tectonics, and stratigraphy
+-

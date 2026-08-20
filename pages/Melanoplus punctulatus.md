@@ -1,0 +1,7 @@
+- *pine tree spur-throat grasshopper* or *grizzly spur-throat grasshopper*
+- a species of [spur-throated grasshopper](Melanoplinae) in the family [[Acrididae]] found in North America
+- subspecies
+	- M. p. arboreus
+	- M. p. griseus
+	- M. p. punctulatus
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Melanoplus_punctulatus_P1010365a.jpg/500px-Melanoplus_punctulatus_P1010365a.jpg" />

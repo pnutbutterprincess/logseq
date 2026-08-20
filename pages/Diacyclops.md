@@ -1,0 +1,2 @@
+- a genus of [cyclopoid](Cyclopoida) [copepods](Copepoda) in the family [[Cyclopidae]], having more than 120 described species
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Cyclops_bicuspidatus_GLERL_1.jpg/500px-Cyclops_bicuspidatus_GLERL_1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />

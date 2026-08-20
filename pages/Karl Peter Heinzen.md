@@ -1,0 +1,4 @@
+- (22 Feb 1809 - 12 Nov 1880)
+- revolutionary author advocating violence against ruling dynasties
+- socialist writings beginning March [[1845]]
+- wrote German newspapers in the United States after 1847-48, criticizing German radicalism, denouncing slavery, and advocating for women's rights and suffrage

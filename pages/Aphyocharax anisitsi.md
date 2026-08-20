@@ -1,0 +1,4 @@
+- *Bloodfin tetra*
+- a species of freshwater [ray-finned fish](Actinopterygii) a [characin](Characiformes) in the family [[Characidae]], found in southern central [[South America]]
+- formally described in [[1903]] into the genus [[Aphyocharax]] in the subfamily of [glass characins](Aphyocharacinae)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Aphyocharax_anisitsi_2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" />

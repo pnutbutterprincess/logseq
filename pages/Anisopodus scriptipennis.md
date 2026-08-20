@@ -1,0 +1,2 @@
+- a species of [beetle](Coleoptera) in the family [[Cerambycidae]]
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Anisopodus_scriptipennis_148540913.jpg/500px-Anisopodus_scriptipennis_148540913.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />

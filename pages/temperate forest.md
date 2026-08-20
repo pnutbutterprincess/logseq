@@ -1,0 +1,5 @@
+- found throughout mid-latitude regions
+- temperatures range between -22-86F, providing defined growing seasons for plants
+- precipitation is relatively constant throughout the year, ranging between 75-150cm annually
+- deciduous trees are dominant in this biome, providing less diversity of tree species than [[tropical rainforest]] biomes
+- vegetation is more open than tropical wet forests because most trees do not grow as tall as in tropical forests and provide a thick layer of leaf litter, resulting in soil which is rich in inorganic and organic nutrients, protected from erosion, insulated from extreme temperatures, and provides habitat for invertebrates and their predators

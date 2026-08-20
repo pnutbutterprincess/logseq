@@ -1,0 +1,4 @@
+- a genus of [shrimp](Caridea) in the family [[Alpheidae]]
+- species
+	- B. anomalus
+	- B. chani

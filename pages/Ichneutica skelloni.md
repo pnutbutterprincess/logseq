@@ -1,0 +1,3 @@
+- a species of [[moth]] in the family [[Noctuidae]] endemic to [[New Zealand]]
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Graphania_beata_female.jpg/500px-Graphania_beata_female.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />

@@ -1,0 +1,4 @@
+- grassland with scattered trees
+- usually hot, tropical areas with temperatures ranging from 75-84F and annual rainfall of 10-40cm
+- extensive dry season
+- dominated by grasses and herbaceous flowering plants which evolved well-developed root systems to combat fire

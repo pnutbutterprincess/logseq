@@ -1,0 +1,6 @@
+- lies to the extreme north of the subarctic [[boreal forest]] and is located throughout Arctic regions
+- average winter temperature is -29.2F and the average summer temperature is from 37-52F, with an average growing season for plants of 10-12 weeks
+- growth is rapid during the growing season due to almost constant daylight
+- very low annual precipitation, with very little annual variation and little evaporation
+- plants are generally low the ground with little species diversity and low above-ground biomass
+- soils may remain in [[permafrost]], making it impossible for roots to penetrate deep and slowing the decay of organic matter and release of nutrients

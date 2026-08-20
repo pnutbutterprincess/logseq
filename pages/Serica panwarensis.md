@@ -1,0 +1,2 @@
+- a species of [beetle](Coleoptera) in the family [[Scarabaeidae]] found in [[Myanmar]]
+- <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Serica_panwarensis.jpg" />

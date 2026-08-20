@@ -1,0 +1,2 @@
+- a species of [ground beetle](Carabidae) in the subfamily [[Anthiinae]], described in [[1831]]
+- probably found in tropical regions of Africa

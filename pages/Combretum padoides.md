@@ -1,0 +1,3 @@
+- *thicket bushwillow*
+- a [bushwillow](Combretum) in the family [[Combretaceae]] from the lowlands of tropical and south-eastern Africa
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Combretum_padoides%2C_loof%2C_a.jpg/500px-Combretum_padoides%2C_loof%2C_a.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />

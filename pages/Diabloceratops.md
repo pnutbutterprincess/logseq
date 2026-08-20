@@ -1,0 +1,3 @@
+- an extinct genus of [centrosaurine](Centrosaurinae) [[Ceratopsia]]n [[dinosaur]] that lived during the [[Late Cretaceous]] in Utah, [[North America]]
+- medium-sized, moderately built quadrupedal herbivore
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Diabloceratops_skull.jpg/500px-Diabloceratops_skull.jpg" />

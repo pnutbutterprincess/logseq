@@ -1,0 +1,7 @@
+- 'swift thief'
+- a genus of small [[dromaeosaurid]] [[dinosaur]]s that lived in [[Asia]] during the [[Late Cretaceous]]
+- 1.5-2.07m (closer to the size of a turkey)
+- species
+	- V. mongoliensis
+	- V. osmolskae
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Velociraptor_skeleton_white_background.jpg/500px-Velociraptor_skeleton_white_background.jpg" />

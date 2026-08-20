@@ -1,0 +1,6 @@
+- also known as *prairies* in North America or *steppes* in Eurasia
+- pronounced annual fluctuations in temperature, with hot summers and cold winters producing specific growing seasons for plants
+- annual precipitation ranges from 25-75cm
+- there are few trees aside from those which grow along rivers or streams
+- dominant vegetation consists of dense grasses ideal for grazing animals
+- fires are a natural disturbance, and lack of fire converts grassland into scrub or dense forests with drought-tolerant tree species

@@ -1,0 +1,14 @@
+- a [[moth]] in the family [[Gelechiidae]] found in [[Uganda]]
+- description
+	- 16mm
+	- head glossy, pale brownish-ochreous
+	- palpi brownish-whitish
+	- thorax pale brownish-ochreous, spotted dark fuscous suffusion
+	- elongate forewings, pale ochreous irregularly suffused dark fuscous, sprinkled blackish
+		- a small spot on base of the costa, and very oblique pointed fasciate streak from costa near base to fold
+		- ill-defined subtriangular costal patch extending from about 1/4 to 2/3 and reaching half across wing
+		- irregular streak from dorsum before tornus along termen to apex, widest at apex
+		- cilia dark grey
+	- hindwings grey
+		- cilia light grey
+- [Biodiversity Library 1932 Publication](https://www.biodiversitylibrary.org/page/60387022)

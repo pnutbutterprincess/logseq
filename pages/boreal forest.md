@@ -1,0 +1,7 @@
+- also known as *taiga* or *coniferous forest*
+- found south of the Arctic Circle and at high latitudes across most of Canada, Alaska, Russia, and northern Europe
+- characterized by cold, dry winters and short, cool, wet summers
+- annual precipitation is between 40-100cm, usually as snow, with little evaporation due to the cold
+- predominantly vegetated by cold-tolerant coniferous plants such as pine, spruce, and fir
+- soils tend to be acidic with little available nitrogen
+- high biomass due to the slow-growing and long-lived tree species, lacking a layered forest structure and usually composed simply of ground and trees

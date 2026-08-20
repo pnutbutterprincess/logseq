@@ -1,0 +1,5 @@
+- an order of flowering [[plant]]s, formerly known as *Glumaceae,* including families such as [grasses](Poaceae), [bromeliads](Bromeliaceae), [rushes](Juncaceae), and [sedges](Cyperaceae)
+- flowers are typically small, enclosed by bracts, and arranged in [[inflorescence]] (in almost all cases)
+- these plants are typically wind-pollinated and the seeds usually contain starch
+- earliest known fossils date to the [[Late Cretaceous]], including pollen and fruits
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Zbo%C5%BCe.jpg/500px-Zbo%C5%BCe.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />

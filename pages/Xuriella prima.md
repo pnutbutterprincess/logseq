@@ -1,0 +1,3 @@
+- a species of [jumping spider](Salticidae) in the genus [[Xuriella]] described in [[2000]]
+- found in Tanzania, South Africa, and Zimbabwe
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Xuriella_prima_176587694.jpg/500px-Xuriella_prima_176587694.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />

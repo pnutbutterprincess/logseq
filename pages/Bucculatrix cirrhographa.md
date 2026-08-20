@@ -1,0 +1,1 @@
+- a [[moth]] in the family [[Bucculatricidae]] found in [[Ecuador]], first described in [[1915]]
