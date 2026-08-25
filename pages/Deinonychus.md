@@ -1,1 +1,4 @@
-- *terrible claw* from A
+- *terrible claw* from Ancient Greek δεινός ὄνυχος
+- a genus of [[dromaeosaurid]] [[theropod]] [[dinosaur]]
+- species
+	- D. antirrhopus
