@@ -1,0 +1,1 @@
+- a genus of shark-like [cartilaginous fish](Chondrichthyes) which lived in the early to middle [[Permian]]
