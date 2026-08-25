@@ -1,2 +1,2 @@
 - a subgroup of [[Oviraptosauria]]n dinosaurs from the [[Cretaceous]], known from [[North America]] and [[Asia]]
-- having specialized beaks, long necks,
+- having specialized beaks, long necks, and short tails
