@@ -1,1 +1,2 @@
 - a genus of [[ankylosauria]]n [[dinosaur]] from the [[Late Cretaceous]] [[Dinosaur Park Formation]] of [[Canada]]
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Panoplosaurus.jpg/500px-Panoplosaurus.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />
