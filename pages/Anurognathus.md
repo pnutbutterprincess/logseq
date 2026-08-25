@@ -1,2 +1,2 @@
 - *frog jaw*
-- a genus of small
+- a genus of small [pterosaur]
