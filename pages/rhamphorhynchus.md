@@ -1,3 +1,3 @@
 - *beak snout*
-- a genus of long-tailed [[pterosaur]] from the [[Jurassic]] of [[Germany]]
--
+- a genus of long-tailed [[Pterosauria]] from the [[Jurassic]] of [[Germany]]
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Rhamphorhynchus_munsteri.jpg/500px-Rhamphorhynchus_munsteri.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />

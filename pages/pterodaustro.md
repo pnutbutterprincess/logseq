@@ -1,1 +1,1 @@
-- a [[pterosaur]] with very long, very fine, and very numerous teeth, suggesting it may have been a filter feeder
+- a [[Pterosauria]] with very long, very fine, and very numerous teeth, suggesting it may have been a filter feeder

@@ -1,1 +1,1 @@
-- a [[pterodactyloid]] [[pterosaur]] having a very large crest which was larger than its body
+- a [[pterodactyloid]] [[Pterosauria]] having a very large crest which was larger than its body

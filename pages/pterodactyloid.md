@@ -1,2 +1,2 @@
-- an advanced group of [[pterosaur]]s, having short tails and being much larger than their predecessors, the [[rhamphorhynchoid]]s
+- an advanced group of [[Pterosauria]]s, having short tails and being much larger than their predecessors, the [[rhamphorhynchoid]]s
 -

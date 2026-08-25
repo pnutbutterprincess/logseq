@@ -1,1 +1,1 @@
-- a gigantic [[pterosaur]] from [[Texas]], having a wingspan around 10-11m (35ft)
+- a gigantic [[Pterosauria]] from [[Texas]], having a wingspan around 10-11m (35ft)

@@ -1,1 +1,1 @@
-- a [[pterosaur]] from the [[Cretaceous]] of [[Brazil]]
+- a [[Pterosauria]] from the [[Cretaceous]] of [[Brazil]]

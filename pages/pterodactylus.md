@@ -1,1 +1,1 @@
-- a sparrow-sized [[pterosaur]]
+- a sparrow-sized [[Pterosauria]]

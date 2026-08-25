@@ -1,1 +1,1 @@
-- Early [[pterosaur]]s, most having wingspans under 2m, and many had long tails
+- Early [[Pterosauria]]s, most having wingspans under 2m, and many had long tails

@@ -1,1 +1,1 @@
-- one of the earliest complete [[pterosaur]] fossils
+- one of the earliest complete [[Pterosauria]] fossils

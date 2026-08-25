@@ -1,2 +1,2 @@
-- a [[pterosaur]] which may have been a filter feeder
+- a [[Pterosauria]] which may have been a filter feeder
 -
