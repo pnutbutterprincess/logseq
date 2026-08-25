@@ -1,2 +1,4 @@
 - *drawn-out face* from Greek ἐρύειν ὤψ
-- an extinct genus of amphibious [temnospondyls](Temnospondyli) from the [[Early Permian]]
+- an extinct genus of amphibious [temnospondyls](Temnospondyli) from the [[Carboniferous]] and [[Permian]] of [[North America]]
+-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Eryops_AMNH.jpg/960px-Eryops_AMNH.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />
