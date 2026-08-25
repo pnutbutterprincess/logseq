@@ -3,6 +3,6 @@
 - Ornithiscians also have an additional bone in the lower jaw, called the [[predentary]]
 - Clades
 	- [[ornithopod]]s, large ornithischians such as [[hadrosaurid]]s and [[iguanodont]]s
-	- Armored dinosaurs form [[Thyreophora]], including [[stegosauria]] and [[ankylosauria]]
+	- Armored dinosaurs form [[Thyreophora]], including [[Stegosauria]] and [[ankylosauria]]
 	- [[Marginocephalia]], horned dinosaurs such as [[Ceratopsia]]ns and [[pachycephalosaur]]s
 - Best known early ornithischians include [[Lesothosaurus]] and [[Heterodontosaurus]]
