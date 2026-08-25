@@ -1,0 +1,2 @@
+- *fruita teeth* (fossils were first found in Fruita, Colorado, USA)
+- a genus of [[heterodont]]id [[dinosaur]]
