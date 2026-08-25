@@ -1,2 +1,3 @@
-- a [[pterosaur]] from the [[Jurassic]] of [[Germany]]
+- *beak snout*
+- a genus of long-tailed [[pterosaur]] from the [[Jurassic]] of [[Germany]]
 -
