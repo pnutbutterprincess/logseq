@@ -4,3 +4,4 @@
 	- P. trossingensis
 	- P. longiceps
 	- P. gracilis
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Plateosaurus_Skelett_2.jpg/960px-Plateosaurus_Skelett_2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />
