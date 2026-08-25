@@ -1,0 +1,3 @@
+- a genus of large [[ankylosaurid]] [[dinosaur]] from the [[Late Cretaceous]] of [[Canada]]
+-
+-
