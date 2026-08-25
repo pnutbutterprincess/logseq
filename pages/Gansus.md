@@ -1,3 +1,4 @@
 - an extinct genus of aquatic [avialans](Avialae) that lived during the [[Aptian]] age of the [[Early Cretaceous]] in western [[China]]
 - the oldest known member of the group [[Ornithurae]] containing all modern [bird](Aves)s and extinct related groups
--
+- Gansus was about the size of a pigeon and specimens preserve remains of flight feathers and webbing between the toes
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Gansus_NNHM.jpg/500px-Gansus_NNHM.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />
