@@ -1,1 +1,5 @@
-- a genus of [paravian](Paraves)
+- a genus of [paravian](Paraves) [[theropod]] [[dinosaur]]s from the middle to late [[Jurassic]] deposits in [[China]]
+-
+- species
+	- X. zhengi
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Xiaotingia_fossil.jpg/960px-Xiaotingia_fossil.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />
