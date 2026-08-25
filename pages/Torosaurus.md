@@ -1,2 +1,3 @@
 - *perforated lizard*
-- a genus of [chasmosaurine](Chasmosaurinae) [[ceratopsia]]n
+- a genus of [chasmosaurine](Chasmosaurinae) [[ceratopsia]]n [[dinosaur]] which lived during the [[Maastrichtian]] of the [[Late Cretaceous]]
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Tiny_the_Torosaurus.jpg/500px-Tiny_the_Torosaurus.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />
