@@ -1,4 +1,4 @@
 - *terrible claw* from Ancient Greek δεινός ὄνυχος
-- a genus of [[dromaeosaurid]] [[theropod]] [[dinosaur]]
+- a genus of [[dromaeosaurid]] [[theropod]] [[dinosaur]] which lived during the [[Cretaceous]] in [[North America]]
 - species
 	- D. antirrhopus
