@@ -1,0 +1,2 @@
+- *plate tooth* from Greek plakos odous
+-
