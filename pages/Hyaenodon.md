@@ -1,5 +1,5 @@
 - *hyena tooth*
 - an extinct genus of carnivorous [[mammal]] from the [[Oligocene]], living from the [[Middle Eocene]] to the [[Late Miocene]]
 - from the tribe [[Hyaenodontini]], from the subfamily [[Hyaenodontinae]] (family [[Hyaenodontidae]]), from the extinct order [[Hyaenodonta]]
--
+- lived in Eurasia and [[North America]] and thought to have evolved from [[Asia]]
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hyaenodon_%281%29.jpg/500px-Hyaenodon_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />
