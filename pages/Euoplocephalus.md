@@ -1,3 +1,5 @@
 - a genus of large [[ankylosaurid]] [[dinosaur]] from the [[Late Cretaceous]] of [[Canada]]
 -
--
+- species
+	- E. tutus
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Euoplocephalus_BW.jpg/500px-Euoplocephalus_BW.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />
