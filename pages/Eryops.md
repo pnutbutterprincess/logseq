@@ -1,0 +1,2 @@
+- *drawn-out face* from Greek ἐρύειν ὤψ
+- an extinct genus of amphibious
