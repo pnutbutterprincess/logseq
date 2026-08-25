@@ -1,3 +1,3 @@
 - *plate tooth* from Greek plakos odous
-- an extinct genus of [[marine reptile]] in the order [[placodont]], from the [[Middle Triassic]] and known from fossils in [[Europe]] and [[China]]
--
+- an extinct genus of [[marine reptile]] in the order [[Placodontia]], from the [[Middle Triassic]] and known from fossils in [[Europe]] and [[China]]
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Placodus_gigas_2.JPG/960px-Placodus_gigas_2.JPG?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />

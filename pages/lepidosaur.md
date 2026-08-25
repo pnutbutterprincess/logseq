@@ -2,6 +2,6 @@
 - [[Squamata]] contains [[lizard]]s and [[snake]]s, as well as the extinct [[mosasaur]]s of the late [[Cretaceous]].
 - [[Sphenodontia]] are close relatives of Squamata, branching in the [[Triassic]], and only the [[tuatara]] survives today.
 - [[Ichthyosauria]] includes the extinct fish-like marine reptiles
-- [[Sauropterygia]] contains the extinct [[placodont]]s and [[plesiosaur]]s
+- [[Sauropterygia]] contains the extinct [[Placodontia]]s and [[plesiosaur]]s
 -
 - [[turtle]]s are [[diapsid]]s and are thought to possibly be basal [[lepidosauromorph]]s
