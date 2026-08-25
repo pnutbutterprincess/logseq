@@ -1,0 +1,1 @@
+- a genus of [[ankylosauria]]n [[dinosaur]] from the [[Late Cretaceous]] [[Dinosaur Park Formation]] of [[Canada]]
