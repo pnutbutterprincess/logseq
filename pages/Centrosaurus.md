@@ -1,2 +1,5 @@
 - *pointed lizard*
 - a genus of [centrosaurine](Centrosaurinae) [[ceratopsia]]n [[dinosaur]] from the [[Campanian]] age of the [[Late Cretaceous]] of [[Canada]], found in the [[Dinosaur Park Formation]]
+- species
+	- C. apertus
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Centrosaurus.png/500px-Centrosaurus.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />
