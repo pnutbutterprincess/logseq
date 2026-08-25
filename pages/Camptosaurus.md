@@ -1,3 +1,3 @@
 - *flexible lizard* from Greek *kamptos sauros*
 - a genus of herbivorous [[Ornithiscia]]n [[dinosaur]] from the [[Late Jurassic]]
--
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Camptosaurus_dispar_skeleton.jpg/500px-Camptosaurus_dispar_skeleton.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />
