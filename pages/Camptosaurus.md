@@ -1,1 +1,3 @@
-- a genus of herbivorous
+- *flexible lizard* from Greek *kamptos sauros*
+- a genus of herbivorous [[Ornithiscia]]n [[dinosaur]] from the [[Late Jurassic]]
+-
