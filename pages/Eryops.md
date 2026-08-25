@@ -1,2 +1,2 @@
 - *drawn-out face* from Greek ἐρύειν ὤψ
-- an extinct genus of amphibious
+- an extinct genus of amphibious [temnospondyls](Temnospondyli) from the [[Early Permian]]
