@@ -1,1 +1,2 @@
-- geologic epoch spanning from 23.04 to 5.33 Ma named by
+- geologic epoch spanning from 23.04 to 5.33 Ma named by [[Charles Lyell]]
+- preceded by the
