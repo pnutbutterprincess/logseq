@@ -1,0 +1,6 @@
+- *trapdoor spider*
+- a species of [[spider]] in the family [[Euctenizidae]], described in [[2007]] and named after rock musician Neil Young
+- these spiders are widely distributed throughout Alabama, with one known locality from NW Florida
+- they do not construct webs, instead build underground
+- specialize in eating [[ant]]s
+- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Finaturalist-open-data.s3.amazonaws.com%2Fphotos%2F379196788%2Flarge.jpeg&f=1&nofb=1&ipt=e9ff684f36644db7bf3b4ea28db049c1631610aa9c91cc0ecb0c72b85f7f3a1e" />

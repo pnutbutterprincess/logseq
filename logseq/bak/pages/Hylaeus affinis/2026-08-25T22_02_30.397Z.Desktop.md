@@ -1,0 +1,2 @@
+- a species of [[hymenoptera]]n in the family [[Colletidae]], a member of [[bee]]s, found in [[North America]]
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hylaeus_affinis_Female.jpg/250px-Hylaeus_affinis_Female.jpg" />
