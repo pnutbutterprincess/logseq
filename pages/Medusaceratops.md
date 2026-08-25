@@ -1,4 +1,4 @@
 - an extinct genus of [centrosaurine](Centrosaurinae) [[ceratopsia]]n [[dinosaur]] known from the [[Late Cretaceous]] [[Judith River Formation]]
 - species
 	- M. lokii
--
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Medusaceratops_side.jpg/500px-Medusaceratops_side.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />
