@@ -1,1 +1,2 @@
-- an extinct genus of [terror bird](Phorusrhacidae)
+- an extinct genus of [terror bird](Phorusrhacidae) from the [[miocene]] of [[Argentina]]
+-
