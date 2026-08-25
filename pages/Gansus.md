@@ -1,1 +1,2 @@
-- an extinct genus of aquatic [avialans](Avialae)
+- an extinct genus of aquatic [avialans](Avialae) that lived during the [[Aptian]] age of the [[Early Cretaceous]] in western [[China]]
+- the oldest known member of the g
