@@ -1,2 +1,4 @@
 - an extinct genus of [terror bird](Phorusrhacidae) from the [[miocene]] of [[Argentina]]
--
+- genus name honors a spirit in [[Tehuelche]] #mythology
+- species
+	- K. guillermoi ([[2007]])
