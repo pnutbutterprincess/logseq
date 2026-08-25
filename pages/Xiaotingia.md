@@ -1,4 +1,4 @@
-- a genus of [paravian](Paraves) [[theropod]] [[dinosaur]]s from the middle to late [[Jurassic]] deposits in [[China]]
+- a genus of [paravian](Paraves) [[theropod]] [[dinosaur]]s in the [[Anchiornithidae]] family known from middle to late [[Jurassic]] deposits in [[China]]
 -
 - species
 	- X. zhengi
