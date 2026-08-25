@@ -1,1 +1,1 @@
-- geologic epoch
+- geologic epoch spanning from 23.04 to 5.33 Ma named by
