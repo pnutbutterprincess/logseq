@@ -1,1 +1,1 @@
-- (Jan 26, 1884 - Mar 11, 1960) an American explorer, adventurer, and naturalist, who led expeditions and became the
+- (Jan 26, 1884 - Mar 11, 1960) an American explorer, adventurer, and naturalist, who led expeditions and became the director of the [[American Museum of Natural History]], bringing the first fossil dinosaur eggs into the museum
