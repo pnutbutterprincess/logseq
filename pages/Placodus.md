@@ -1,2 +1,3 @@
 - *plate tooth* from Greek plakos odous
+- an extinct genus of [[marine reptile]] in the order [[placodont]], from the [[Middle Triassic]] and known from fossils in [[Europe]] and [[China]]
 -
