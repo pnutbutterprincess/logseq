@@ -1,1 +1,1 @@
-- Large 10m long herbivorous dinosaur from the [[Late Triassic]] of [[Germany]]
+- Large 10m long herbivorous [[sauropodomorph]] [[dinosaur]] from the [[Late Triassic]] of [[Germany]]
