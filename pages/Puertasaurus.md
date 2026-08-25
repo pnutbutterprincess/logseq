@@ -1,3 +1,5 @@
 - a genus of [[sauropod]] [titanosaur](Titanosauria) [[dinosaur]] from the [[Late Cretaceous]] of [[South America]]
 - known from a single specimen consisting of four vertebrae
+- species
+	- P. reuili
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Puertasaurus_Skeletal_V2.svg/500px-Puertasaurus_Skeletal_V2.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />
