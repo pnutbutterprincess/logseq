@@ -1,2 +1,3 @@
 - *frog jaw*
-- a genus of small [pterosaur]
+- a genus of small [pterosaur](Pterosauria) from the [[Late Jurassic]] [[Altmühltal Formation]] of [[Germany]]. First described in [[1923]]
+-
