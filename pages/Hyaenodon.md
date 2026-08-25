@@ -1,0 +1,2 @@
+- *hyena tooth*
+- an extinct genus of carnivorous [[mammal]] from the [[Oligocene]], living from the
