@@ -1,0 +1,1 @@
+- (Jan 26, 1884 - Mar 11, 1960) an American explorer, adventurer, and naturalist, who led expeditions and became the
