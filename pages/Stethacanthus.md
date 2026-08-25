@@ -1,1 +1,1 @@
-- an extinct genus of shark-like [[Chondrichthyes]]
+- an extinct genus of shark-like [[Chondrichthyes]] which lived from the late [[Devonian]] to the late [[Carboniferous]], with fossils found
