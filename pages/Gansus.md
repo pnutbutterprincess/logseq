@@ -1,2 +1,3 @@
 - an extinct genus of aquatic [avialans](Avialae) that lived during the [[Aptian]] age of the [[Early Cretaceous]] in western [[China]]
-- the oldest known member of the g
+- the oldest known member of the group [[Ornithurae]] containing all modern [bird](Aves)s and extinct related groups
+-
