@@ -1,2 +1,3 @@
 - *fruita teeth* (fossils were first found in Fruita, Colorado, USA)
-- a genus of [[heterodont]]id [[dinosaur]]
+- a genus of [[heterodont]]id [[dinosaur]], known from partial skulls and skeletons from [[Tithonian]] age [[Late Jurassic]] rocks in the [[Morrison Formation]]
+- smallest known [[ornithiscia]]n,
