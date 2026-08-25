@@ -1,1 +1,4 @@
-- an extinct genus of [centrosaurine]
+- an extinct genus of [centrosaurine](Centrosaurinae) [[ceratopsia]]n [[dinosaur]] known from the [[Late Cretaceous]] [[Judith River Formation]]
+- species
+	- M. lokii
+-
