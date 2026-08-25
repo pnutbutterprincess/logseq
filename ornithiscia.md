@@ -1,4 +1,5 @@
 - Ornithiscian dinosaurs are one of two major groups of dinosaurs, and are identified by their hip-bones, which have a pubis that points backwards alongside the ilium, and may have a small forward lobe
+  title:: Ornithiscia
 - Ornithiscians also have an additional bone in the lower jaw, called the [[predentary]]
 - Clades
 	- [[ornithopod]]s, large ornithischians such as [[hadrosaurid]]s and [[iguanodont]]s

@@ -1,2 +1,2 @@
-- An [[ornithiscia]]n from the [[Late Jurassic]] of [[Russia]], preserved with exceptional feather structures
+- An [[Ornithiscia]]n from the [[Late Jurassic]] of [[Russia]], preserved with exceptional feather structures
 -
