@@ -1,0 +1,2 @@
+- *perforated lizard*
+- a genus of [chasmosaurine](Chasmosaurinae) [[ceratopsia]]n
