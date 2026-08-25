@@ -1,1 +1,1 @@
-- geologic
+- geologic epoch
