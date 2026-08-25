@@ -3,7 +3,7 @@
 	- [[pliocene]] epoch (7.246 ± 0.005 to 3.6 ± 0.005 Ma)
 		- [[Piacenzian]] age (3.6 ± 0.005 Ma)
 		- [[Zanclean]] age (5.332 ± 0.005 Ma)
-	- [[miocene]] epoch (23.03 Ma to 7.246 ± 0.005 Ma)
+	- [[Miocene]] epoch (23.03 Ma to 7.246 ± 0.005 Ma)
 		- [[Messinian]] age (7.246 ± 0.005 Ma)
 		- [[Tortonian]] age (11.608 ± 0.005 Ma)
 		- [[Serravallian]] age (13.82 Ma)

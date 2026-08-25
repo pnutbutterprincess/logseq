@@ -1,5 +1,5 @@
 - *Asiatic linsang*
-- a genus of linsang (tree-dwelling carnivorous [[mammal]] ) native to Southeast Asia, originating from the mid [[miocene]]
+- a genus of linsang (tree-dwelling carnivorous [[mammal]] ) native to Southeast Asia, originating from the mid [[Miocene]]
 	- banded linsang (P. linsang)
 	- spotted linsang (P. pardicolor)
 	- P. hualongensis (extinct), described from fossils in [[China]] in [[2025]]
