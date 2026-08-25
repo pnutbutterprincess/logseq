@@ -1,2 +1,2 @@
-- named for
+- named for Anzû, a bird-like demon in ancient Mesopotamian #mythology
 - a genus of [caenagnathid](Caenagnathidae) [[dinosaur]] from the [[Maastrichtian]] age of the [[Late Cretaceous]] [[Hell Creek Formation]] of [[North America]]
