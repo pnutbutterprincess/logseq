@@ -1,3 +1,5 @@
 - *frog jaw*
 - a genus of small [pterosaur](Pterosauria) from the [[Late Jurassic]] [[Altmühltal Formation]] of [[Germany]]. First described in [[1923]]
--
+- species
+	- A. ammoni
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Anurognathus_ammoni_juvenile.jpg/500px-Anurognathus_ammoni_juvenile.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />
