@@ -1,4 +1,4 @@
 - from Ancient Greek *stēthos ákanthos* "chest thorn"
-- an extinct genus of shark-like [[Chondrichthyes]]  which lived from the late [[Devonian]] to the late [[Carboniferous]], with fossils found in Australia, Europe, Asia, and North America, and is best known for its unique-shaped dorsal fin
+- an extinct genus of shark-like [[Chondrichthyes]] in the family [[Stethacanthidae]] which lived from the late [[Devonian]] to the late [[Carboniferous]], with fossils found in Australia, Europe, Asia, and North America, and is best known for its unique-shaped dorsal fin
 -
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/StethacanthusesDB_2.jpg/500px-StethacanthusesDB_2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />
