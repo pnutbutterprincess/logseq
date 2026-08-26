@@ -1,0 +1,2 @@
+- a species of [skeleton shrimp](Caprellidae) in the genus [[Caprella]]
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Caprella_mendax_2.jpg/500px-Caprella_mendax_2.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />

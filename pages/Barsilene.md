@@ -1,0 +1,7 @@
+- a genus of [erebid](Erebidae) [[moth]]s, first described in [[2019]], found from northeastern India through Indochina to Sundaland
+- description
+	- yellow or orange color and black pattern
+	- ciliate antennae
+- species
+	- B. melaninflexa
+	- B. pallinflexa

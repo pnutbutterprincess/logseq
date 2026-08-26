@@ -1,0 +1,4 @@
+- a genus of [flashlight fish](Anomalopidae) known from the [[Pacific Ocean]] around the Cook Islands and off of eastern Taiwan
+- species
+	- P. mccoskeri (Taiwanese flashlightfish)
+	- P. rosenblatti (Cook Islands flashlightfish)

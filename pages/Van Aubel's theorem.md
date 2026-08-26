@@ -1,0 +1,3 @@
+- a #mathematics theorem in plane [[geometry]] describing the relationship between squares drawn on the sides of a quadrilateral
+- given a convex quadrilateral and constructing squares on each side, two line segments drawn between the centers of opposite squares are of equal length and at right angles to each other
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Van-Aubel-theorem_combined.svg/500px-Van-Aubel-theorem_combined.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />

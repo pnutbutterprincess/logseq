@@ -1,0 +1,2 @@
+- a species of [snout moth](Pyralidae) in the genus [[Epicrocis]] found in [[South Africa]]
+- described in [[1994]] - no observations (iNaturalist)

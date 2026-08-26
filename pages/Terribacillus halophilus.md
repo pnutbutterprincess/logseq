@@ -1,0 +1,2 @@
+- a species of Gram-positive aerobic non-motile [[bacterium]] from the genus [[Terribacillus]], found isolated from field soil in [[Japan]]
+- [International Journal of Systematic and Evolutionary Microbiology (vol 57, iss 1, 2007)](https://doi.org/10.1099/ijs.0.64340-0)

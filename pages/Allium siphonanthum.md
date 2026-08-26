@@ -1,0 +1,8 @@
+- 管花韭 (guan hua jiu)
+- a species of [[plant]] endemic to Yunnan province of southern [[China]]
+- description
+	- has bulbs up to 15mm
+	- scape is up to 60cm tall and round
+	- leaves are long and very narrow, about the same length as the scape, but only 3mm across, dropping under their own weight
+	- umbel is spherical, with a dense clusters of many reddish-purple flowers
+-

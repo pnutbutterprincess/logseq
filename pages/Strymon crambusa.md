@@ -1,0 +1,2 @@
+- a species of [butterfly](Papilionoidea) of the family [[Lycaenidae]] found in [[Brazil]] and [[Bolivia]]
+- <img src="https://inaturalist-open-data.s3.amazonaws.com/photos/51157442/medium.jpeg" />

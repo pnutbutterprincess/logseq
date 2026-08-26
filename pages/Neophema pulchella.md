@@ -1,0 +1,7 @@
+- *turquoise parrot*
+- a species of [parrot](Psittaciformes) in the genus [[Neophema]] native to eastern [[Australia]]
+- habitat & biology
+	- grasslands and open woodlands
+	- mainly eats grass and seeds, sometimes eats flowers, fruits, and insects
+	- nests in tree hollows
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Neophema_pulchella_male_-_Glen_Davis.jpg/500px-Neophema_pulchella_male_-_Glen_Davis.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />

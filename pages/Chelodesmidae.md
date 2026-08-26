@@ -1,0 +1,2 @@
+- a [millipede](Diplopoda) family of order [[Polydesmida]] including 219 genera
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Eucampesmella_tricuspis_%28Attems%2C_1931%29%2C_Bahia%2C_Brazil_%285642703417%29_%28cropped%29.jpg/500px-Eucampesmella_tricuspis_%28Attems%2C_1931%29%2C_Bahia%2C_Brazil_%285642703417%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />
