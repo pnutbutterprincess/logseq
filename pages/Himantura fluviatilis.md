@@ -1,0 +1,3 @@
+- *Ganges whip ray*
+- a species of [stingray](Myliobatiformes) in the family [[Dasyatidae]], endemic to the Ganges River system in India and Bangladesh. The ray is #vulnerable as it is susceptible to overfishing and habitat degradation.
+- <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Trygon_fluviatilis_by_annandale.jpg/500px-Trygon_fluviatilis_by_annandale.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />

@@ -1,0 +1,6 @@
+- a species of [[lizard]] in the family [[Lacertidae]] endemic to the [[South Caucasus]] region of [[Eurasia]], e.g. Armenia, Azerbaijan, and Georgia
+- inhabits rocky areas and shrubland
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Darevskia_portschinskii_.jpg/500px-Darevskia_portschinskii_.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />
+- subspecies
+	- D. portschinskii nigrita
+	- D. portschinskii portschinskii

@@ -1,0 +1,4 @@
+- *Shield Bearers*
+- Armored dinosaurs such as [[ankylosauria]]ns and [[stegosauria]]ns
+- Bipedal ancestry seen most clearly in the [[stegosaur]]s during the [[Jurassic]]
+-

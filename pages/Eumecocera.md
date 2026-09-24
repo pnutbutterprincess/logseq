@@ -1,4 +1,4 @@
-- a genus of longhorn [[beetle]] in the subfamily [[Lamiinae]]
+- a genus of [longhorn beetle](Cerambycidae) in the subfamily [[Lamiinae]]
 - species
 	- E. anomala
 	- E. argyrosticta

@@ -1,0 +1,5 @@
+- from Latin *condyle* and *stoma* - rounded end and body opening
+- a genus of unicellular ciliate [[protist]] in the class [[Heterotrichea]]
+- mostly marine, but some are found in freshwater lakes around the globe
+- large cells with a buccal groove that is about one-third of their total length, covered in cilia
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/FMIB_40855_Condylostoma_patens.jpeg/500px-FMIB_40855_Condylostoma_patens.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />

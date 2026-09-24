@@ -1,0 +1,3 @@
+- a species of [[sea snail]] in the family [[Pyramidellidae]], found in the Atlantic Ocean off West Africa
+- white shell with an elongate-conic shape
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Turbonilla_melvilli_001.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" />

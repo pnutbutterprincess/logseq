@@ -1,0 +1,2 @@
+- a species of [ulidiid](Ulidiidae) or picture-winged [[fly]] in the tribe [[Cephaliini]], found in the United States
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Picture-winged_Fly_-_Myrmecothea_myrmecoides%2C_Meadowwood_Farm_SRMA%2C_Mason_Neck%2C_Virginia.jpg/500px-Picture-winged_Fly_-_Myrmecothea_myrmecoides%2C_Meadowwood_Farm_SRMA%2C_Mason_Neck%2C_Virginia.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />

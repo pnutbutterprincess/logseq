@@ -1,0 +1,4 @@
+- common name *auwahi melicope*
+- a rare species of flowering [plant](Plantae) in the [citrus family](Rutaceae) endemic to [[Hawaii]] on the island of Maui
+- listed as #critically-endangered by loss and degradation of its habitat on the slopes of the volcano [[Haleakalaa]] - a single plant on state-owned property exists where it is protected and producing fruit
+- <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Starr_040731-0054_Melicope_adscendens.jpg/500px-Starr_040731-0054_Melicope_adscendens.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />

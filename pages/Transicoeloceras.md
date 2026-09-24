@@ -1,0 +1,2 @@
+- considered a possible synonym of [[Catacoeloceras]]
+- a genus of [ammonite](Ammonoidea) that lived during the [[Toarcian]] stage of the [[Early Jurassic]], with fossils found in Hungary, Italy, France, southern Spain, and South America

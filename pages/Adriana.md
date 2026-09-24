@@ -1,0 +1,6 @@
+- a genus of [shrubs](plant) in the family [[Euphorbiaceae]], first described in [[1825]], with all species endemic to [[Australia]]
+- species
+	- *A. quadripartita*
+	- *A. tomentosa*
+	- *A. urticoides*
+- <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/PB060007_Adriana_tomentosa_-_female_flowers.jpg/500px-PB060007_Adriana_tomentosa_-_female_flowers.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />

@@ -1,0 +1,4 @@
+- a species of [[sea snail]], a holoplanktonic marine gastropod [mollusk](Mollusca) in the family [[Atlantidae]]
+- shell length is up to 2 mm
+- earliest fossil specimens are known from the [[Pliocene]] of the Philippines
+- <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Protatlanta_souleyeti_2.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" />

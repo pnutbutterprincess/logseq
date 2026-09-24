@@ -1,0 +1,2 @@
+- A feathered dinosaur from the [[Cretaceous]] of [[China]], which had feathers on its arms as well as down feathers and longer tail feathers
+- The feathers are shorter towards the ends and longer towards the elbow

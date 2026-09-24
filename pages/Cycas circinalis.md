@@ -1,0 +1,3 @@
+- *queen sago*
+- a species of [cycad](Cycadophyta) from southern India and is #endangered
+- <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Cycas_circinalis_at_Kudayathoor.jpg/500px-Cycas_circinalis_at_Kudayathoor.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />

@@ -1,0 +1,2 @@
+- a species of [bamboo](Phyllostachys) found in the Anhui and Zhejiang provinces of [[China]]
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Phyllostachys_tianmuensis_-_Wangjianglou_Park_-_Chengdu%2C_China_-_DSC05931.jpg/500px-Phyllostachys_tianmuensis_-_Wangjianglou_Park_-_Chengdu%2C_China_-_DSC05931.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />

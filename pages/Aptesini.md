@@ -1,0 +1,3 @@
+- a tribe of [ichneumon wasps](Ichneumonidae) in the subfamily [[Cryptinae]], containing 24 genera
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ichneumon_Wasp_-_Polytribax_pallescens%2C_Meadowood_Farm_SRMA%2C_Mason_Neck%2C_Virginia.jpg/500px-Ichneumon_Wasp_-_Polytribax_pallescens%2C_Meadowood_Farm_SRMA%2C_Mason_Neck%2C_Virginia.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />
+  *Polytribax pallescens*

@@ -1,0 +1,5 @@
+- a genus of [[fungi]] in the family [[Marasmaceae]]
+- species
+	- A. macrospora
+	- A. podocarpicola
+	- A. subpeltata

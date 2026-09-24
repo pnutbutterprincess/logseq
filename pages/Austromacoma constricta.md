@@ -1,0 +1,2 @@
+- a species of [bivalve](Bivalvia) in the family [[Tellinidae]], found in both North and South America
+-

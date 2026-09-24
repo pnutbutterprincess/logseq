@@ -1,0 +1,8 @@
+- in Greek #mythology
+	- Electra (Oceanid) - one of the Oceanids, wife of Thaumas and mother of Iris and the Harpies
+	- Electra (Pleiad) - one of the Pleiades
+	- Electra (Danaids) - daughter of Danaus, king of Libya, and the naiad Polyxo
+		- married and later killed Peristhenes or Hyperantus
+	- Electra - daughter of Agamemnon and Clytemnestra
+	- Electra - handmaiden of Helen, fastened her mistress' sandals when she went to the walls of Troy
+	- Electra - sister or mother of Cadmus (uncertain), namesake of the Electran gate at Thebes

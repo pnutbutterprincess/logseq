@@ -1,0 +1,2 @@
+- An extinct genus of [[Teratornis]] from the late [[miocene]] of [[Argentina]]
+- One of the largest known birds, having a wingspan of 7.5m (24 ft)

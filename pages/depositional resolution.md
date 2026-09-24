@@ -1,0 +1,1 @@
+- the age span of objects contained within a stratum, general grains or fossils

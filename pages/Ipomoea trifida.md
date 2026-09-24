@@ -1,0 +1,5 @@
+- *threefork morning glory*
+- a species of flowering [[plant]] in the family [[Convolvulaceae]] native to the Caribbean, Mexico, and South America
+- the closest living relative to *I. batatas,* the common sweet potato
+- the roots are thin and inedible, and the flowers tend to be purple
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ipomoea_trifida_3.jpg/500px-Ipomoea_trifida_3.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />

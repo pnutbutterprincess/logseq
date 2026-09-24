@@ -1,0 +1,2 @@
+- a species of [[moth]] in the family [[Noctuidae]], found through Siberia, Mongolia, and the Ural and Paektu Mountains
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Panchrysia_ornata.jpg/500px-Panchrysia_ornata.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />

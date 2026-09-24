@@ -1,0 +1,5 @@
+- *Bogota robber frog*
+- a species of [frog](Anura) in the family [[Strabomantidae]], endemic to [[Colombia]]
+- habitat
+	- tropical, moist, montane forests and high-altitude grassland, but can adapt to pastureland with shrubs
+- <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Pristimantis_bogotensis01.jpeg/500px-Pristimantis_bogotensis01.jpeg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />

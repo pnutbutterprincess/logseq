@@ -1,0 +1,2 @@
+- a species of [[moth]] in the family [[Crambidae]], found in [[Australia]]
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sameodes_iolealis_dorsal.jpg/500px-Sameodes_iolealis_dorsal.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />

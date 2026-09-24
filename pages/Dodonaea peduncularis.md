@@ -1,0 +1,3 @@
+- a species of [[plant]] in the family [[Sapindaceae]] endemic to eastern [[Australia]]
+- a spreading [[dioecious]] shrub with simple [[sessile]] egg-shaped to lance-shaped leaves, flowers arranged singly or in [[cyme]]s, usually having four [[sepal]]s and eight [[stamen]]s, and [[capsule]]s with four wings
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Dodonaea_peduncularis.jpg/500px-Dodonaea_peduncularis.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />

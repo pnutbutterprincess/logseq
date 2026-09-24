@@ -1,0 +1,18 @@
+- a genus of [[moth]]s in the family [[Gelechiidae]]
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Stegasta_bosqueella_adult.jpg/500px-Stegasta_bosqueella_adult.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />
+- species
+	- S. abdita
+	- S. allactis
+	- S. biniveipunctata
+	- S. bosqueella
+	- S. capitella
+	- S. comissata
+	- S. cosmodes
+	- S. francisci
+	- S. jejuensis
+	- S. postpallescens
+	- S. sattleri
+	- S. scoteropis
+	- S. tenebricosa
+	- S. variana
+	- S. zygotoma

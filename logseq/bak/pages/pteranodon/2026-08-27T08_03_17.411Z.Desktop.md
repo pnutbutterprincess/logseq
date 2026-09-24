@@ -1,0 +1,1 @@
+- a [[pterosaur]] from the [[Cretaceous]] of [[North America]], having a wingspan of about 7m (22ft)

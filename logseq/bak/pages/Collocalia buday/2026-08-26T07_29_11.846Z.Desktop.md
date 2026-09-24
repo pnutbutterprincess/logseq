@@ -1,0 +1,2 @@
+- an extinct species of large swiftlet ([[bird]]) from the late [[Oligocene]] to early [[miocene]] of [[Australia]], described in [[2001]] by [[Walter Boles]]
+- fossil material found in the Boodjamulla National Park of north-western Queensland

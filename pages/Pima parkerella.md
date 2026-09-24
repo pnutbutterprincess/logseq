@@ -1,0 +1,2 @@
+- a species of [snout](Pyralidae) [[moth]] found in [[North America]]
+- <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Pima_parkerella.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" />

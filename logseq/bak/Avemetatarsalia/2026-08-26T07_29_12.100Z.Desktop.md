@@ -1,0 +1,3 @@
+- clade of [[archosauria]] containing [[pterosaur]]s, [[dinosaur]]s, and the dinosaur subgroup of [[bird]]s.
+- Earliest clade was discovered in [[2017]], [[aphanosauria]], quadrupeds typified by [[Teleocrater]], and are all [[Middle Triassic]] in age.
+-

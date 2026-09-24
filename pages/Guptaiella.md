@@ -1,0 +1,3 @@
+- a genus of [[hymenoptera]]n [insects](Insecta) in the family [[Eulophidae]]
+- species
+	- Guptaiella indica

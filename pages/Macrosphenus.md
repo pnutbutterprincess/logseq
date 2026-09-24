@@ -1,0 +1,8 @@
+- a genus of [African warblers](Macrosphenidae), one of two genera in that family known as *longbills*
+- species
+	- M. flavicans (yellow longbill)
+	- M. kempi (kemp's longbill)
+	- M. concolor (grey longbill)
+	- M. pulitzeri (pulitzer's longbill)
+	- M. kretschmeri (kretschmer's longbill)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/AmaurocichlaKempiKeulemans.jpg/500px-AmaurocichlaKempiKeulemans.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />

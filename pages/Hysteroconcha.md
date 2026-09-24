@@ -1,0 +1,8 @@
+- a genus of saltwater [venus clam](Veneridae), a [mollusc](Mollusca)
+- species
+	- *H. brevispinosa*
+	- *H. dione*
+	- *H. lupanaria*
+	- *H. multispinosa*
+	- *H. rosea*
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Hysteroconcha_dione.jpg/500px-Hysteroconcha_dione.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />

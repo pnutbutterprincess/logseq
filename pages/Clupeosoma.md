@@ -1,0 +1,16 @@
+- a genus of [[moth]] in the family [[Crambidae]]
+- species
+	- *C. astrigalis*
+	- *C. atristriata*
+	- *C. cicatricale*
+	- *C. cinerea*
+	- *C. glaucinalis*
+	- *C. laniferalis*
+	- *C. margarisemale*
+	- *C. metachryson*
+	- *C. microthyrale*
+	- *C. orientalalis*
+	- *C. pellucidalis*
+	- *C. rufistriata*
+	- *C. sericialis*
+- <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/A37-20130806-089_%289718787477%29.jpg/500px-A37-20130806-089_%289718787477%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />

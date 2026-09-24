@@ -1,0 +1,3 @@
+- *bigfin reef squid, tiger squid, glitter squid, oval squid,* or *northern calamari*
+- a species complex in the [[Loliginidae]] family of [[squid]]
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Calamar_de_arrecifes_%28Sepioteuthis_lessoniana%29%2C_Nosy_Iranja%2C_Madagascar%2C_2025-09-17%2C_DD_134.jpg/500px-Calamar_de_arrecifes_%28Sepioteuthis_lessoniana%29%2C_Nosy_Iranja%2C_Madagascar%2C_2025-09-17%2C_DD_134.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" />

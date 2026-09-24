@@ -1,0 +1,1 @@
+- an extinct species of tropical land [[snail]] with gills and an operculum in the family [[Neocyclotidae]], which was endemic to [[Martinique]]
